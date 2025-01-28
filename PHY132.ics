@@ -1,4 +1,7 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VCALENDAR
+
+VERSION:2.0
+
+PRODID:icalendar-ruby
+
 END:VCALENDAR
