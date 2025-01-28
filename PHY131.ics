@@ -1,4 +1,3 @@
-
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:icalendar-ruby
@@ -15,7 +14,7 @@ DESCRIPTION:
 SEQUENCE:0
 SUMMARY:Quiz Assignment 1 [2025SpringC-X-PHY131-24394]
 URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21290
-1&month=01&year=2025#assignment_6019737
+ 1&month=01&year=2025#assignment_6019737
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +26,7 @@ DESCRIPTION:
 SEQUENCE:0
 SUMMARY:Quiz Assignment 2 [2025SpringC-X-PHY131-24394]
 URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21290
-1&month=01&year=2025#assignment_6037330
+ 1&month=01&year=2025#assignment_6037330
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 END:VCALENDAR
