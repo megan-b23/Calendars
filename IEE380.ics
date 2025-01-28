@@ -1,791 +1,543 @@
+
 BEGIN:VCALENDAR
-
 VERSION:2.0
-
 PRODID:icalendar-ruby
-
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IEE380 Calendar
+X-WR-CALDESC:Calendar events for the user\, Megan Brown
 BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 12\, Sections 12.1 - 12.3\, and 12.5</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250425
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000900Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 12\, Sections 12.1 - 12.3\, and 12.5
-
-SUMMARY:Homework 21 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904920
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904920
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 15\, Sections 15.1 - 15.3</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250502
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T001000Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 15\, Sections 15.1 - 15.3
-
-SUMMARY:Homework 22 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904921
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904921
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\, Sections 3.1 and 3.2</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250131
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235300Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.1 and 3.2
-
-SUMMARY:Homework 3 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904922
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904922
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\, Sections 3.3 and 3.4</li>\n<li>Review problems from Chapter 2\, Sections 2.5\, 2.7\, and 2.9</li>\n<li>Review problems from Chapter 3\, Section 3.1</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250204
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235400Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.3 and 3.4\n\n* Review problems from Chapter 2\, Sections 2.5\, 2.7\, and 2.9\n\n* Review problems from Chapter 3\, Section 3.1
-
-SUMMARY:Homework 4 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904923
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904923
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 3\, Sections 3.1 and 3.4</li>\n<li>Review problems from Chapter 2\, Sections 2.4 and 2.8</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250207
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235400Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems from Chapter 3\, Sections 3.1 and 3.4\n\n* Review problems from Chapter 2\, Sections 2.4 and 2.8
-
-SUMMARY:Homework 5 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904924
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904924
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\, Sections 4.1 and 4.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.3</li>\n<li>Review problems from Chapter 2\, Section 2.7</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250211
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235500Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.1 and 4.2\n\n* Review problems from Chapter 3\, Sections 3.2 and 3.3\n\n* Review problems from Chapter 2\, Section 2.7
-
-SUMMARY:Homework 6 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904925
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904925
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\, Sections 4.3 and 4.4</li>\n<li>Review problems from Chapter 2\, Sections 2.3 and 2.8</li>\n<li>Review problems from Chapter 3\, Sections 3.3 and 3.4</li>\n<li>Review problems from Chapter 4\, Section 4.1</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250214
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235600Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.3 and 4.4\n\n* Review problems from Chapter 2\, Sections 2.3 and 2.8\n\n* Review problems from Chapter 3\, Sections 3.3 and 3.4\n\n* Review problems from Chapter 4\, Section 4.1
-
-SUMMARY:Homework 7 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904926
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904926
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\, Sections 4.5 and 4.7</li>\n<li>Review problems from Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 4\, Section 4.2</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250216
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235600Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.5 and 4.7\n\n* Review problems from Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems from Chapter 4\, Section 4.2
-
-SUMMARY:Homework 8 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904927
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904927
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 6\, Sections 6.1 and 6.3</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250228
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235700Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 6\, Sections 6.1 and 6.3
-
-SUMMARY:Homework 9 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904928
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904928
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Use this homework assignment to practice for the quiz.&nbsp\; The result of this homework assignment does not count towards your final grade in the class\, nor does it affect whether or not you successfully complete the Honors Contract.&nbsp\;&nbsp\;</p>
-
-DTSTART;VALUE=DATE:20250425
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T154500Z
-
-DESCRIPTION:Use this homework assignment to practice for the quiz.  The result of this homework assignment does not count towards your final grade in the class\, nor does it affect whether or not you successfully complete the Honors Contract.  
-
-SUMMARY:Honors Practice Homework [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904929
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904929
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\, Section 8.3</li>\n<li>Review problems from Chapter 2\, Section 2.3</li>\n<li>Review problems from Chapter 3\, Section 3.3</li>\n<li>Review problems from Chapter 7\, Section 4.2</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250318
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000100Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 8\, Section 8.3\n\n* Review problems from Chapter 2\, Section 2.3\n\n* Review problems from Chapter 3\, Section 3.3\n\n* Review problems from Chapter 7\, Section 4.2
-
-SUMMARY:Homework 12 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904910
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904910
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\, Section 8.4</li>\n<li>Chapter 9\, Section 9.1</li>\n<li>Review problems from Chapter 3\, Section 3.8</li>\n<li>Review problems from Chapter 4\, Section 4.2</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250321
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000100Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 8\, Section 8.4\n\n* Chapter 9\, Section 9.1\n\n* Review problems from Chapter 3\, Section 3.8\n\n* Review problems from Chapter 4\, Section 4.2
-
-SUMMARY:Homework 13 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904911
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904911
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\, Sections 9.2 and 9.3</li>\n<li>Review problems from Chapter 8\, Sections 8.1 and 8.2</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250325
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000200Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2 and 9.3\n\n* Review problems from Chapter 8\, Sections 8.1 and 8.2
-
-SUMMARY:Homework 14 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904912
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904912
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\, Sections 9.2\, 9.4\, and 9.5</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250328
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000200Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2\, 9.4\, and 9.5
-
-SUMMARY:Homework 15 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904913
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904913
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Section 10.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.3</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250401
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000300Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.2\n\n* Review problems from Chapter 3\, Sections 3.2 and 3.3
-
-SUMMARY:Homework 16 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904914
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904914
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Section 10.4</li>\n<li>Review problems from Chapter 2\, Section 2.8</li>\n<li>Review problems from Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 4\, Sections 4.4 and 4.7</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250404
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000600Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.4\n\n* Review problems from Chapter 2\, Section 2.8\n\n* Review problems from Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems from Chapter 4\, Sections 4.4 and 4.7
-
-SUMMARY:Homework 17 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904915
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904915
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Sections 10.1 and 10.5</li>\n</ul>
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000700Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.1 and 10.5
-
-DTEND:20250406T065800Z
-
-DTSTART:20250406T065800Z
-
-SUMMARY:Homework 18 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904916
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904916
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Sections 10.6 and 10.7</li>\n<li>Chapter 11\, Sections 11.1\, 11.2\, and 11.5</li>\n<li>Review problems from Chapter 7\, Section 7.2</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250418
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000800Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.6 and 10.7\n\n* Chapter 11\, Sections 11.1\, 11.2\, and 11.5\n\n* Review problems from Chapter 7\, Section 7.2
-
-SUMMARY:Homework 19 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904917
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904917
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250427
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T011100Z
-
-SUMMARY:Quiz 8 - Linear Regression - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904897
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904897
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 11\, Sections 11.2\, 11.7\, and 11.8</li>\n<li>Review problems from Chapter 2\, Section 2.8</li>\n<li>Review problems from Chapter 4\, Section 4.4</li>\n<li>Review problems from Chapter 10\, Section 10.4</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250422
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000800Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 11\, Sections 11.2\, 11.7\, and 11.8\n\n* Review problems from Chapter 2\, Section 2.8\n\n* Review problems from Chapter 4\, Section 4.4\n\n* Review problems from Chapter 10\, Section 10.4
-
-SUMMARY:Homework 20 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904919
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904919
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250330
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T002300Z
-
-SUMMARY:Quiz 6 - Tests of Hypothesis for a Single Sample - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904898
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904898
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 2\, Sections 2.5 - 2.9</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250128
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T235200Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 2\, Sections 2.5 - 2.9
-
-SUMMARY:Homework 2 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904918
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904918
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the section on Probability.</p>\n<p>You will have 30 minutes to complete this quiz. &nbsp\;</p>\n<p>This quiz is open book and open note.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>\n<p>&nbsp\;</p>
-
-DTSTART;VALUE=DATE:20250126
-
-CLASS:PUBLIC
-
-DTSTAMP:20250125T000000Z
-
-DESCRIPTION:This quiz covers the lectures and readings pertaining to the section on Probability.\n\nYou will have 30 minutes to complete this quiz.  \n\nThis quiz is open book and open note. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. \n\n 
-
-SUMMARY:Quiz 1 - Probability\; Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904899
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904899
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250323
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T002200Z
-
-SUMMARY:Quiz 5 - Statistical Intervals for a Single Sample - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904900
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904900
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250209
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T001500Z
-
-SUMMARY:Quiz 2 - Discrete Random Variables and Probability Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904901
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904901
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250504
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T011300Z
-
-SUMMARY:Honors Quiz - Requires Respondus LockDown Browser + Webcam [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904902
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904902
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250309
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T001800Z
-
-SUMMARY:Quiz 4 - Descriptive Statistics\, Methods of Point Estimation\, and Sampling Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904903
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904903
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250216
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T001700Z
-
-SUMMARY:Quiz 3 - Continuous Random Variables and Probability Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904904
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904904
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-DTSTART;VALUE=DATE:20250406
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T011000Z
-
-SUMMARY:Quiz 7 - Statistical Inference for Two Samples - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904905
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904905
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-CLASS:PUBLIC
-
-DTSTAMP:20250103T154500Z
-
-DTEND:20250506T232000Z
-
-DTSTART:20250506T232000Z
-
-SUMMARY:Final Exam [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904906
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904906
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Academic integrity</li>\n<li>Math review</li>\n<li>Chapter 1</li>\n<li>Chapter 2\, Sections 2.1 - 2.4</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250124
-
-CLASS:PUBLIC
-
 DTSTAMP:20250103T234600Z
-
-DESCRIPTION:Material covered:\n\n* Academic integrity\n\n* Math review\n\n* Chapter 1\n\n* Chapter 2\, Sections 2.1 - 2.4
-
-SUMMARY:Homework 1 [2025SpringC-T-IEE380-32367]
-
 UID:event-assignment-5904907
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904907
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 7\, Sections 7.1 and 7.2</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250304
-
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
 CLASS:PUBLIC
-
-DTSTAMP:20250103T235800Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 7\, Sections 7.1 and 7.2
-
-SUMMARY:Homework 10 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904908
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904908
-
-END:VEVENT
-
-BEGIN:VEVENT
-
+DESCRIPTION:Material covered:\n\n* Academic integrity\n\n* Math review\n\n*
+Chapter 1\n\n* Chapter 2\, Sections 2.1 - 2.4
 SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\, Sections 8.1 and 8.2</li>\n<li>Review problems from Chapter 2\, Section 2.7</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.4</li>\n<li>Review problems from Chapter 4\, Section 4.4</li>\n</ul>
-
-DTSTART;VALUE=DATE:20250307
-
-CLASS:PUBLIC
-
-DTSTAMP:20250104T000000Z
-
-DESCRIPTION:Material covered:\n\n* Chapter 8\, Sections 8.1 and 8.2\n\n* Review problems from Chapter 2\, Section 2.7\n\n* Review problems from Chapter 3\, Sections 3.2 and 3.4\n\n* Review problems from Chapter 4\, Section 4.4
-
-SUMMARY:Homework 11 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904909
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904909
-
+SUMMARY:Homework 1 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=01&year=2025#assignment_5904907
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Academic i
+ntegrity</li>\n<li>Math review</li>\n<li>Chapter 1</li>\n<li>Chapter 2\, S
+ections 2.1 - 2.4</li>\n</ul>
 END:VEVENT
-
 BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>See Honors module for project description.</p>
-
-DTSTART;VALUE=DATE:20250502
-
+DTSTAMP:20250125T000000Z
+UID:event-assignment-5904899
+DTSTART;VALUE=DATE;VALUE=DATE:20250126
 CLASS:PUBLIC
-
-DTSTAMP:20250103T154500Z
-
-DESCRIPTION:See Honors module for project description.
-
-SUMMARY:Honors Project [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904930
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904930
-
+DESCRIPTION:This quiz covers the lectures and readings pertaining to the se
+ction on Probability.\n\nYou will have 30 minutes to complete this quiz.
+ \n\nThis quiz is open book and open note. \n\nYou are expected to compl
+ete this quiz individually\, so collaboration with a fellow classmate is s
+trictly forbidden. \n\n�
+SEQUENCE:0
+SUMMARY:Quiz 1 - Probability\; Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=01&year=2025#assignment_5904899
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings
+pertaining to the section on Probability.</p>\n<p>You will have 30 minutes
+to complete this quiz. &nbsp\;</p>\n<p>This quiz is open book and open no
+te.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, s
+o collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>\
+n<p>&nbsp\;</p>
 END:VEVENT
-
 BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>The first in-class midterm&nbsp\;</p>
-
-DTSTART;VALUE=DATE:20250219
-
+DTSTAMP:20250103T235200Z
+UID:event-assignment-5904918
+DTSTART;VALUE=DATE;VALUE=DATE:20250128
 CLASS:PUBLIC
-
+DESCRIPTION:Material covered:\n\n* Chapter 2\, Sections 2.5 - 2.9
+SEQUENCE:0
+SUMMARY:Homework 2 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=01&year=2025#assignment_5904918
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 2\
+, Sections 2.5 - 2.9</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235300Z
+UID:event-assignment-5904922
+DTSTART;VALUE=DATE;VALUE=DATE:20250131
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.1 and 3.2
+SEQUENCE:0
+SUMMARY:Homework 3 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=01&year=2025#assignment_5904922
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\
+, Sections 3.1 and 3.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235400Z
+UID:event-assignment-5904923
+DTSTART;VALUE=DATE;VALUE=DATE:20250204
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.3 and 3.4\n\n* Re
+view problems from Chapter 2\, Sections 2.5\, 2.7\, and 2.9\n\n* Review pr
+oblems from Chapter 3\, Section 3.1
+SEQUENCE:0
+SUMMARY:Homework 4 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904923
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\
+, Sections 3.3 and 3.4</li>\n<li>Review problems from Chapter 2\, Sections
+2.5\, 2.7\, and 2.9</li>\n<li>Review problems from Chapter 3\, Section 3.
+1</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235400Z
+UID:event-assignment-5904924
+DTSTART;VALUE=DATE;VALUE=DATE:20250207
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.5 and 3.8\n\n* Re
+view problems from Chapter 3\, Sections 3.1 and 3.4\n\n* Review problems f
+rom Chapter 2\, Sections 2.4 and 2.8
+SEQUENCE:0
+SUMMARY:Homework 5 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904924
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\
+, Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 3\, Sections
+3.1 and 3.4</li>\n<li>Review problems from Chapter 2\, Sections 2.4 and 2
+.8</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001500Z
+UID:event-assignment-5904901
+DTSTART;VALUE=DATE;VALUE=DATE:20250209
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 2 - Discrete Random Variables and Probability Distributions -Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904901
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235500Z
+UID:event-assignment-5904925
+DTSTART;VALUE=DATE;VALUE=DATE:20250211
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.1 and 4.2\n\n* Re
+view problems from Chapter 3\, Sections 3.2 and 3.3\n\n* Review problems f
+rom Chapter 2\, Section 2.7
+SEQUENCE:0
+SUMMARY:Homework 6 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904925
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\
+, Sections 4.1 and 4.2</li>\n<li>Review problems from Chapter 3\, Sections
+3.2 and 3.3</li>\n<li>Review problems from Chapter 2\, Section 2.7</li>\n
+</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235600Z
+UID:event-assignment-5904926
+DTSTART;VALUE=DATE;VALUE=DATE:20250214
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.3 and 4.4\n\n* Re
+view problems from Chapter 2\, Sections 2.3 and 2.8\n\n* Review problems f
+rom Chapter 3\, Sections 3.3 and 3.4\n\n* Review problems from Chapter 4\,
+Section 4.1
+SEQUENCE:0
+SUMMARY:Homework 7 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904926
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\
+, Sections 4.3 and 4.4</li>\n<li>Review problems from Chapter 2\, Sections
+2.3 and 2.8</li>\n<li>Review problems from Chapter 3\, Sections 3.3 and 3
+.4</li>\n<li>Review problems from Chapter 4\, Section 4.1</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001700Z
+UID:event-assignment-5904904
+DTSTART;VALUE=DATE;VALUE=DATE:20250216
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 3 - Continuous Random Variables and Probability Distributions- Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904904
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235600Z
+UID:event-assignment-5904927
+DTSTART;VALUE=DATE;VALUE=DATE:20250216
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.5 and 4.7\n\n* Re
+view problems from Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems f
+rom Chapter 4\, Section 4.2
+SEQUENCE:0
+SUMMARY:Homework 8 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904927
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\
+, Sections 4.5 and 4.7</li>\n<li>Review problems from Chapter 3\, Sections
+3.5 and 3.8</li>\n<li>Review problems from Chapter 4\, Section 4.2</li>\n
+</ul>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250104T001200Z
-
-DESCRIPTION:The first in-class midterm 
-
-SUMMARY:Midterm Exam 1 [2025SpringC-T-IEE380-32367]
-
 UID:event-assignment-5904931
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904931
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Grade book place holder for the midterm exam.</p>
-
-DTSTART;VALUE=DATE:20250409
-
+DTSTART;VALUE=DATE;VALUE=DATE:20250219
 CLASS:PUBLIC
-
+DESCRIPTION:The first in-class midterm�
+SEQUENCE:0
+SUMMARY:Midterm Exam 1 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904931
+X-ALT-DESC;FMTTYPE=text/html:<p>The first in-class midterm&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235700Z
+UID:event-assignment-5904928
+DTSTART;VALUE=DATE;VALUE=DATE:20250228
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 6\, Sections 6.1 and 6.3
+SEQUENCE:0
+SUMMARY:Homework 9 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=02&year=2025#assignment_5904928
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 6\
+, Sections 6.1 and 6.3</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235800Z
+UID:event-assignment-5904908
+DTSTART;VALUE=DATE;VALUE=DATE:20250304
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 7\, Sections 7.1 and 7.2
+SEQUENCE:0
+SUMMARY:Homework 10 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904908
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 7\
+, Sections 7.1 and 7.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000000Z
+UID:event-assignment-5904909
+DTSTART;VALUE=DATE;VALUE=DATE:20250307
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 8\, Sections 8.1 and 8.2\n\n* Re
+view problems from Chapter 2\, Section 2.7\n\n* Review problems from Chapt
+er 3\, Sections 3.2 and 3.4\n\n* Review problems from Chapter 4\, Section
+4.4
+SEQUENCE:0
+SUMMARY:Homework 11 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904909
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\
+, Sections 8.1 and 8.2</li>\n<li>Review problems from Chapter 2\, Section
+2.7</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.4</li>\n
+<li>Review problems from Chapter 4\, Section 4.4</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001800Z
+UID:event-assignment-5904903
+DTSTART;VALUE=DATE;VALUE=DATE:20250309
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 4 - Descriptive Statistics\, Methods of Point Estimation\, andSampling Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904903
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000100Z
+UID:event-assignment-5904910
+DTSTART;VALUE=DATE;VALUE=DATE:20250318
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 8\, Section 8.3\n\n* Review prob
+lems from Chapter 2\, Section 2.3\n\n* Review problems from Chapter 3\, Se
+ction 3.3\n\n* Review problems from Chapter 7\, Section 4.2
+SEQUENCE:0
+SUMMARY:Homework 12 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904910
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\
+, Section 8.3</li>\n<li>Review problems from Chapter 2\, Section 2.3</li>\
+n<li>Review problems from Chapter 3\, Section 3.3</li>\n<li>Review problem
+s from Chapter 7\, Section 4.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000100Z
+UID:event-assignment-5904911
+DTSTART;VALUE=DATE;VALUE=DATE:20250321
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 8\, Section 8.4\n\n* Chapter 9\,
+Section 9.1\n\n* Review problems from Chapter 3\, Section 3.8\n\n* Review
+problems from Chapter 4\, Section 4.2
+SEQUENCE:0
+SUMMARY:Homework 13 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904911
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\
+, Section 8.4</li>\n<li>Chapter 9\, Section 9.1</li>\n<li>Review problems
+from Chapter 3\, Section 3.8</li>\n<li>Review problems from Chapter 4\, Se
+ction 4.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T002200Z
+UID:event-assignment-5904900
+DTSTART;VALUE=DATE;VALUE=DATE:20250323
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 5 - Statistical Intervals for a Single Sample - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904900
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000200Z
+UID:event-assignment-5904912
+DTSTART;VALUE=DATE;VALUE=DATE:20250325
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2 and 9.3\n\n* Re
+view problems from Chapter 8\, Sections 8.1 and 8.2
+SEQUENCE:0
+SUMMARY:Homework 14 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904912
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\
+, Sections 9.2 and 9.3</li>\n<li>Review problems from Chapter 8\, Sections
+8.1 and 8.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000200Z
+UID:event-assignment-5904913
+DTSTART;VALUE=DATE;VALUE=DATE:20250328
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2\, 9.4\, and 9.5
+SEQUENCE:0
+SUMMARY:Homework 15 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904913
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\
+, Sections 9.2\, 9.4\, and 9.5</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T002300Z
+UID:event-assignment-5904898
+DTSTART;VALUE=DATE;VALUE=DATE:20250330
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 6 - Tests of Hypothesis for a Single Sample - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=03&year=2025#assignment_5904898
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000300Z
+UID:event-assignment-5904914
+DTSTART;VALUE=DATE;VALUE=DATE:20250401
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.2\n\n* Review pr
+oblems from Chapter 3\, Sections 3.2 and 3.3
+SEQUENCE:0
+SUMMARY:Homework 16 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904914
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+\, Section 10.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 an
+d 3.3</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000600Z
+UID:event-assignment-5904915
+DTSTART;VALUE=DATE;VALUE=DATE:20250404
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.4\n\n* Review pr
+oblems from Chapter 2\, Section 2.8\n\n* Review problems from Chapter 3\,
+Sections 3.5 and 3.8\n\n* Review problems from Chapter 4\, Sections 4.4 an
+d 4.7
+SEQUENCE:0
+SUMMARY:Homework 17 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904915
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+\, Section 10.4</li>\n<li>Review problems from Chapter 2\, Section 2.8</li
+>\n<li>Review problems from Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Rev
+iew problems from Chapter 4\, Sections 4.4 and 4.7</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000700Z
+UID:event-assignment-5904916
+DTSTART:20250406T065800Z
+DTEND:20250406T065800Z
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.1 and 10.5
+SEQUENCE:0
+SUMMARY:Homework 18 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904916
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+\, Sections 10.1 and 10.5</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T011000Z
+UID:event-assignment-5904905
+DTSTART;VALUE=DATE;VALUE=DATE:20250406
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 7 - Statistical Inference for Two Samples - Requires RespondusLockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904905
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250104T001100Z
-
-DESCRIPTION:Grade book place holder for the midterm exam.
-
-SUMMARY:Midterm Exam 2 [2025SpringC-T-IEE380-32367]
-
 UID:event-assignment-5904932
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904932
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your project here.&nbsp\; It is set to take up to 2 submissions.&nbsp\; The most recent submission will be the one graded.&nbsp\; Late submissions will&nbsp\; be penalized as noted in the project instructions below.&nbsp\; The actual due date for no penalty is 4/25/2025 11:59PM.</p>\n<p><strong>You must upload a Word doc (.doc or .docx)\, or pdf.</strong></p>\n<p>For a description of the project requirements\, refer to the project definition.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-
+DTSTART;VALUE=DATE;VALUE=DATE:20250409
 CLASS:PUBLIC
-
-DTSTAMP:20250116T070000Z
-
-DESCRIPTION:Submit your project here.  It is set to take up to 2 submissions.  The most recent submission will be the one graded.  Late submissions will  be penalized as noted in the project instructions below.  The actual due date for no penalty is 4/25/2025 11:59PM.\n\nYou must upload a Word doc (.doc or .docx)\, or pdf.\n\nFor a description of the project requirements\, refer to the project definition.\n\n \n\n \n\n \n\n \n\n 
-
-DTEND:20250426T170100Z
-
-DTSTART:20250426T170100Z
-
-SUMMARY:Semester Project Submission DUE 4/25  late on 4/26 [2025SpringC-T-IEE380-32367]
-
-UID:event-assignment-5904933
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904933
-
+DESCRIPTION:Grade book place holder for the midterm exam.
+SEQUENCE:0
+SUMMARY:Midterm Exam 2 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904932
+X-ALT-DESC;FMTTYPE=text/html:<p>Grade book place holder for the midterm exa
+m.</p>
 END:VEVENT
-
+BEGIN:VEVENT
+DTSTAMP:20250104T000800Z
+UID:event-assignment-5904917
+DTSTART;VALUE=DATE;VALUE=DATE:20250418
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.6 and 10.7\n\n*
+Chapter 11\, Sections 11.1\, 11.2\, and 11.5\n\n* Review problems from Ch
+apter 7\, Section 7.2
+SEQUENCE:0
+SUMMARY:Homework 19 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904917
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+\, Sections 10.6 and 10.7</li>\n<li>Chapter 11\, Sections 11.1\, 11.2\, an
+d 11.5</li>\n<li>Review problems from Chapter 7\, Section 7.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000800Z
+UID:event-assignment-5904919
+DTSTART;VALUE=DATE;VALUE=DATE:20250422
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 11\, Sections 11.2\, 11.7\, and
+11.8\n\n* Review problems from Chapter 2\, Section 2.8\n\n* Review problem
+s from Chapter 4\, Section 4.4\n\n* Review problems from Chapter 10\, Sect
+ion 10.4
+SEQUENCE:0
+SUMMARY:Homework 20 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904919
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 11
+\, Sections 11.2\, 11.7\, and 11.8</li>\n<li>Review problems from Chapter
+2\, Section 2.8</li>\n<li>Review problems from Chapter 4\, Section 4.4</li
+>\n<li>Review problems from Chapter 10\, Section 10.4</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T154500Z
+UID:event-assignment-5904929
+DTSTART;VALUE=DATE;VALUE=DATE:20250425
+CLASS:PUBLIC
+DESCRIPTION:Use this homework assignment to practice for the quiz.  The re
+sult of this homework assignment does not count towards your final grade i
+n the class\, nor does it affect whether or not you successfully complete
+the Honors Contract. �
+SEQUENCE:0
+SUMMARY:Honors Practice Homework [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904929
+X-ALT-DESC;FMTTYPE=text/html:<p>Use this homework assignment to practice fo
+r the quiz.&nbsp\; The result of this homework assignment does not count t
+owards your final grade in the class\, nor does it affect whether or not y
+ou successfully complete the Honors Contract.&nbsp\;&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000900Z
+UID:event-assignment-5904920
+DTSTART;VALUE=DATE;VALUE=DATE:20250425
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 12\, Sections 12.1 - 12.3\, and
+12.5
+SEQUENCE:0
+SUMMARY:Homework 21 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904920
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 12
+\, Sections 12.1 - 12.3\, and 12.5</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250116T070000Z
+UID:event-assignment-5904933
+DTSTART:20250426T170100Z
+DTEND:20250426T170100Z
+CLASS:PUBLIC
+DESCRIPTION:Submit your project here.  It is set to take up to 2 submissio
+ns.  The most recent submission will be the one graded.  Late submission
+s will  be penalized as noted in the project instructions below.  The ac
+tual due date for no penalty is 4/25/2025 11:59PM.\n\nYou must upload a Wo
+rd doc (.doc or .docx)\, or pdf.\n\nFor a description of the project requi
+rements\, refer to the project definition.\n\n \n\n \n\n \n\n \n\n�
+SEQUENCE:0
+SUMMARY:Semester Project Submission DUE 4/25  late on 4/26 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904933
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your project here.&nbsp\; It is set
+to take up to 2 submissions.&nbsp\; The most recent submission will be the
+one graded.&nbsp\; Late submissions will&nbsp\; be penalized as noted in
+the project instructions below.&nbsp\; The actual due date for no penalty
+is 4/25/2025 11:59PM.</p>\n<p><strong>You must upload a Word doc (.doc or
+.docx)\, or pdf.</strong></p>\n<p>For a description of the project require
+ments\, refer to the project definition.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</
+p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T011100Z
+UID:event-assignment-5904897
+DTSTART;VALUE=DATE;VALUE=DATE:20250427
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 8 - Linear Regression - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=04&year=2025#assignment_5904897
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T154500Z
+UID:event-assignment-5904930
+DTSTART;VALUE=DATE;VALUE=DATE:20250502
+CLASS:PUBLIC
+DESCRIPTION:See Honors module for project description.
+SEQUENCE:0
+SUMMARY:Honors Project [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=05&year=2025#assignment_5904930
+X-ALT-DESC;FMTTYPE=text/html:<p>See Honors module for project description.<
+/p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001000Z
+UID:event-assignment-5904921
+DTSTART;VALUE=DATE;VALUE=DATE:20250502
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 15\, Sections 15.1 - 15.3
+SEQUENCE:0
+SUMMARY:Homework 22 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=05&year=2025#assignment_5904921
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 15
+\, Sections 15.1 - 15.3</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T011300Z
+UID:event-assignment-5904902
+DTSTART;VALUE=DATE;VALUE=DATE:20250504
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Honors Quiz - Requires Respondus LockDown Browser + Webcam [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=05&year=2025#assignment_5904902
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T154500Z
+UID:event-assignment-5904906
+DTSTART:20250506T232000Z
+DTEND:20250506T232000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Exam [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+8&month=05&year=2025#assignment_5904906
+END:VEVENT
 END:VCALENDAR

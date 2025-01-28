@@ -1,47 +1,33 @@
+
 BEGIN:VCALENDAR
-
 VERSION:2.0
-
 PRODID:icalendar-ruby
-
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PHY131 Calendar
+X-WR-CALDESC:Calendar events for the user\, Megan Brown
 BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:
-
-DTSTART;VALUE=DATE:20250128
-
-CLASS:PUBLIC
-
-DTSTAMP:20250121T195500Z
-
-SUMMARY:Quiz Assignment 2 [2025SpringC-X-PHY131-24394]
-
-UID:event-assignment-6037330
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=01&year=2025#assignment_6037330
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:
-
-DTSTART;VALUE=DATE:20250121
-
-CLASS:PUBLIC
-
 DTSTAMP:20250114T193700Z
-
-SUMMARY:Quiz Assignment 1 [2025SpringC-X-PHY131-24394]
-
 UID:event-assignment-6019737
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=01&year=2025#assignment_6019737
-
+DTSTART;VALUE=DATE;VALUE=DATE:20250121
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz Assignment 1 [2025SpringC-X-PHY131-24394]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21290
+1&month=01&year=2025#assignment_6019737
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
-
+BEGIN:VEVENT
+DTSTAMP:20250121T195500Z
+UID:event-assignment-6037330
+DTSTART;VALUE=DATE;VALUE=DATE:20250128
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz Assignment 2 [2025SpringC-X-PHY131-24394]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21290
+1&month=01&year=2025#assignment_6037330
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
 END:VCALENDAR

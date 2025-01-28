@@ -1,91 +1,73 @@
+
 BEGIN:VCALENDAR
-
 VERSION:2.0
-
 PRODID:icalendar-ruby
-
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CSE355 Calendar
+X-WR-CALDESC:Calendar events for the user\, Megan Brown
 BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:
-
-DTSTART;VALUE=DATE:20250131
-
-CLASS:PUBLIC
-
-DTSTAMP:20250127T061000Z
-
-SUMMARY:Recitation 2 [2025SpringC-T-CSE355-32753-15895]
-
-UID:event-assignment-5994772
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=01&year=2025#assignment_5994772
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="CSE355_SP25_hw1.pdf" href="https://canvas.asu.edu/courses/215273/files/101409657?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/215273/files/101409657" data-api-returntype="File">CSE355_SP25_hw1.pdf</a></p>\n<p>&nbsp\;</p>\n<p>Make sure to include your collaboration statement!</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-
-DTSTART;VALUE=DATE:20250205
-
-CLASS:PUBLIC
-
-DTSTAMP:20250123T090300Z
-
-DESCRIPTION:[CSE355_SP25_hw1.pdf] (https://canvas.asu.edu/courses/215273/files/101409657?wrap=1)\n\n \n\nMake sure to include your collaboration statement!\n\n \n\n \n\n 
-
-SUMMARY:Assignment 1 (DFA & NFA) [2025SpringC-T-CSE355-32753-15895]
-
-UID:event-assignment-5994753
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=02&year=2025#assignment_5994753
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:
-
-DTSTART;VALUE=DATE:20250124
-
-CLASS:PUBLIC
-
-DTSTAMP:20250120T184200Z
-
-SUMMARY:Recitation 1 [2025SpringC-T-CSE355-32753-15895]
-
-UID:event-assignment-5994765
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=01&year=2025#assignment_5994765
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-SEQUENCE:0
-
-X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 1</p>\n<p>It is a&nbsp\;<em><span style="color: #e03e2d\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
-
-DTSTART;VALUE=DATE:20250124
-
-CLASS:PUBLIC
-
 DTSTAMP:20250123T000000Z
-
-DESCRIPTION:Quiz 1\n\nIt is a clear violation of Academic Integrity if you are:\n\n* sharing questions/answers of this quiz before its due date\,\n\n* solving quiz questions together\,\n\n* or having someone else take this quiz for you.\n\nGood luck!
-
-SUMMARY:Quiz 1 - DFAs [2025SpringC-T-CSE355-32753-15895]
-
 UID:event-assignment-5994736
-
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=01&year=2025#assignment_5994736
-
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+DESCRIPTION:Quiz 1\n\nIt is a clear violation of Academic Integrity if yo
+u are:\n\n* sharing questions/answers of this quiz before its due date\,\n
+\n* solving quiz questions together\,\n\n* or having someone else take thi
+s quiz for you.\n\nGood luck!
+SEQUENCE:0
+SUMMARY:Quiz 1 - DFAs [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+3&month=01&year=2025#assignment_5994736
+X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 1</p>\n<p>It is a&nbsp\;<em><span styl
+e="color: #e03e2d\;"><strong>clear violation of Academic Integrity</strong
+></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers o
+f this quiz before its due date\,</li>\n<li>solving quiz questions togethe
+r\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n
+<p>Good luck!</p>
 END:VEVENT
-
+BEGIN:VEVENT
+DTSTAMP:20250120T184200Z
+UID:event-assignment-5994765
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Recitation 1 [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+3&month=01&year=2025#assignment_5994765
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250127T061000Z
+UID:event-assignment-5994772
+DTSTART;VALUE=DATE;VALUE=DATE:20250131
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Recitation 2 [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+3&month=01&year=2025#assignment_5994772
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250123T090300Z
+UID:event-assignment-5994753
+DTSTART;VALUE=DATE;VALUE=DATE:20250205
+CLASS:PUBLIC
+DESCRIPTION:[CSE355_SP25_hw1.pdf] (https://canvas.asu.edu/courses/215273/fi
+les/101409657?wrap=1)\n\n \n\nMake sure to include your collaboration sta
+tement!\n\n \n\n \n\n�
+SEQUENCE:0
+SUMMARY:Assignment 1 (DFA & NFA) [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+3&month=02&year=2025#assignment_5994753
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+_scribd_file inline_disabled" title="CSE355_SP25_hw1.pdf" href="https://ca
+nvas.asu.edu/courses/215273/files/101409657?wrap=1" target="_blank" data-c
+anvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1
+/courses/215273/files/101409657" data-api-returntype="File">CSE355_SP25_hw
+1.pdf</a></p>\n<p>&nbsp\;</p>\n<p>Make sure to include your collaboration
+statement!</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
 END:VCALENDAR
