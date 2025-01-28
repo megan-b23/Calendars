@@ -1,0 +1,1156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Megan Brown Calendar (Canvas)
+X-WR-CALDESC:Calendar events for the user\, Megan Brown
+BEGIN:VEVENT
+DTSTAMP:20250114T193700Z
+UID:event-assignment-6019737
+DTSTART;VALUE=DATE;VALUE=DATE:20250121
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz Assignment 1 [2025SpringC-X-PHY131-24394]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21290
+ 1&month=01&year=2025#assignment_6019737
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250123T000000Z
+UID:event-assignment-5994736
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+DESCRIPTION:Quiz 1\n\nIt is a clear violation of Academic Integrity if yo
+ u are:\n\n* sharing questions/answers of this quiz before its due date\,\n
+ \n* solving quiz questions together\,\n\n* or having someone else take thi
+ s quiz for you.\n\nGood luck!
+SEQUENCE:0
+SUMMARY:Quiz 1 - DFAs [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+ 3&month=01&year=2025#assignment_5994736
+X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 1</p>\n<p>It is a&nbsp\;<em><span styl
+ e="color: #e03e2d\;"><strong>clear violation of Academic Integrity</strong
+ ></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers o
+ f this quiz before its due date\,</li>\n<li>solving quiz questions togethe
+ r\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n
+ <p>Good luck!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T234600Z
+UID:event-assignment-5904907
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Academic integrity\n\n* Math review\n\n*
+  Chapter 1\n\n* Chapter 2\, Sections 2.1 - 2.4
+SEQUENCE:0
+SUMMARY:Homework 1 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=01&year=2025#assignment_5904907
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Academic i
+ ntegrity</li>\n<li>Math review</li>\n<li>Chapter 1</li>\n<li>Chapter 2\, S
+ ections 2.1 - 2.4</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T214500Z
+UID:event-assignment-5747709
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+DESCRIPTION:The first MATLAB assignment is an interactive assignment done o
+ nline through your Mathworks account. Click [here] (https://canvas.asu.edu
+ /courses/206466/file_contents/course%20files/MAT343_LABS/Accessing_MATLAB_
+ Onramp_MAT343.pdf?canvas_=1&canvas_qs_wrap=1) and follow the instructions 
+ on how to access the MATLAB onramp assignment. Credit will be given only i
+ f 100% of the Onramp course is completed.\n\nNOTE: This assignment is extr
+ a credit. The OnRamp activity covers the basics of MATLAB programming and 
+ it will greatly help you for subsequent labs.\n\nYou may submit a pre-exis
+ ting certificate if it is no older than 1 year.
+SEQUENCE:0
+SUMMARY:LAB 0 - MATLAB OnRamp [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=01&year=2025#assignment_5747709
+X-ALT-DESC;FMTTYPE=text/html:<p>The first MATLAB assignment is an interacti
+ ve assignment done online through your Mathworks account. Click <a class="
+ instructure_file_link instructure_scribd_file inline_disabled" title="Acce
+ ssing_MATLAB_Onramp_MAT343.pdf" href="https://canvas.asu.edu/courses/20646
+ 6/file_contents/course%20files/MAT343_LABS/Accessing_MATLAB_Onramp_MAT343.
+ pdf?canvas_=1&amp\;canvas_qs_wrap=1" target="_blank">here</a> and follow t
+ he instructions on how to access the MATLAB onramp assignment. Credit will
+  be given only if 100% of the Onramp course is completed.</p>\n<p><strong>
+ NOTE: This assignment is extra credit.</strong> The OnRamp activity covers
+  the basics of MATLAB programming and it will greatly help you for subsequ
+ ent labs.</p>\n<p>You may submit a pre-existing certificate if it is no ol
+ der than 1 year.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T184200Z
+UID:event-assignment-5994765
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Recitation 1 [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+ 3&month=01&year=2025#assignment_5994765
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T213700Z
+UID:event-assignment-5749011
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 1.1 Systems [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=01&year=2025#assignment_5749011
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T213800Z
+UID:event-assignment-5749010
+DTSTART;VALUE=DATE;VALUE=DATE:20250124
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 1.2 Row Echelon Form [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=01&year=2025#assignment_5749010
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250125T000000Z
+UID:event-assignment-5904899
+DTSTART;VALUE=DATE;VALUE=DATE:20250126
+CLASS:PUBLIC
+DESCRIPTION:This quiz covers the lectures and readings pertaining to the se
+ ction on Probability.\n\nYou will have 30 minutes to complete this quiz. 
+  \n\nThis quiz is open book and open note. \n\nYou are expected to compl
+ ete this quiz individually\, so collaboration with a fellow classmate is s
+ trictly forbidden. \n\n 
+SEQUENCE:0
+SUMMARY:Quiz 1 - Probability\; Requires Respondus LockDown Browser [2025Spr
+ ingC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=01&year=2025#assignment_5904899
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings 
+ pertaining to the section on Probability.</p>\n<p>You will have 30 minutes
+  to complete this quiz. &nbsp\;</p>\n<p>This quiz is open book and open no
+ te.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, s
+ o collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>\
+ n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T195500Z
+UID:event-assignment-6037330
+DTSTART;VALUE=DATE;VALUE=DATE:20250128
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Quiz Assignment 2 [2025SpringC-X-PHY131-24394]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21290
+ 1&month=01&year=2025#assignment_6037330
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235200Z
+UID:event-assignment-5904918
+DTSTART;VALUE=DATE;VALUE=DATE:20250128
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 2\, Sections 2.5 - 2.9
+SEQUENCE:0
+SUMMARY:Homework 2 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=01&year=2025#assignment_5904918
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 2\
+ , Sections 2.5 - 2.9</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250127T220100Z
+UID:event-assignment-5749012
+DTSTART;VALUE=DATE;VALUE=DATE:20250130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 1.3 Matrix Arithmetic [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=01&year=2025#assignment_5749012
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250127T220100Z
+UID:event-assignment-5749013
+DTSTART;VALUE=DATE;VALUE=DATE:20250130
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 1.4 Matrix Algebra [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=01&year=2025#assignment_5749013
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235300Z
+UID:event-assignment-5904922
+DTSTART;VALUE=DATE;VALUE=DATE:20250131
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.1 and 3.2
+SEQUENCE:0
+SUMMARY:Homework 3 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=01&year=2025#assignment_5904922
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\
+ , Sections 3.1 and 3.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T213900Z
+UID:event-assignment-override-615411
+DTSTART;VALUE=DATE;VALUE=DATE:20250131
+CLASS:PUBLIC
+DESCRIPTION:Notes and Exercises: [LAB 1] (https://canvas.asu.edu/courses/20
+ 6466/file_contents/course%20files/MAT343_LABS/Lab01_v1/lab1.pdf?canvas_dow
+ nload=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https:/
+ /canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
+ b01_v1/lab1_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab w
+ rite-up.\n\nHere is a short video which explains [how to use MATLAB Live S
+ cripts] (https://www.mathworks.com/videos/using-the-live-editor-117940.htm
+ l).\n\nDon't forget to save it as a pdf file before you submit it.
+SEQUENCE:0
+SUMMARY:LAB 1 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=01&year=2025#assignment_5747710
+X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_
+ file_link instructure_scribd_file" title="lab1.pdf" href="https://canvas.a
+ su.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab01_v1/la
+ b1.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https:/
+ /asu.instructure.com/api/v1/courses/9590/files/1988377" data-api-returntyp
+ e="File">LAB 1</a></p>\n<p>Download this <a class="instructure_file_link" 
+ title="lab1_template.mlx" href="https://canvas.asu.edu/courses/206466/file
+ _contents/course%20files/MAT343_LABS/Lab01_v1/lab1_template.mlx?canvas_dow
+ nload=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write-
+ up.</p>\n<p>Here is a short video which explains <a href="https://www.math
+ works.com/videos/using-the-live-editor-117940.html">how to use MATLAB Live
+  Scripts</a>.</p>\n<p>Don't forget to save it as a pdf file before you sub
+ mit it.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250127T061000Z
+UID:event-assignment-5994772
+DTSTART;VALUE=DATE;VALUE=DATE:20250131
+CLASS:PUBLIC
+DESCRIPTION:
+SEQUENCE:0
+SUMMARY:Recitation 2 [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+ 3&month=01&year=2025#assignment_5994772
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042800Z
+UID:event-assignment-5749015
+DTSTART;VALUE=DATE;VALUE=DATE:20250204
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 1.5 Elementary Matrices [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5749015
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042800Z
+UID:event-assignment-5749014
+DTSTART;VALUE=DATE;VALUE=DATE:20250204
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 2.1 Determinant [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5749014
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235400Z
+UID:event-assignment-5904923
+DTSTART;VALUE=DATE;VALUE=DATE:20250204
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.3 and 3.4\n\n* Re
+ view problems from Chapter 2\, Sections 2.5\, 2.7\, and 2.9\n\n* Review pr
+ oblems from Chapter 3\, Section 3.1
+SEQUENCE:0
+SUMMARY:Homework 4 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904923
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\
+ , Sections 3.3 and 3.4</li>\n<li>Review problems from Chapter 2\, Sections
+  2.5\, 2.7\, and 2.9</li>\n<li>Review problems from Chapter 3\, Section 3.
+ 1</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250123T090300Z
+UID:event-assignment-5994753
+DTSTART;VALUE=DATE;VALUE=DATE:20250205
+CLASS:PUBLIC
+DESCRIPTION:[CSE355_SP25_hw1.pdf] (https://canvas.asu.edu/courses/215273/fi
+ les/101409657?wrap=1)\n\n \n\nMake sure to include your collaboration sta
+ tement!\n\n \n\n \n\n 
+SEQUENCE:0
+SUMMARY:Assignment 1 (DFA & NFA) [2025SpringC-T-CSE355-32753-15895]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21527
+ 3&month=02&year=2025#assignment_5994753
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="CSE355_SP25_hw1.pdf" href="https://ca
+ nvas.asu.edu/courses/215273/files/101409657?wrap=1" target="_blank" data-c
+ anvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1
+ /courses/215273/files/101409657" data-api-returntype="File">CSE355_SP25_hw
+ 1.pdf</a></p>\n<p>&nbsp\;</p>\n<p>Make sure to include your collaboration 
+ statement!</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235400Z
+UID:event-assignment-5904924
+DTSTART;VALUE=DATE;VALUE=DATE:20250207
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.5 and 3.8\n\n* Re
+ view problems from Chapter 3\, Sections 3.1 and 3.4\n\n* Review problems f
+ rom Chapter 2\, Sections 2.4 and 2.8
+SEQUENCE:0
+SUMMARY:Homework 5 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904924
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\
+ , Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 3\, Sections
+  3.1 and 3.4</li>\n<li>Review problems from Chapter 2\, Sections 2.4 and 2
+ .8</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001500Z
+UID:event-assignment-5904901
+DTSTART;VALUE=DATE;VALUE=DATE:20250209
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 2 - Discrete Random Variables and Probability Distributions - 
+ Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904901
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042800Z
+UID:event-assignment-5749016
+DTSTART;VALUE=DATE;VALUE=DATE:20250211
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 2.2 Properties of Determinants [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5749016
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042800Z
+UID:event-assignment-5749017
+DTSTART;VALUE=DATE;VALUE=DATE:20250211
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 3.1 Vector Spaces [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5749017
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235500Z
+UID:event-assignment-5904925
+DTSTART;VALUE=DATE;VALUE=DATE:20250211
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.1 and 4.2\n\n* Re
+ view problems from Chapter 3\, Sections 3.2 and 3.3\n\n* Review problems f
+ rom Chapter 2\, Section 2.7
+SEQUENCE:0
+SUMMARY:Homework 6 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904925
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\
+ , Sections 4.1 and 4.2</li>\n<li>Review problems from Chapter 3\, Sections
+  3.2 and 3.3</li>\n<li>Review problems from Chapter 2\, Section 2.7</li>\n
+ </ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T214000Z
+UID:event-assignment-override-615414
+DTSTART;VALUE=DATE;VALUE=DATE:20250214
+CLASS:PUBLIC
+DESCRIPTION:Notes and Exercises: [LAB 2] (https://canvas.asu.edu/courses/20
+ 6466/file_contents/course%20files/MAT343_LABS/Lab02_v1/lab2.pdf?canvas_dow
+ nload=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https:/
+ /canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
+ b02_v1/lab2_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab w
+ rite-up.\n\nDon't forget to save it as a pdf file before you submit it.
+SEQUENCE:0
+SUMMARY:LAB 2 Materials and Assignments (Set A) [2025SpringC-T-MAT343-18365
+ ]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5747713
+X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_
+ file_link instructure_scribd_file" title="lab2.pdf" href="https://canvas.a
+ su.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab02_v1/la
+ b2.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https:/
+ /asu.instructure.com/api/v1/courses/9590/files/1988424" data-api-returntyp
+ e="File">LAB 2</a></p>\n<p>Download this <a class="instructure_file_link" 
+ title="lab2_template.mlx" href="https://canvas.asu.edu/courses/206466/file
+ _contents/course%20files/MAT343_LABS/Lab02_v1/lab2_template.mlx?canvas_dow
+ nload=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write-
+ up.</p>\n<p>Don't forget to save it as a pdf file before you submit it.</p
+ >
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235600Z
+UID:event-assignment-5904926
+DTSTART;VALUE=DATE;VALUE=DATE:20250214
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.3 and 4.4\n\n* Re
+ view problems from Chapter 2\, Sections 2.3 and 2.8\n\n* Review problems f
+ rom Chapter 3\, Sections 3.3 and 3.4\n\n* Review problems from Chapter 4\,
+  Section 4.1
+SEQUENCE:0
+SUMMARY:Homework 7 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904926
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\
+ , Sections 4.3 and 4.4</li>\n<li>Review problems from Chapter 2\, Sections
+  2.3 and 2.8</li>\n<li>Review problems from Chapter 3\, Sections 3.3 and 3
+ .4</li>\n<li>Review problems from Chapter 4\, Section 4.1</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001700Z
+UID:event-assignment-5904904
+DTSTART;VALUE=DATE;VALUE=DATE:20250216
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 3 - Continuous Random Variables and Probability Distributions 
+ - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904904
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235600Z
+UID:event-assignment-5904927
+DTSTART;VALUE=DATE;VALUE=DATE:20250216
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.5 and 4.7\n\n* Re
+ view problems from Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems f
+ rom Chapter 4\, Section 4.2
+SEQUENCE:0
+SUMMARY:Homework 8 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904927
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\
+ , Sections 4.5 and 4.7</li>\n<li>Review problems from Chapter 3\, Sections
+  3.5 and 3.8</li>\n<li>Review problems from Chapter 4\, Section 4.2</li>\n
+ </ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042800Z
+UID:event-assignment-5749019
+DTSTART;VALUE=DATE;VALUE=DATE:20250217
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 3.2 Subspaces [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5749019
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749018
+DTSTART;VALUE=DATE;VALUE=DATE:20250217
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 3.3 Linear Independence [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5749018
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001200Z
+UID:event-assignment-5904931
+DTSTART;VALUE=DATE;VALUE=DATE:20250219
+CLASS:PUBLIC
+DESCRIPTION:The first in-class midterm 
+SEQUENCE:0
+SUMMARY:Midterm Exam 1 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904931
+X-ALT-DESC;FMTTYPE=text/html:<p>The first in-class midterm&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T214100Z
+UID:event-assignment-override-615416
+DTSTART;VALUE=DATE;VALUE=DATE:20250228
+CLASS:PUBLIC
+DESCRIPTION:Notes and Exercises: [LAB 3] (https://canvas.asu.edu/courses/20
+ 6466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3.pdf?canvas_dow
+ nload=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https:/
+ /canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
+ b03_v1/lab3_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab w
+ rite up.
+SEQUENCE:0
+SUMMARY:LAB 3 Materials& Assigments (Set A) [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=02&year=2025#assignment_5747715
+X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_
+ file_link instructure_scribd_file" title="lab3.pdf" href="https://canvas.a
+ su.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/la
+ b3.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https:/
+ /asu.instructure.com/api/v1/courses/9590/files/1988411" data-api-returntyp
+ e="File">LAB 3</a></p>\n<p>Download this <a class="instructure_file_link" 
+ title="lab3_template.mlx" href="https://canvas.asu.edu/courses/206466/file
+ _contents/course%20files/MAT343_LABS/Lab03_v1/lab3_template.mlx?canvas_dow
+ nload=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write 
+ up.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235700Z
+UID:event-assignment-5904928
+DTSTART;VALUE=DATE;VALUE=DATE:20250228
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 6\, Sections 6.1 and 6.3
+SEQUENCE:0
+SUMMARY:Homework 9 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=02&year=2025#assignment_5904928
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 6\
+ , Sections 6.1 and 6.3</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749020
+DTSTART;VALUE=DATE;VALUE=DATE:20250304
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 3.4 Basis and Dimension [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749020
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749021
+DTSTART;VALUE=DATE;VALUE=DATE:20250304
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 3.5 Change of Basis [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749021
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T235800Z
+UID:event-assignment-5904908
+DTSTART;VALUE=DATE;VALUE=DATE:20250304
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 7\, Sections 7.1 and 7.2
+SEQUENCE:0
+SUMMARY:Homework 10 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904908
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 7\
+ , Sections 7.1 and 7.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000000Z
+UID:event-assignment-5904909
+DTSTART;VALUE=DATE;VALUE=DATE:20250307
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 8\, Sections 8.1 and 8.2\n\n* Re
+ view problems from Chapter 2\, Section 2.7\n\n* Review problems from Chapt
+ er 3\, Sections 3.2 and 3.4\n\n* Review problems from Chapter 4\, Section 
+ 4.4
+SEQUENCE:0
+SUMMARY:Homework 11 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904909
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\
+ , Sections 8.1 and 8.2</li>\n<li>Review problems from Chapter 2\, Section 
+ 2.7</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.4</li>\n
+ <li>Review problems from Chapter 4\, Section 4.4</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001800Z
+UID:event-assignment-5904903
+DTSTART;VALUE=DATE;VALUE=DATE:20250309
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 4 - Descriptive Statistics\, Methods of Point Estimation\, and
+  Sampling Distributions - Requires Respondus LockDown Browser [2025SpringC
+ -T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904903
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749023
+DTSTART;VALUE=DATE;VALUE=DATE:20250318
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 3.6 Row and Column Space [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749023
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T215400Z
+UID:event-assignment-5749022
+DTSTART;VALUE=DATE;VALUE=DATE:20250318
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 4.1 Linear Transformations [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749022
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000100Z
+UID:event-assignment-5904910
+DTSTART;VALUE=DATE;VALUE=DATE:20250318
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 8\, Section 8.3\n\n* Review prob
+ lems from Chapter 2\, Section 2.3\n\n* Review problems from Chapter 3\, Se
+ ction 3.3\n\n* Review problems from Chapter 7\, Section 4.2
+SEQUENCE:0
+SUMMARY:Homework 12 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904910
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\
+ , Section 8.3</li>\n<li>Review problems from Chapter 2\, Section 2.3</li>\
+ n<li>Review problems from Chapter 3\, Section 3.3</li>\n<li>Review problem
+ s from Chapter 7\, Section 4.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T214200Z
+UID:event-assignment-override-615418
+DTSTART;VALUE=DATE;VALUE=DATE:20250321
+CLASS:PUBLIC
+DESCRIPTION:* Notes and Exercises: [LAB 4] (https://canvas.asu.edu/courses/
+ 206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4.pdf?canvas_d
+ ownload=1&canvas_qs_wrap=1)\n\n* Download the following M-files: [lab4_exa
+ mple2.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20fil
+ es/MAT343_LABS/Lab04_v1/lab4_example2.m?canvas_download=1&canvas_qs_wrap=1
+ )\, [lab4_example3.m] (https://canvas.asu.edu/courses/206466/file_contents
+ /course%20files/MAT343_LABS/Lab04_v1/lab4_example3.m?canvas_download=1&can
+ vas_qs_wrap=1)\, [lab4_example4.m\,] (https://canvas.asu.edu/courses/20646
+ 6/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example4.m?canvas
+ _download=1&canvas_qs_wrap=1) [lab4_example5.m] (https://canvas.asu.edu/co
+ urses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_exampl
+ e5.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example6.m] (https://canv
+ as.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v
+ 1/lab4_example6.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example7.m] 
+ (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343
+ _LABS/Lab04_v1/lab4_example7.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4
+ _example8.m] (https://canvas.asu.edu/courses/206466/file_contents/course%2
+ 0files/MAT343_LABS/Lab04_v1/lab4_example8.m?canvas_download=1&canvas_qs_wr
+ ap=1)\, l[ab4_example9.m] (https://canvas.asu.edu/courses/206466/file_cont
+ ents/course%20files/MAT343_LABS/Lab04_v1/lab4_example9.m?canvas_download=1
+ &canvas_qs_wrap=1)\n\n* Download the [Live Script template] (https://canva
+ s.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1
+ /lab4_template.mlx?canvas_download=1&canvas_qs_wrap=1) for your lab write-
+ up.
+SEQUENCE:0
+SUMMARY:LAB 4 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5747716
+X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instr
+ ucture_file_link instructure_scribd_file" title="lab4.pdf" href="https://c
+ anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
+ 4_v1/lab4.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="
+ https://asu.instructure.com/api/v1/courses/9590/files/1988388" data-api-re
+ turntype="File">LAB 4</a></li>\n<li>Download the following M-files: <a cla
+ ss="instructure_file_link instructure_scribd_file" title="lab4_example2.m"
+  href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/
+ MAT343_LABS/Lab04_v1/lab4_example2.m?canvas_download=1&amp\;canvas_qs_wrap
+ =1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/fil
+ es/1988390" data-api-returntype="File">lab4_example2.m</a>\, <a class="ins
+ tructure_file_link instructure_scribd_file" title="lab4_example3.m" href="
+ https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_
+ LABS/Lab04_v1/lab4_example3.m?canvas_download=1&amp\;canvas_qs_wrap=1" dat
+ a-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988
+ 396" data-api-returntype="File">lab4_example3.m</a>\, <a class="instructur
+ e_file_link instructure_scribd_file" title="lab4_example4.m" href="https:/
+ /canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
+ b04_v1/lab4_example4.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-e
+ ndpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988404" da
+ ta-api-returntype="File">lab4_example4.m\,</a> <a class="instructure_file_
+ link instructure_scribd_file" title="lab4_example5.m" href="https://canvas
+ .asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/
+ lab4_example5.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint
+ ="https://asu.instructure.com/api/v1/courses/9590/files/1988385" data-api-
+ returntype="File">lab4_example5.m</a>\, <a class="instructure_file_link in
+ structure_scribd_file" title="lab4_example6.m" href="https://canvas.asu.ed
+ u/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_ex
+ ample6.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https
+ ://asu.instructure.com/api/v1/courses/9590/files/1988392" data-api-returnt
+ ype="File">lab4_example6.m</a>\, <a class="instructure_file_link instructu
+ re_scribd_file" title="lab4_example7.m" href="https://canvas.asu.edu/cours
+ es/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example7.
+ m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.
+ instructure.com/api/v1/courses/9590/files/1988398" data-api-returntype="Fi
+ le">lab4_example7.m</a>\, <a class="instructure_file_link instructure_scri
+ bd_file" title="lab4_example8.m" href="https://canvas.asu.edu/courses/2064
+ 66/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example8.m?canva
+ s_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instruc
+ ture.com/api/v1/courses/9590/files/1988391" data-api-returntype="File">lab
+ 4_example8.m</a>\, l<a class="instructure_file_link instructure_scribd_fil
+ e" title="lab4_example9.m" href="https://canvas.asu.edu/courses/206466/fil
+ e_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example9.m?canvas_down
+ load=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.c
+ om/api/v1/courses/9590/files/1988395" data-api-returntype="File">ab4_examp
+ le9.m</a></li>\n<li>Download the <a class="instructure_file_link" title="l
+ ab4_template.mlx" href="https://canvas.asu.edu/courses/206466/file_content
+ s/course%20files/MAT343_LABS/Lab04_v1/lab4_template.mlx?canvas_download=1&
+ amp\;canvas_qs_wrap=1">Live Script template</a> for your lab write-up.</li
+ >\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000100Z
+UID:event-assignment-5904911
+DTSTART;VALUE=DATE;VALUE=DATE:20250321
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 8\, Section 8.4\n\n* Chapter 9\,
+  Section 9.1\n\n* Review problems from Chapter 3\, Section 3.8\n\n* Review
+  problems from Chapter 4\, Section 4.2
+SEQUENCE:0
+SUMMARY:Homework 13 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904911
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 8\
+ , Section 8.4</li>\n<li>Chapter 9\, Section 9.1</li>\n<li>Review problems 
+ from Chapter 3\, Section 3.8</li>\n<li>Review problems from Chapter 4\, Se
+ ction 4.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T002200Z
+UID:event-assignment-5904900
+DTSTART;VALUE=DATE;VALUE=DATE:20250323
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 5 - Statistical Intervals for a Single Sample - Requires Respo
+ ndus LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904900
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749025
+DTSTART;VALUE=DATE;VALUE=DATE:20250325
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 4.2 Matrix of Transformations [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749025
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749024
+DTSTART;VALUE=DATE;VALUE=DATE:20250325
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 5.1 Scalar Product [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749024
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000200Z
+UID:event-assignment-5904912
+DTSTART;VALUE=DATE;VALUE=DATE:20250325
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2 and 9.3\n\n* Re
+ view problems from Chapter 8\, Sections 8.1 and 8.2
+SEQUENCE:0
+SUMMARY:Homework 14 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904912
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\
+ , Sections 9.2 and 9.3</li>\n<li>Review problems from Chapter 8\, Sections
+  8.1 and 8.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000200Z
+UID:event-assignment-5904913
+DTSTART;VALUE=DATE;VALUE=DATE:20250328
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2\, 9.4\, and 9.5
+SEQUENCE:0
+SUMMARY:Homework 15 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904913
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\
+ , Sections 9.2\, 9.4\, and 9.5</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T002300Z
+UID:event-assignment-5904898
+DTSTART;VALUE=DATE;VALUE=DATE:20250330
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 6 - Tests of Hypothesis for a Single Sample - Requires Respond
+ us LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=03&year=2025#assignment_5904898
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749026
+DTSTART;VALUE=DATE;VALUE=DATE:20250331
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 5.2 Orthogonal Subspaces [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749026
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749027
+DTSTART;VALUE=DATE;VALUE=DATE:20250331
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 5.3 Least Squares [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=03&year=2025#assignment_5749027
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000300Z
+UID:event-assignment-5904914
+DTSTART;VALUE=DATE;VALUE=DATE:20250401
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.2\n\n* Review pr
+ oblems from Chapter 3\, Sections 3.2 and 3.3
+SEQUENCE:0
+SUMMARY:Homework 16 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904914
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+ \, Section 10.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 an
+ d 3.3</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000600Z
+UID:event-assignment-5904915
+DTSTART;VALUE=DATE;VALUE=DATE:20250404
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.4\n\n* Review pr
+ oblems from Chapter 2\, Section 2.8\n\n* Review problems from Chapter 3\, 
+ Sections 3.5 and 3.8\n\n* Review problems from Chapter 4\, Sections 4.4 an
+ d 4.7
+SEQUENCE:0
+SUMMARY:Homework 17 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904915
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+ \, Section 10.4</li>\n<li>Review problems from Chapter 2\, Section 2.8</li
+ >\n<li>Review problems from Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Rev
+ iew problems from Chapter 4\, Sections 4.4 and 4.7</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000700Z
+UID:event-assignment-5904916
+DTSTART:20250406T065800Z
+DTEND:20250406T065800Z
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.1 and 10.5
+SEQUENCE:0
+SUMMARY:Homework 18 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904916
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+ \, Sections 10.1 and 10.5</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T011000Z
+UID:event-assignment-5904905
+DTSTART;VALUE=DATE;VALUE=DATE:20250406
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 7 - Statistical Inference for Two Samples - Requires Respondus
+  LockDown Browser [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904905
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001100Z
+UID:event-assignment-5904932
+DTSTART;VALUE=DATE;VALUE=DATE:20250409
+CLASS:PUBLIC
+DESCRIPTION:Grade book place holder for the midterm exam.
+SEQUENCE:0
+SUMMARY:Midterm Exam 2 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904932
+X-ALT-DESC;FMTTYPE=text/html:<p>Grade book place holder for the midterm exa
+ m.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T214300Z
+UID:event-assignment-override-615420
+DTSTART;VALUE=DATE;VALUE=DATE:20250411
+CLASS:PUBLIC
+DESCRIPTION:* Notes and Exercises: [LAB 5] (https://canvas.asu.edu/courses/
+ 206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5.pdf?canvas_d
+ ownload=1&canvas_qs_wrap=1)\n\n* Download the files: [LAB05_ex1.m] (https:
+ //canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/L
+ ab05_v1/LAB05_ex1.m?canvas_download=1&canvas_qs_wrap=1)\,  [gco2.dat] (ht
+ tps://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LA
+ BS/Lab05_v1/gco2.dat?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the
+  [Live Script templat] (https://canvas.asu.edu/courses/206466/file_content
+ s/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_download=1&
+ canvas_qs_wrap=1)e for you lab write-up.
+SEQUENCE:0
+SUMMARY:LAB 5 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=04&year=2025#assignment_5747718
+X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instr
+ ucture_file_link instructure_scribd_file" title="lab5.pdf" href="https://c
+ anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
+ 5_v1/lab5.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="
+ https://asu.instructure.com/api/v1/courses/9590/files/1988360" data-api-re
+ turntype="File">LAB 5</a></li>\n<li>Download the files: <a class="instruct
+ ure_file_link instructure_scribd_file" title="LAB05_ex1.m" href="https://c
+ anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
+ 5_v1/LAB05_ex1.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoin
+ t="https://asu.instructure.com/api/v1/courses/9590/files/1988495" data-api
+ -returntype="File">LAB05_ex1.m</a>\,&nbsp\; <a class="instructure_file_lin
+ k instructure_scribd_file" title="gco2.dat" href="https://canvas.asu.edu/c
+ ourses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/gco2.dat?c
+ anvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.ins
+ tructure.com/api/v1/courses/9590/files/1988374" data-api-returntype="File"
+ >gco2.dat</a></li>\n<li>Download the <a class="instructure_file_link" titl
+ e="lab5_template.mlx" href="https://canvas.asu.edu/courses/206466/file_con
+ tents/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_downloa
+ d=1&amp\;canvas_qs_wrap=1">Live Script templat</a>e for you lab write-up.<
+ /li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T042900Z
+UID:event-assignment-5749028
+DTSTART;VALUE=DATE;VALUE=DATE:20250415
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 5.4 Inner Product Spaces [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=04&year=2025#assignment_5749028
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T043000Z
+UID:event-assignment-5749029
+DTSTART;VALUE=DATE;VALUE=DATE:20250415
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 5.5 Orthonormal Sets [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=04&year=2025#assignment_5749029
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000800Z
+UID:event-assignment-5904917
+DTSTART;VALUE=DATE;VALUE=DATE:20250418
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.6 and 10.7\n\n*
+  Chapter 11\, Sections 11.1\, 11.2\, and 11.5\n\n* Review problems from Ch
+ apter 7\, Section 7.2
+SEQUENCE:0
+SUMMARY:Homework 19 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904917
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10
+ \, Sections 10.6 and 10.7</li>\n<li>Chapter 11\, Sections 11.1\, 11.2\, an
+ d 11.5</li>\n<li>Review problems from Chapter 7\, Section 7.2</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T043000Z
+UID:event-assignment-5749030
+DTSTART;VALUE=DATE;VALUE=DATE:20250422
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 5.6 Qr Factorization [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=04&year=2025#assignment_5749030
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T043000Z
+UID:event-assignment-5749031
+DTSTART;VALUE=DATE;VALUE=DATE:20250422
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 6.1 Eigenvalues and Eigenvectors [2025SpringC-T-MAT343-1836
+ 5]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=04&year=2025#assignment_5749031
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000800Z
+UID:event-assignment-5904919
+DTSTART;VALUE=DATE;VALUE=DATE:20250422
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 11\, Sections 11.2\, 11.7\, and 
+ 11.8\n\n* Review problems from Chapter 2\, Section 2.8\n\n* Review problem
+ s from Chapter 4\, Section 4.4\n\n* Review problems from Chapter 10\, Sect
+ ion 10.4
+SEQUENCE:0
+SUMMARY:Homework 20 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904919
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 11
+ \, Sections 11.2\, 11.7\, and 11.8</li>\n<li>Review problems from Chapter 
+ 2\, Section 2.8</li>\n<li>Review problems from Chapter 4\, Section 4.4</li
+ >\n<li>Review problems from Chapter 10\, Section 10.4</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T154500Z
+UID:event-assignment-5904929
+DTSTART;VALUE=DATE;VALUE=DATE:20250425
+CLASS:PUBLIC
+DESCRIPTION:Use this homework assignment to practice for the quiz.  The re
+ sult of this homework assignment does not count towards your final grade i
+ n the class\, nor does it affect whether or not you successfully complete 
+ the Honors Contract.  
+SEQUENCE:0
+SUMMARY:Honors Practice Homework [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904929
+X-ALT-DESC;FMTTYPE=text/html:<p>Use this homework assignment to practice fo
+ r the quiz.&nbsp\; The result of this homework assignment does not count t
+ owards your final grade in the class\, nor does it affect whether or not y
+ ou successfully complete the Honors Contract.&nbsp\;&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T214300Z
+UID:event-assignment-override-615422
+DTSTART;VALUE=DATE;VALUE=DATE:20250425
+CLASS:PUBLIC
+DESCRIPTION:* Notes and Exercises: [LAB 6] (https://canvas.asu.edu/courses/
+ 206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6.pdf?canvas_d
+ ownload=1&canvas_qs_wrap=1)\n\n* Download the file: [gauss.jpg] (https://c
+ anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
+ 6_v1/gauss.jpg?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the [Live
+  Script template] (https://canvas.asu.edu/courses/206466/file_contents/cou
+ rse%20files/MAT343_LABS/Lab06_v1/lab6_template.mlx?canvas_download=1&canva
+ s_qs_wrap=1) for your lab write-up.
+SEQUENCE:0
+SUMMARY:LAB 6 Materals & Assignments (Set A) [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=04&year=2025#assignment_5747721
+X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instr
+ ucture_file_link instructure_scribd_file" title="lab6.pdf" href="https://c
+ anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
+ 6_v1/lab6.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="
+ https://asu.instructure.com/api/v1/courses/9590/files/1988416" data-api-re
+ turntype="File">LAB 6</a></li>\n<li>Download the file: <a class="instructu
+ re_file_link instructure_image_thumbnail" title="gauss.jpg" href="https://
+ canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab
+ 06_v1/gauss.jpg?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint
+ ="https://asu.instructure.com/api/v1/courses/9590/files/1988419" data-api-
+ returntype="File">gauss.jpg</a></li>\n<li>Download the <a class="instructu
+ re_file_link" title="lab6_template.mlx" href="https://canvas.asu.edu/cours
+ es/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6_template.
+ mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for 
+ your lab write-up.</li>\n</ol>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T000900Z
+UID:event-assignment-5904920
+DTSTART;VALUE=DATE;VALUE=DATE:20250425
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 12\, Sections 12.1 - 12.3\, and 
+ 12.5
+SEQUENCE:0
+SUMMARY:Homework 21 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904920
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 12
+ \, Sections 12.1 - 12.3\, and 12.5</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250116T070000Z
+UID:event-assignment-5904933
+DTSTART:20250426T170100Z
+DTEND:20250426T170100Z
+CLASS:PUBLIC
+DESCRIPTION:Submit your project here.  It is set to take up to 2 submissio
+ ns.  The most recent submission will be the one graded.  Late submission
+ s will  be penalized as noted in the project instructions below.  The ac
+ tual due date for no penalty is 4/25/2025 11:59PM.\n\nYou must upload a Wo
+ rd doc (.doc or .docx)\, or pdf.\n\nFor a description of the project requi
+ rements\, refer to the project definition.\n\n \n\n \n\n \n\n \n\n 
+SEQUENCE:0
+SUMMARY:Semester Project Submission DUE 4/25  late on 4/26 [2025SpringC-T-I
+ EE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904933
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your project here.&nbsp\; It is set 
+ to take up to 2 submissions.&nbsp\; The most recent submission will be the
+  one graded.&nbsp\; Late submissions will&nbsp\; be penalized as noted in 
+ the project instructions below.&nbsp\; The actual due date for no penalty 
+ is 4/25/2025 11:59PM.</p>\n<p><strong>You must upload a Word doc (.doc or 
+ .docx)\, or pdf.</strong></p>\n<p>For a description of the project require
+ ments\, refer to the project definition.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</
+ p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T011100Z
+UID:event-assignment-5904897
+DTSTART;VALUE=DATE;VALUE=DATE:20250427
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Quiz 8 - Linear Regression - Requires Respondus LockDown Browser [2
+ 025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=04&year=2025#assignment_5904897
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T043000Z
+UID:event-assignment-5749032
+DTSTART;VALUE=DATE;VALUE=DATE:20250429
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 6.3 Diagonalization [2025SpringC-T-MAT343-18365]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=04&year=2025#assignment_5749032
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T154500Z
+UID:event-assignment-5904930
+DTSTART;VALUE=DATE;VALUE=DATE:20250502
+CLASS:PUBLIC
+DESCRIPTION:See Honors module for project description.
+SEQUENCE:0
+SUMMARY:Honors Project [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=05&year=2025#assignment_5904930
+X-ALT-DESC;FMTTYPE=text/html:<p>See Honors module for project description.<
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T043000Z
+UID:event-assignment-5749033
+DTSTART;VALUE=DATE;VALUE=DATE:20250502
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Section 6.5 Singular Value Decomposition [2025SpringC-T-MAT343-1836
+ 5]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
+ 6&month=05&year=2025#assignment_5749033
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T001000Z
+UID:event-assignment-5904921
+DTSTART;VALUE=DATE;VALUE=DATE:20250502
+CLASS:PUBLIC
+DESCRIPTION:Material covered:\n\n* Chapter 15\, Sections 15.1 - 15.3
+SEQUENCE:0
+SUMMARY:Homework 22 [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=05&year=2025#assignment_5904921
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 15
+ \, Sections 15.1 - 15.3</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250104T011300Z
+UID:event-assignment-5904902
+DTSTART;VALUE=DATE;VALUE=DATE:20250504
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Honors Quiz - Requires Respondus LockDown Browser + Webcam [2025Spr
+ ingC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=05&year=2025#assignment_5904902
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T154500Z
+UID:event-assignment-5904906
+DTSTART:20250506T232000Z
+DTEND:20250506T232000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Exam [2025SpringC-T-IEE380-32367]
+URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_21248
+ 8&month=05&year=2025#assignment_5904906
+END:VEVENT
+END:VCALENDAR
