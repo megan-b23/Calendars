@@ -1,521 +1,593 @@
-
 BEGIN:VCALENDAR
+
 VERSION:2.0
+
 PRODID:icalendar-ruby
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:MAT343 Calendar
-X-WR-CALDESC:Calendar events for the user\, Megan Brown
+
 BEGIN:VEVENT
-DTSTAMP:20241121T214500Z
-UID:event-assignment-5747709
-DTSTART;VALUE=DATE;VALUE=DATE:20250124
-CLASS:PUBLIC
-DESCRIPTION:The first MATLAB assignment is an interactive assignment done o
-nline through your Mathworks account. Click [here] (https://canvas.asu.edu
-/courses/206466/file_contents/course%20files/MAT343_LABS/Accessing_MATLAB_
-Onramp_MAT343.pdf?canvas_=1&canvas_qs_wrap=1) and follow the instructions
-on how to access the MATLAB onramp assignment. Credit will be given only i
-f 100% of the Onramp course is completed.\n\nNOTE: This assignment is extr
-a credit. The OnRamp activity covers the basics of MATLAB programming and
-it will greatly help you for subsequent labs.\n\nYou may submit a pre-exis
-ting certificate if it is no older than 1 year.
+
 SEQUENCE:0
-SUMMARY:LAB 0 - MATLAB OnRamp [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=01&year=2025#assignment_5747709
-X-ALT-DESC;FMTTYPE=text/html:<p>The first MATLAB assignment is an interacti
-ve assignment done online through your Mathworks account. Click <a class="
-instructure_file_link instructure_scribd_file inline_disabled" title="Acce
-ssing_MATLAB_Onramp_MAT343.pdf" href="https://canvas.asu.edu/courses/20646
-6/file_contents/course%20files/MAT343_LABS/Accessing_MATLAB_Onramp_MAT343.
-pdf?canvas_=1&amp\;canvas_qs_wrap=1" target="_blank">here</a> and follow t
-he instructions on how to access the MATLAB onramp assignment. Credit will
-be given only if 100% of the Onramp course is completed.</p>\n<p><strong>
-NOTE: This assignment is extra credit.</strong> The OnRamp activity covers
-the basics of MATLAB programming and it will greatly help you for subsequ
-ent labs.</p>\n<p>You may submit a pre-existing certificate if it is no ol
-der than 1 year.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250121T213700Z
-UID:event-assignment-5749011
-DTSTART;VALUE=DATE;VALUE=DATE:20250124
+
+X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab5.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988360" data-api-returntype="File">LAB 5</a></li>\n<li>Download the files: <a class="instructure_file_link instructure_scribd_file" title="LAB05_ex1.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/LAB05_ex1.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988495" data-api-returntype="File">LAB05_ex1.m</a>\,&nbsp\; <a class="instructure_file_link instructure_scribd_file" title="gco2.dat" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/gco2.dat?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988374" data-api-returntype="File">gco2.dat</a></li>\n<li>Download the <a class="instructure_file_link" title="lab5_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script templat</a>e for you lab write-up.</li>\n</ol>
+
+DTSTART;VALUE=DATE:20250411
+
 CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 1.1 Systems [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=01&year=2025#assignment_5749011
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250121T213800Z
-UID:event-assignment-5749010
-DTSTART;VALUE=DATE;VALUE=DATE:20250124
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 1.2 Row Echelon Form [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=01&year=2025#assignment_5749010
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250127T220100Z
-UID:event-assignment-5749012
-DTSTART;VALUE=DATE;VALUE=DATE:20250130
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 1.3 Matrix Arithmetic [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=01&year=2025#assignment_5749012
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250127T220100Z
-UID:event-assignment-5749013
-DTSTART;VALUE=DATE;VALUE=DATE:20250130
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 1.4 Matrix Algebra [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=01&year=2025#assignment_5749013
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241121T213900Z
-UID:event-assignment-override-615411
-DTSTART;VALUE=DATE;VALUE=DATE:20250131
-CLASS:PUBLIC
-DESCRIPTION:Notes and Exercises: [LAB 1] (https://canvas.asu.edu/courses/20
-6466/file_contents/course%20files/MAT343_LABS/Lab01_v1/lab1.pdf?canvas_dow
-nload=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https:/
-/canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
-b01_v1/lab1_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab w
-rite-up.\n\nHere is a short video which explains [how to use MATLAB Live S
-cripts] (https://www.mathworks.com/videos/using-the-live-editor-117940.htm
-l).\n\nDon't forget to save it as a pdf file before you submit it.
-SEQUENCE:0
-SUMMARY:LAB 1 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=01&year=2025#assignment_5747710
-X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_
-file_link instructure_scribd_file" title="lab1.pdf" href="https://canvas.a
-su.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab01_v1/la
-b1.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https:/
-/asu.instructure.com/api/v1/courses/9590/files/1988377" data-api-returntyp
-e="File">LAB 1</a></p>\n<p>Download this <a class="instructure_file_link"
-title="lab1_template.mlx" href="https://canvas.asu.edu/courses/206466/file
-_contents/course%20files/MAT343_LABS/Lab01_v1/lab1_template.mlx?canvas_dow
-nload=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write-
-up.</p>\n<p>Here is a short video which explains <a href="https://www.math
-works.com/videos/using-the-live-editor-117940.html">how to use MATLAB Live
-Scripts</a>.</p>\n<p>Don't forget to save it as a pdf file before you sub
-mit it.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042800Z
-UID:event-assignment-5749015
-DTSTART;VALUE=DATE;VALUE=DATE:20250204
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 1.5 Elementary Matrices [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5749015
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042800Z
-UID:event-assignment-5749014
-DTSTART;VALUE=DATE;VALUE=DATE:20250204
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 2.1 Determinant [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5749014
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042800Z
-UID:event-assignment-5749016
-DTSTART;VALUE=DATE;VALUE=DATE:20250211
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 2.2 Properties of Determinants [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5749016
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042800Z
-UID:event-assignment-5749017
-DTSTART;VALUE=DATE;VALUE=DATE:20250211
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 3.1 Vector Spaces [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5749017
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241121T214000Z
-UID:event-assignment-override-615414
-DTSTART;VALUE=DATE;VALUE=DATE:20250214
-CLASS:PUBLIC
-DESCRIPTION:Notes and Exercises: [LAB 2] (https://canvas.asu.edu/courses/20
-6466/file_contents/course%20files/MAT343_LABS/Lab02_v1/lab2.pdf?canvas_dow
-nload=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https:/
-/canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
-b02_v1/lab2_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab w
-rite-up.\n\nDon't forget to save it as a pdf file before you submit it.
-SEQUENCE:0
-SUMMARY:LAB 2 Materials and Assignments (Set A) [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5747713
-X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_
-file_link instructure_scribd_file" title="lab2.pdf" href="https://canvas.a
-su.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab02_v1/la
-b2.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https:/
-/asu.instructure.com/api/v1/courses/9590/files/1988424" data-api-returntyp
-e="File">LAB 2</a></p>\n<p>Download this <a class="instructure_file_link"
-title="lab2_template.mlx" href="https://canvas.asu.edu/courses/206466/file
-_contents/course%20files/MAT343_LABS/Lab02_v1/lab2_template.mlx?canvas_dow
-nload=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write-
-up.</p>\n<p>Don't forget to save it as a pdf file before you submit it.</p
->
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042800Z
-UID:event-assignment-5749019
-DTSTART;VALUE=DATE;VALUE=DATE:20250217
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 3.2 Subspaces [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5749019
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749018
-DTSTART;VALUE=DATE;VALUE=DATE:20250217
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 3.3 Linear Independence [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5749018
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241121T214100Z
-UID:event-assignment-override-615416
-DTSTART;VALUE=DATE;VALUE=DATE:20250228
-CLASS:PUBLIC
-DESCRIPTION:Notes and Exercises: [LAB 3] (https://canvas.asu.edu/courses/20
-6466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3.pdf?canvas_dow
-nload=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https:/
-/canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
-b03_v1/lab3_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab w
-rite up.
-SEQUENCE:0
-SUMMARY:LAB 3 Materials& Assigments (Set A) [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=02&year=2025#assignment_5747715
-X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_
-file_link instructure_scribd_file" title="lab3.pdf" href="https://canvas.a
-su.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/la
-b3.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https:/
-/asu.instructure.com/api/v1/courses/9590/files/1988411" data-api-returntyp
-e="File">LAB 3</a></p>\n<p>Download this <a class="instructure_file_link"
-title="lab3_template.mlx" href="https://canvas.asu.edu/courses/206466/file
-_contents/course%20files/MAT343_LABS/Lab03_v1/lab3_template.mlx?canvas_dow
-nload=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write
-up.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749020
-DTSTART;VALUE=DATE;VALUE=DATE:20250304
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 3.4 Basis and Dimension [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749020
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749021
-DTSTART;VALUE=DATE;VALUE=DATE:20250304
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 3.5 Change of Basis [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749021
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749023
-DTSTART;VALUE=DATE;VALUE=DATE:20250318
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 3.6 Row and Column Space [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749023
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241121T215400Z
-UID:event-assignment-5749022
-DTSTART;VALUE=DATE;VALUE=DATE:20250318
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 4.1 Linear Transformations [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749022
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241121T214200Z
-UID:event-assignment-override-615418
-DTSTART;VALUE=DATE;VALUE=DATE:20250321
-CLASS:PUBLIC
-DESCRIPTION:* Notes and Exercises: [LAB 4] (https://canvas.asu.edu/courses/
-206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4.pdf?canvas_d
-ownload=1&canvas_qs_wrap=1)\n\n* Download the following M-files: [lab4_exa
-mple2.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20fil
-es/MAT343_LABS/Lab04_v1/lab4_example2.m?canvas_download=1&canvas_qs_wrap=1
-)\, [lab4_example3.m] (https://canvas.asu.edu/courses/206466/file_contents
-/course%20files/MAT343_LABS/Lab04_v1/lab4_example3.m?canvas_download=1&can
-vas_qs_wrap=1)\, [lab4_example4.m\,] (https://canvas.asu.edu/courses/20646
-6/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example4.m?canvas
-_download=1&canvas_qs_wrap=1) [lab4_example5.m] (https://canvas.asu.edu/co
-urses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_exampl
-e5.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example6.m] (https://canv
-as.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v
-1/lab4_example6.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example7.m]
-(https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343
-_LABS/Lab04_v1/lab4_example7.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4
-_example8.m] (https://canvas.asu.edu/courses/206466/file_contents/course%2
-0files/MAT343_LABS/Lab04_v1/lab4_example8.m?canvas_download=1&canvas_qs_wr
-ap=1)\, l[ab4_example9.m] (https://canvas.asu.edu/courses/206466/file_cont
-ents/course%20files/MAT343_LABS/Lab04_v1/lab4_example9.m?canvas_download=1
-&canvas_qs_wrap=1)\n\n* Download the [Live Script template] (https://canva
-s.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1
-/lab4_template.mlx?canvas_download=1&canvas_qs_wrap=1) for your lab write-
-up.
-SEQUENCE:0
-SUMMARY:LAB 4 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5747716
-X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instr
-ucture_file_link instructure_scribd_file" title="lab4.pdf" href="https://c
-anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
-4_v1/lab4.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="
-https://asu.instructure.com/api/v1/courses/9590/files/1988388" data-api-re
-turntype="File">LAB 4</a></li>\n<li>Download the following M-files: <a cla
-ss="instructure_file_link instructure_scribd_file" title="lab4_example2.m"
-href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/
-MAT343_LABS/Lab04_v1/lab4_example2.m?canvas_download=1&amp\;canvas_qs_wrap
-=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/fil
-es/1988390" data-api-returntype="File">lab4_example2.m</a>\, <a class="ins
-tructure_file_link instructure_scribd_file" title="lab4_example3.m" href="
-https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_
-LABS/Lab04_v1/lab4_example3.m?canvas_download=1&amp\;canvas_qs_wrap=1" dat
-a-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988
-396" data-api-returntype="File">lab4_example3.m</a>\, <a class="instructur
-e_file_link instructure_scribd_file" title="lab4_example4.m" href="https:/
-/canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/La
-b04_v1/lab4_example4.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-e
-ndpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988404" da
-ta-api-returntype="File">lab4_example4.m\,</a> <a class="instructure_file_
-link instructure_scribd_file" title="lab4_example5.m" href="https://canvas
-.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/
-lab4_example5.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint
-="https://asu.instructure.com/api/v1/courses/9590/files/1988385" data-api-
-returntype="File">lab4_example5.m</a>\, <a class="instructure_file_link in
-structure_scribd_file" title="lab4_example6.m" href="https://canvas.asu.ed
-u/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_ex
-ample6.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https
-://asu.instructure.com/api/v1/courses/9590/files/1988392" data-api-returnt
-ype="File">lab4_example6.m</a>\, <a class="instructure_file_link instructu
-re_scribd_file" title="lab4_example7.m" href="https://canvas.asu.edu/cours
-es/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example7.
-m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.
-instructure.com/api/v1/courses/9590/files/1988398" data-api-returntype="Fi
-le">lab4_example7.m</a>\, <a class="instructure_file_link instructure_scri
-bd_file" title="lab4_example8.m" href="https://canvas.asu.edu/courses/2064
-66/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example8.m?canva
-s_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instruc
-ture.com/api/v1/courses/9590/files/1988391" data-api-returntype="File">lab
-4_example8.m</a>\, l<a class="instructure_file_link instructure_scribd_fil
-e" title="lab4_example9.m" href="https://canvas.asu.edu/courses/206466/fil
-e_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example9.m?canvas_down
-load=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.c
-om/api/v1/courses/9590/files/1988395" data-api-returntype="File">ab4_examp
-le9.m</a></li>\n<li>Download the <a class="instructure_file_link" title="l
-ab4_template.mlx" href="https://canvas.asu.edu/courses/206466/file_content
-s/course%20files/MAT343_LABS/Lab04_v1/lab4_template.mlx?canvas_download=1&
-amp\;canvas_qs_wrap=1">Live Script template</a> for your lab write-up.</li
->\n</ol>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749025
-DTSTART;VALUE=DATE;VALUE=DATE:20250325
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 4.2 Matrix of Transformations [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749025
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749024
-DTSTART;VALUE=DATE;VALUE=DATE:20250325
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 5.1 Scalar Product [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749024
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749026
-DTSTART;VALUE=DATE;VALUE=DATE:20250331
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 5.2 Orthogonal Subspaces [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749026
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749027
-DTSTART;VALUE=DATE;VALUE=DATE:20250331
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 5.3 Least Squares [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=03&year=2025#assignment_5749027
-END:VEVENT
-BEGIN:VEVENT
+
 DTSTAMP:20241121T214300Z
-UID:event-assignment-override-615420
-DTSTART;VALUE=DATE;VALUE=DATE:20250411
-CLASS:PUBLIC
-DESCRIPTION:* Notes and Exercises: [LAB 5] (https://canvas.asu.edu/courses/
-206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5.pdf?canvas_d
-ownload=1&canvas_qs_wrap=1)\n\n* Download the files: [LAB05_ex1.m] (https:
-//canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/L
-ab05_v1/LAB05_ex1.m?canvas_download=1&canvas_qs_wrap=1)\,  [gco2.dat] (ht
-tps://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LA
-BS/Lab05_v1/gco2.dat?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the
-[Live Script templat] (https://canvas.asu.edu/courses/206466/file_content
-s/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_download=1&
-canvas_qs_wrap=1)e for you lab write-up.
-SEQUENCE:0
+
+DESCRIPTION:* Notes and Exercises: [LAB 5] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5.pdf?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the files: [LAB05_ex1.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/LAB05_ex1.m?canvas_download=1&canvas_qs_wrap=1)\,  [gco2.dat] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/gco2.dat?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the [Live Script templat] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_download=1&canvas_qs_wrap=1)e for you lab write-up.
+
 SUMMARY:LAB 5 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=04&year=2025#assignment_5747718
-X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instr
-ucture_file_link instructure_scribd_file" title="lab5.pdf" href="https://c
-anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
-5_v1/lab5.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="
-https://asu.instructure.com/api/v1/courses/9590/files/1988360" data-api-re
-turntype="File">LAB 5</a></li>\n<li>Download the files: <a class="instruct
-ure_file_link instructure_scribd_file" title="LAB05_ex1.m" href="https://c
-anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
-5_v1/LAB05_ex1.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoin
-t="https://asu.instructure.com/api/v1/courses/9590/files/1988495" data-api
--returntype="File">LAB05_ex1.m</a>\,&nbsp\; <a class="instructure_file_lin
-k instructure_scribd_file" title="gco2.dat" href="https://canvas.asu.edu/c
-ourses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/gco2.dat?c
-anvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.ins
-tructure.com/api/v1/courses/9590/files/1988374" data-api-returntype="File"
->gco2.dat</a></li>\n<li>Download the <a class="instructure_file_link" titl
-e="lab5_template.mlx" href="https://canvas.asu.edu/courses/206466/file_con
-tents/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_downloa
-d=1&amp\;canvas_qs_wrap=1">Live Script templat</a>e for you lab write-up.<
-/li>\n</ol>
+
+UID:event-assignment-override-615420
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5747718
+
 END:VEVENT
+
 BEGIN:VEVENT
-DTSTAMP:20250113T042900Z
-UID:event-assignment-5749028
-DTSTART;VALUE=DATE;VALUE=DATE:20250415
-CLASS:PUBLIC
+
 SEQUENCE:0
-SUMMARY:Section 5.4 Inner Product Spaces [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=04&year=2025#assignment_5749028
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T043000Z
-UID:event-assignment-5749029
-DTSTART;VALUE=DATE;VALUE=DATE:20250415
+
+X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab6.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988416" data-api-returntype="File">LAB 6</a></li>\n<li>Download the file: <a class="instructure_file_link instructure_image_thumbnail" title="gauss.jpg" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/gauss.jpg?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988419" data-api-returntype="File">gauss.jpg</a></li>\n<li>Download the <a class="instructure_file_link" title="lab6_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for your lab write-up.</li>\n</ol>
+
+DTSTART;VALUE=DATE:20250425
+
 CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 5.5 Orthonormal Sets [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=04&year=2025#assignment_5749029
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T043000Z
-UID:event-assignment-5749030
-DTSTART;VALUE=DATE;VALUE=DATE:20250422
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 5.6 Qr Factorization [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=04&year=2025#assignment_5749030
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250113T043000Z
-UID:event-assignment-5749031
-DTSTART;VALUE=DATE;VALUE=DATE:20250422
-CLASS:PUBLIC
-SEQUENCE:0
-SUMMARY:Section 6.1 Eigenvalues and Eigenvectors [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=04&year=2025#assignment_5749031
-END:VEVENT
-BEGIN:VEVENT
+
 DTSTAMP:20241121T214300Z
-UID:event-assignment-override-615422
-DTSTART;VALUE=DATE;VALUE=DATE:20250425
-CLASS:PUBLIC
-DESCRIPTION:* Notes and Exercises: [LAB 6] (https://canvas.asu.edu/courses/
-206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6.pdf?canvas_d
-ownload=1&canvas_qs_wrap=1)\n\n* Download the file: [gauss.jpg] (https://c
-anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
-6_v1/gauss.jpg?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the [Live
-Script template] (https://canvas.asu.edu/courses/206466/file_contents/cou
-rse%20files/MAT343_LABS/Lab06_v1/lab6_template.mlx?canvas_download=1&canva
-s_qs_wrap=1) for your lab write-up.
-SEQUENCE:0
+
+DESCRIPTION:* Notes and Exercises: [LAB 6] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6.pdf?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the file: [gauss.jpg] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/gauss.jpg?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the [Live Script template] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6_template.mlx?canvas_download=1&canvas_qs_wrap=1) for your lab write-up.
+
 SUMMARY:LAB 6 Materals & Assignments (Set A) [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=04&year=2025#assignment_5747721
-X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instr
-ucture_file_link instructure_scribd_file" title="lab6.pdf" href="https://c
-anvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab0
-6_v1/lab6.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="
-https://asu.instructure.com/api/v1/courses/9590/files/1988416" data-api-re
-turntype="File">LAB 6</a></li>\n<li>Download the file: <a class="instructu
-re_file_link instructure_image_thumbnail" title="gauss.jpg" href="https://
-canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab
-06_v1/gauss.jpg?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint
-="https://asu.instructure.com/api/v1/courses/9590/files/1988419" data-api-
-returntype="File">gauss.jpg</a></li>\n<li>Download the <a class="instructu
-re_file_link" title="lab6_template.mlx" href="https://canvas.asu.edu/cours
-es/206466/file_contents/course%20files/MAT343_LABS/Lab06_v1/lab6_template.
-mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for
-your lab write-up.</li>\n</ol>
+
+UID:event-assignment-override-615422
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5747721
+
 END:VEVENT
+
 BEGIN:VEVENT
-DTSTAMP:20250113T043000Z
-UID:event-assignment-5749032
-DTSTART;VALUE=DATE;VALUE=DATE:20250429
-CLASS:PUBLIC
+
 SEQUENCE:0
-SUMMARY:Section 6.3 Diagonalization [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=04&year=2025#assignment_5749032
+
+X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab1.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab01_v1/lab1.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988377" data-api-returntype="File">LAB 1</a></p>\n<p>Download this <a class="instructure_file_link" title="lab1_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab01_v1/lab1_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write-up.</p>\n<p>Here is a short video which explains <a href="https://www.mathworks.com/videos/using-the-live-editor-117940.html">how to use MATLAB Live Scripts</a>.</p>\n<p>Don't forget to save it as a pdf file before you submit it.</p>
+
+DTSTART;VALUE=DATE:20250131
+
+CLASS:PUBLIC
+
+DTSTAMP:20241121T213900Z
+
+DESCRIPTION:Notes and Exercises: [LAB 1] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab01_v1/lab1.pdf?canvas_download=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab01_v1/lab1_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab write-up.\n\nHere is a short video which explains [how to use MATLAB Live Scripts] (https://www.mathworks.com/videos/using-the-live-editor-117940.html).\n\nDon't forget to save it as a pdf file before you submit it.
+
+SUMMARY:LAB 1 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-override-615411
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=01&year=2025#assignment_5747710
+
 END:VEVENT
+
 BEGIN:VEVENT
-DTSTAMP:20250113T043000Z
-UID:event-assignment-5749033
-DTSTART;VALUE=DATE;VALUE=DATE:20250502
-CLASS:PUBLIC
+
 SEQUENCE:0
+
+X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab2.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab02_v1/lab2.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988424" data-api-returntype="File">LAB 2</a></p>\n<p>Download this <a class="instructure_file_link" title="lab2_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab02_v1/lab2_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write-up.</p>\n<p>Don't forget to save it as a pdf file before you submit it.</p>
+
+DTSTART;VALUE=DATE:20250214
+
+CLASS:PUBLIC
+
+DTSTAMP:20241121T214000Z
+
+DESCRIPTION:Notes and Exercises: [LAB 2] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab02_v1/lab2.pdf?canvas_download=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab02_v1/lab2_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab write-up.\n\nDon't forget to save it as a pdf file before you submit it.
+
+SUMMARY:LAB 2 Materials and Assignments (Set A) [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-override-615414
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5747713
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250422
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T043000Z
+
+SUMMARY:Section 5.6 Qr Factorization [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749030
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749030
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab3.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988411" data-api-returntype="File">LAB 3</a></p>\n<p>Download this <a class="instructure_file_link" title="lab3_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write up.</p>
+
+DTSTART;VALUE=DATE:20250228
+
+CLASS:PUBLIC
+
+DTSTAMP:20241121T214100Z
+
+DESCRIPTION:Notes and Exercises: [LAB 3] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3.pdf?canvas_download=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab write up.
+
+SUMMARY:LAB 3 Materials& Assigments (Set A) [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-override-615416
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5747715
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250422
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T043000Z
+
+SUMMARY:Section 6.1 Eigenvalues and Eigenvectors [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749031
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749031
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab4.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988388" data-api-returntype="File">LAB 4</a></li>\n<li>Download the following M-files: <a class="instructure_file_link instructure_scribd_file" title="lab4_example2.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example2.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988390" data-api-returntype="File">lab4_example2.m</a>\, <a class="instructure_file_link instructure_scribd_file" title="lab4_example3.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example3.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988396" data-api-returntype="File">lab4_example3.m</a>\, <a class="instructure_file_link instructure_scribd_file" title="lab4_example4.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example4.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988404" data-api-returntype="File">lab4_example4.m\,</a> <a class="instructure_file_link instructure_scribd_file" title="lab4_example5.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example5.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988385" data-api-returntype="File">lab4_example5.m</a>\, <a class="instructure_file_link instructure_scribd_file" title="lab4_example6.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example6.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988392" data-api-returntype="File">lab4_example6.m</a>\, <a class="instructure_file_link instructure_scribd_file" title="lab4_example7.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example7.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988398" data-api-returntype="File">lab4_example7.m</a>\, <a class="instructure_file_link instructure_scribd_file" title="lab4_example8.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example8.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988391" data-api-returntype="File">lab4_example8.m</a>\, l<a class="instructure_file_link instructure_scribd_file" title="lab4_example9.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example9.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988395" data-api-returntype="File">ab4_example9.m</a></li>\n<li>Download the <a class="instructure_file_link" title="lab4_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for your lab write-up.</li>\n</ol>
+
+DTSTART;VALUE=DATE:20250321
+
+CLASS:PUBLIC
+
+DTSTAMP:20241121T214200Z
+
+DESCRIPTION:* Notes and Exercises: [LAB 4] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4.pdf?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the following M-files: [lab4_example2.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example2.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example3.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example3.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example4.m\,] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example4.m?canvas_download=1&canvas_qs_wrap=1) [lab4_example5.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example5.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example6.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example6.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example7.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example7.m?canvas_download=1&canvas_qs_wrap=1)\, [lab4_example8.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example8.m?canvas_download=1&canvas_qs_wrap=1)\, l[ab4_example9.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_example9.m?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the [Live Script template] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab04_v1/lab4_template.mlx?canvas_download=1&canvas_qs_wrap=1) for your lab write-up.
+
+SUMMARY:LAB 4 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-override-615418
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5747716
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250502
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T043000Z
+
 SUMMARY:Section 6.5 Singular Value Decomposition [2025SpringC-T-MAT343-18365]
-URL;VALUE=URI:https://canvas.asu.edu/calendar?include_contexts=course_20646
-6&month=05&year=2025#assignment_5749033
+
+UID:event-assignment-5749033
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=05&year=2025#assignment_5749033
+
 END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250429
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T043000Z
+
+SUMMARY:Section 6.3 Diagonalization [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749032
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749032
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+X-ALT-DESC;FMTTYPE=text/html:<p>The first MATLAB assignment is an interactive assignment done online through your Mathworks account. Click <a class="instructure_file_link instructure_scribd_file inline_disabled" title="Accessing_MATLAB_Onramp_MAT343.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Accessing_MATLAB_Onramp_MAT343.pdf?canvas_=1&amp\;canvas_qs_wrap=1" target="_blank">here</a> and follow the instructions on how to access the MATLAB onramp assignment. Credit will be given only if 100% of the Onramp course is completed.</p>\n<p><strong>NOTE: This assignment is extra credit.</strong> The OnRamp activity covers the basics of MATLAB programming and it will greatly help you for subsequent labs.</p>\n<p>You may submit a pre-existing certificate if it is no older than 1 year.</p>
+
+DTSTART;VALUE=DATE:20250124
+
+CLASS:PUBLIC
+
+DTSTAMP:20241121T214500Z
+
+DESCRIPTION:The first MATLAB assignment is an interactive assignment done online through your Mathworks account. Click [here] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Accessing_MATLAB_Onramp_MAT343.pdf?canvas_=1&canvas_qs_wrap=1) and follow the instructions on how to access the MATLAB onramp assignment. Credit will be given only if 100% of the Onramp course is completed.\n\nNOTE: This assignment is extra credit. The OnRamp activity covers the basics of MATLAB programming and it will greatly help you for subsequent labs.\n\nYou may submit a pre-existing certificate if it is no older than 1 year.
+
+SUMMARY:LAB 0 - MATLAB OnRamp [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5747709
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=01&year=2025#assignment_5747709
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250304
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 3.4 Basis and Dimension [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749020
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749020
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250304
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 3.5 Change of Basis [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749021
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749021
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250318
+
+CLASS:PUBLIC
+
+DTSTAMP:20241121T215400Z
+
+SUMMARY:Section 4.1 Linear Transformations [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749022
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749022
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250318
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 3.6 Row and Column Space [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749023
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749023
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250325
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 5.1 Scalar Product [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749024
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749024
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250325
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 4.2 Matrix of Transformations [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749025
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749025
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250331
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 5.2 Orthogonal Subspaces [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749026
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749026
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250331
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 5.3 Least Squares [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749027
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749027
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250415
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 5.4 Inner Product Spaces [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749028
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749028
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250415
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T043000Z
+
+SUMMARY:Section 5.5 Orthonormal Sets [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749029
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749029
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250124
+
+CLASS:PUBLIC
+
+DTSTAMP:20250121T213800Z
+
+SUMMARY:Section 1.2 Row Echelon Form [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749010
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=01&year=2025#assignment_5749010
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250124
+
+CLASS:PUBLIC
+
+DTSTAMP:20250121T213700Z
+
+SUMMARY:Section 1.1 Systems [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749011
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=01&year=2025#assignment_5749011
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250130
+
+CLASS:PUBLIC
+
+DTSTAMP:20250127T220100Z
+
+SUMMARY:Section 1.3 Matrix Arithmetic [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749012
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=01&year=2025#assignment_5749012
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250130
+
+CLASS:PUBLIC
+
+DTSTAMP:20250127T220100Z
+
+SUMMARY:Section 1.4 Matrix Algebra [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749013
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=01&year=2025#assignment_5749013
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250204
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042800Z
+
+SUMMARY:Section 2.1 Determinant [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749014
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5749014
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250204
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042800Z
+
+SUMMARY:Section 1.5 Elementary Matrices [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749015
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5749015
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250211
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042800Z
+
+SUMMARY:Section 2.2 Properties of Determinants [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749016
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5749016
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250211
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042800Z
+
+SUMMARY:Section 3.1 Vector Spaces [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749017
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5749017
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250217
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042900Z
+
+SUMMARY:Section 3.3 Linear Independence [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749018
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5749018
+
+END:VEVENT
+
+BEGIN:VEVENT
+
+SEQUENCE:0
+
+DTSTART;VALUE=DATE:20250217
+
+CLASS:PUBLIC
+
+DTSTAMP:20250113T042800Z
+
+SUMMARY:Section 3.2 Subspaces [2025SpringC-T-MAT343-18365]
+
+UID:event-assignment-5749019
+
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5749019
+
+END:VEVENT
+
 END:VCALENDAR
