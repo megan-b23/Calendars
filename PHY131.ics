@@ -4,21 +4,154 @@ PRODID:icalendar-ruby
 BEGIN:VEVENT
 SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
-DTSTART;VALUE=DATE:20250128
+DTSTART;VALUE=DATE:20250305
 CLASS:PUBLIC
-DTSTAMP:20250121T195500Z
-SUMMARY:Quiz Assignment 2 [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6037330
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=01&year=2025#assignment_6037330
+DTSTAMP:20250226T000000Z
+SUMMARY:Quiz Assignment 6 [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6094040
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_6094040
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250421
+CLASS:PUBLIC
+DTSTAMP:20250128T005400Z
+SUMMARY:HW11 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608793
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#calendar_event_1608793
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250428
+CLASS:PUBLIC
+DTSTAMP:20250128T005400Z
+SUMMARY:HW12 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608794
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#calendar_event_1608794
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250303
+CLASS:PUBLIC
+DTSTAMP:20250128T005200Z
+SUMMARY:HW6 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608789
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#calendar_event_1608789
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
-DTSTART;VALUE=DATE:20250121
+DTSTART;VALUE=DATE:20250204
 CLASS:PUBLIC
-DTSTAMP:20250114T193700Z
-SUMMARY:Quiz Assignment 1 [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6019737
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=01&year=2025#assignment_6019737
+DTSTAMP:20250129T070000Z
+SUMMARY:Quiz Assignment 3 [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6050846
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#assignment_6050846
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:
+DTSTART;VALUE=DATE:20250211
+CLASS:PUBLIC
+DTSTAMP:20250205T070000Z
+SUMMARY:Quiz Assignment 4 [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6058552
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#assignment_6058552
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250203
+CLASS:PUBLIC
+DTSTAMP:20250218T193800Z
+SUMMARY:HW 03 - Electric Flux and Gauss's Law [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6080769
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#assignment_6080769
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Please\, upload here the files for your free response questions.&nbsp\; You can do either single file upload or upload three separate files for each question\, whatever works best</p>
+CLASS:PUBLIC
+DTSTAMP:20250212T150000Z
+DESCRIPTION:Please\, upload here the files for your free response questions.  You can do either single file upload or upload three separate files for each question\, whatever works best
+DTEND:20250213T081500Z
+DTSTART:20250213T081500Z
+SUMMARY:Test 1- File upload [2025SpringC-X-PHY131-24394]
+UID:event-assignment-5914956
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#assignment_5914956
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>1) Go through each question (including free response in the lockdown browser).</p>\n<p>2) When you are done\, show your work for the free-response problems to the camera.</p>\n<p>3) Go to the separate file upload quiz on canvas and upload your work (we will check that the time you log out from respondus matches the time you upload files into the file upload quiz in canvas\,&nbsp\; ~15 mins after you are done).</p>\n<p>4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.</p>\n<p>5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.</p>\n<p>6) No partial credit for multiple choice.&nbsp\;</p>\n<p><img id="100296386" src="https://canvas.asu.edu/courses/212901/files/100296386/preview" alt="New_Eq_sheet_1.png" width="841" height="1088" loading="lazy" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212901/files/100296386" data-api-returntype="File"></p>
+DTSTART;VALUE=DATE:20250212
+CLASS:PUBLIC
+DTSTAMP:20250212T150000Z
+DESCRIPTION:1) Go through each question (including free response in the lockdown browser).\n\n2) When you are done\, show your work for the free-response problems to the camera.\n\n3) Go to the separate file upload quiz on canvas and upload your work (we will check that the time you log out from respondus matches the time you upload files into the file upload quiz in canvas\,  ~15 mins after you are done).\n\n4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.\n\n5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.\n\n6) No partial credit for multiple choice. \n\n[New_Eq_sheet_1.png] (https://canvas.asu.edu/courses/212901/files/100296386/preview)
+SUMMARY:Test 1 + Webcam - Requires Respondus LockDown Browser + Webcam [2025SpringC-X-PHY131-24394]
+UID:event-assignment-5914961
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#assignment_5914961
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250224
+CLASS:PUBLIC
+DTSTAMP:20250128T005200Z
+SUMMARY:HW5 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608788
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#calendar_event_1608788
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250203
+CLASS:PUBLIC
+DTSTAMP:20250218T193800Z
+SUMMARY:HW 02 - Electric Dipoles [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6080767
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#assignment_6080767
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:
+DTSTART;VALUE=DATE:20250226
+CLASS:PUBLIC
+DTSTAMP:20250219T070000Z
+SUMMARY:Quiz Assignment 5 [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6080771
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#assignment_6080771
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250210
+CLASS:PUBLIC
+DTSTAMP:20250128T005200Z
+SUMMARY:HW4 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608787
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=02&year=2025#calendar_event_1608787
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250324
+CLASS:PUBLIC
+DTSTAMP:20250128T005300Z
+SUMMARY:HW7 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608790
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#calendar_event_1608790
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250331
+CLASS:PUBLIC
+DTSTAMP:20250128T005300Z
+SUMMARY:HW8 and HW9 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608791
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#calendar_event_1608791
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250414
+CLASS:PUBLIC
+DTSTAMP:20250128T005400Z
+SUMMARY:HW10 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608792
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#calendar_event_1608792
 END:VEVENT
 END:VCALENDAR

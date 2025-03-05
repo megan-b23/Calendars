@@ -25,21 +25,10 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\, Sections 3.1 and 3.2</li>\n</ul>
-DTSTART;VALUE=DATE:20250131
-CLASS:PUBLIC
-DTSTAMP:20250103T235300Z
-DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.1 and 3.2
-SUMMARY:Homework 3 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904922
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904922
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 3\, Sections 3.3 and 3.4</li>\n<li>Review problems from Chapter 2\, Sections 2.5\, 2.7\, and 2.9</li>\n<li>Review problems from Chapter 3\, Section 3.1</li>\n</ul>
 DTSTART;VALUE=DATE:20250204
 CLASS:PUBLIC
-DTSTAMP:20250103T235400Z
+DTSTAMP:20250206T151800Z
 DESCRIPTION:Material covered:\n\n* Chapter 3\, Sections 3.3 and 3.4\n\n* Review problems from Chapter 2\, Sections 2.5\, 2.7\, and 2.9\n\n* Review problems from Chapter 3\, Section 3.1
 SUMMARY:Homework 4 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904923
@@ -61,7 +50,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\, Sections 4.1 and 4.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.3</li>\n<li>Review problems from Chapter 2\, Section 2.7</li>\n</ul>
 DTSTART;VALUE=DATE:20250211
 CLASS:PUBLIC
-DTSTAMP:20250103T235500Z
+DTSTAMP:20250214T234000Z
 DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.1 and 4.2\n\n* Review problems from Chapter 3\, Sections 3.2 and 3.3\n\n* Review problems from Chapter 2\, Section 2.7
 SUMMARY:Homework 6 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904925
@@ -94,7 +83,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 6\, Sections 6.1 and 6.3</li>\n</ul>
 DTSTART;VALUE=DATE:20250228
 CLASS:PUBLIC
-DTSTAMP:20250103T235700Z
+DTSTAMP:20250302T005900Z
 DESCRIPTION:Material covered:\n\n* Chapter 6\, Sections 6.1 and 6.3
 SUMMARY:Homework 9 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904928
@@ -231,28 +220,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 2\, Sections 2.5 - 2.9</li>\n</ul>
-DTSTART;VALUE=DATE:20250128
-CLASS:PUBLIC
-DTSTAMP:20250103T235200Z
-DESCRIPTION:Material covered:\n\n* Chapter 2\, Sections 2.5 - 2.9
-SUMMARY:Homework 2 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904918
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904918
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the section on Probability.</p>\n<p>You will have 30 minutes to complete this quiz. &nbsp\;</p>\n<p>This quiz is open book and open note.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>\n<p>&nbsp\;</p>
-DTSTART;VALUE=DATE:20250126
-CLASS:PUBLIC
-DTSTAMP:20250125T000000Z
-DESCRIPTION:This quiz covers the lectures and readings pertaining to the section on Probability.\n\nYou will have 30 minutes to complete this quiz.  \n\nThis quiz is open book and open note. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. \n\n 
-SUMMARY:Quiz 1 - Probability\; Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904899
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904899
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 DTSTART;VALUE=DATE:20250323
 CLASS:PUBLIC
 DTSTAMP:20250104T002200Z
@@ -262,9 +229,11 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the section on Discrete Random Variables and Probability Distributions.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;</p>\n<p>This quiz is open book and open note\, but not with devices connected to the internet.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
 DTSTART;VALUE=DATE:20250209
 CLASS:PUBLIC
-DTSTAMP:20250104T001500Z
+DTSTAMP:20250212T192900Z
+DESCRIPTION:This quiz covers the lectures and readings pertaining to the section on Discrete Random Variables and Probability Distributions.\n\nYou will have 30 minutes to complete this quiz. \n\nThis quiz is open book and open note\, but not with devices connected to the internet. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
 SUMMARY:Quiz 2 - Discrete Random Variables and Probability Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904901
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904901
@@ -289,9 +258,11 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the section on Continuous Random Variables and Probability Distributions.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;</p>\n<p><span>This quiz is open book and open note\, but not with devices connected to the internet.&nbsp\;</span></p>\n<p>This quiz is open book and open note.&nbsp\; You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
 DTSTART;VALUE=DATE:20250216
 CLASS:PUBLIC
-DTSTAMP:20250104T001700Z
+DTSTAMP:20250215T000000Z
+DESCRIPTION:This quiz covers the lectures and readings pertaining to the section on Continuous Random Variables and Probability Distributions.\n\nYou will have 30 minutes to complete this quiz. \n\nThis quiz is open book and open note\, but not with devices connected to the internet. \n\nThis quiz is open book and open note.  You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
 SUMMARY:Quiz 3 - Continuous Random Variables and Probability Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904904
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904904
@@ -314,17 +285,6 @@ DTSTART:20250506T232000Z
 SUMMARY:Final Exam [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904906
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904906
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Academic integrity</li>\n<li>Math review</li>\n<li>Chapter 1</li>\n<li>Chapter 2\, Sections 2.1 - 2.4</li>\n</ul>
-DTSTART;VALUE=DATE:20250124
-CLASS:PUBLIC
-DTSTAMP:20250103T234600Z
-DESCRIPTION:Material covered:\n\n* Academic integrity\n\n* Math review\n\n* Chapter 1\n\n* Chapter 2\, Sections 2.1 - 2.4
-SUMMARY:Homework 1 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904907
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=01&year=2025#assignment_5904907
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -383,10 +343,10 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your project here.&nbsp\; It is set to take up to 2 submissions.&nbsp\; The most recent submission will be the one graded.&nbsp\; Late submissions will&nbsp\; be penalized as noted in the project instructions below.&nbsp\; The actual due date for no penalty is 4/25/2025 11:59PM.</p>\n<p><strong>You must upload a Word doc (.doc or .docx)\, or pdf.</strong></p>\n<p>For a description of the project requirements\, refer to the project definition.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your project here.&nbsp\; It is set to take up to 2 submissions.&nbsp\; The most recent submission will be the one graded.&nbsp\; Late submissions will&nbsp\; be penalized as noted in the project instructions below.&nbsp\; The actual due date for no penalty is 4/25/2025 11:59PM.</p>\n<p><strong>You must upload a Word doc (.doc or .docx)\, or pdf.</strong></p>\n<p>For a description of the project requirements\, refer to the project definition.&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="IEE 380 Project Spring 2025.docx" href="https://canvas.asu.edu/courses/212488/files/104649714?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212488/files/104649714" data-api-returntype="File">IEE 380 Project Spring 2025.docx</a></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 CLASS:PUBLIC
-DTSTAMP:20250116T070000Z
-DESCRIPTION:Submit your project here.  It is set to take up to 2 submissions.  The most recent submission will be the one graded.  Late submissions will  be penalized as noted in the project instructions below.  The actual due date for no penalty is 4/25/2025 11:59PM.\n\nYou must upload a Word doc (.doc or .docx)\, or pdf.\n\nFor a description of the project requirements\, refer to the project definition.\n\n \n\n \n\n \n\n \n\n 
+DTSTAMP:20250305T033300Z
+DESCRIPTION:Submit your project here.  It is set to take up to 2 submissions.  The most recent submission will be the one graded.  Late submissions will  be penalized as noted in the project instructions below.  The actual due date for no penalty is 4/25/2025 11:59PM.\n\nYou must upload a Word doc (.doc or .docx)\, or pdf.\n\nFor a description of the project requirements\, refer to the project definition. \n\n[IEE 380 Project Spring 2025.docx] (https://canvas.asu.edu/courses/212488/files/104649714?wrap=1)\n\n \n\n \n\n \n\n \n\n \n\n 
 DTEND:20250426T170100Z
 DTSTART:20250426T170100Z
 SUMMARY:Semester Project Submission DUE 4/25  late on 4/26 [2025SpringC-T-IEE380-32367]
