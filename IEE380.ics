@@ -25,17 +25,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 4\, Sections 4.5 and 4.7</li>\n<li>Review problems from Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 4\, Section 4.2</li>\n</ul>
-DTSTART;VALUE=DATE:20250216
-CLASS:PUBLIC
-DTSTAMP:20250103T235600Z
-DESCRIPTION:Material covered:\n\n* Chapter 4\, Sections 4.5 and 4.7\n\n* Review problems from Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems from Chapter 4\, Section 4.2
-SUMMARY:Homework 8 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904927
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904927
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 6\, Sections 6.1 and 6.3</li>\n</ul>
 DTSTART;VALUE=DATE:20250228
 CLASS:PUBLIC
@@ -202,17 +191,6 @@ DESCRIPTION:This quiz covers the lectures and readings pertaining to the section
 SUMMARY:Quiz 4 - Descriptive Statistics\, Methods of Point Estimation\, and Sampling Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904903
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904903
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the section on Continuous Random Variables and Probability Distributions.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;</p>\n<p><span>This quiz is open book and open note\, but not with devices connected to the internet.&nbsp\;</span></p>\n<p>This quiz is open book and open note.&nbsp\; You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
-DTSTART;VALUE=DATE:20250216
-CLASS:PUBLIC
-DTSTAMP:20250215T000000Z
-DESCRIPTION:This quiz covers the lectures and readings pertaining to the section on Continuous Random Variables and Probability Distributions.\n\nYou will have 30 minutes to complete this quiz. \n\nThis quiz is open book and open note\, but not with devices connected to the internet. \n\nThis quiz is open book and open note.  You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
-SUMMARY:Quiz 3 - Continuous Random Variables and Probability Distributions - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904904
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904904
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
