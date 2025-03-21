@@ -47,6 +47,17 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 6 (PDA and Non-CFLs)</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
+DTSTART;VALUE=DATE:20250321
+CLASS:PUBLIC
+DTSTAMP:20250319T233000Z
+DESCRIPTION:Quiz 6 (PDA and Non-CFLs)\n\nIt is a clear violation of Academic Integrity if you are:\n\n* sharing questions/answers of this quiz before its due date\,\n\n* solving quiz questions together\,\n\n* or having someone else take this quiz for you.\n\nGood luck!
+SUMMARY:Quiz 6 - PDA and Non-CFLs [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994742
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_5994742
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="CSE355_SP25_hw2.pdf" href="https://canvas.asu.edu/courses/215273/files/102558969?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/215273/files/102558969" data-api-returntype="File">CSE355_SP25_hw2.pdf</a></p>\n<p>Please review the academic integrity information on the syllabus.</p>\n<p>&nbsp\;</p>\n<p>Make sure to include your "collaboration statement" in your submission\, otherwise yours will NOT be graded.</p>\n<p>&nbsp\;</p>\n<p><em><strong>NO Extension for this assignment </strong></em>will be granted as the solutions will be released immediately following the deadline as students will need to study for midterm 1.</p>
 DTSTART;VALUE=DATE:20250220
 CLASS:PUBLIC
@@ -77,6 +88,17 @@ DTSTART:20250224T231500Z
 SUMMARY:Midterm 1 [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-5994762
 URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=02&year=2025#assignment_5994762
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 10</p>
+DTSTART;VALUE=DATE:20250328
+CLASS:PUBLIC
+DTSTAMP:20250320T140000Z
+DESCRIPTION:Recitation 10
+SUMMARY:Recitation 10 [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994766
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_5994766
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
