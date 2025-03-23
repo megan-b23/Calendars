@@ -248,17 +248,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>The first in-class midterm&nbsp\;</p>
-DTSTART;VALUE=DATE:20250219
-CLASS:PUBLIC
-DTSTAMP:20250104T001200Z
-DESCRIPTION:The first in-class midterm 
-SUMMARY:Midterm Exam 1 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904931
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=02&year=2025#assignment_5904931
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Grade book place holder for the midterm exam.</p>
 DTSTART;VALUE=DATE:20250409
 CLASS:PUBLIC

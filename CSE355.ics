@@ -58,17 +58,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="CSE355_SP25_hw2.pdf" href="https://canvas.asu.edu/courses/215273/files/102558969?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/215273/files/102558969" data-api-returntype="File">CSE355_SP25_hw2.pdf</a></p>\n<p>Please review the academic integrity information on the syllabus.</p>\n<p>&nbsp\;</p>\n<p>Make sure to include your "collaboration statement" in your submission\, otherwise yours will NOT be graded.</p>\n<p>&nbsp\;</p>\n<p><em><strong>NO Extension for this assignment </strong></em>will be granted as the solutions will be released immediately following the deadline as students will need to study for midterm 1.</p>
-DTSTART;VALUE=DATE:20250220
-CLASS:PUBLIC
-DTSTAMP:20250218T071800Z
-DESCRIPTION:[CSE355_SP25_hw2.pdf] (https://canvas.asu.edu/courses/215273/files/102558969?wrap=1)\n\nPlease review the academic integrity information on the syllabus.\n\n \n\nMake sure to include your "collaboration statement" in your submission\, otherwise yours will NOT be graded.\n\n \n\nNO Extension for this assignment will be granted as the solutions will be released immediately following the deadline as students will need to study for midterm 1.
-SUMMARY:Assignment 2 - NFA\, RE\, Closure Properties\, nonregular languages [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994754
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=02&year=2025#assignment_5994754
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="CSE355_SP25_hw3.pdf" href="https://canvas.asu.edu/courses/215273/files/104745292?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/215273/files/104745292" data-api-returntype="File">CSE355_SP25_hw3.pdf</a></p>\n<p>&nbsp\;</p>\n<p>Please review the academic integrity information on the syllabus.</p>\n<p>&nbsp\;</p>\n<p>Include your "collaboration statement"\, otherwise yours will NOT be graded.</p>
 DTSTART;VALUE=DATE:20250321
 CLASS:PUBLIC
