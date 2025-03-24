@@ -89,26 +89,4 @@ SUMMARY:Recitation 10 [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-5994766
 URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_5994766
 END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Recitation #5</p>
-DTSTART;VALUE=DATE:20250221
-CLASS:PUBLIC
-DTSTAMP:20250217T055400Z
-DESCRIPTION:Recitation #5
-SUMMARY:Recitation 5 [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994775
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=02&year=2025#assignment_5994775
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>CSE355 Recitation6</p>
-DTSTART;VALUE=DATE:20250221
-CLASS:PUBLIC
-DTSTAMP:20250217T055400Z
-DESCRIPTION:CSE355 Recitation6
-SUMMARY:Recitation 6 [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994776
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=02&year=2025#assignment_5994776
-END:VEVENT
 END:VCALENDAR
