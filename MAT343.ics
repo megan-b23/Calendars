@@ -59,9 +59,9 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250321
+DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
-DTSTAMP:20250317T215700Z
+DTSTAMP:20250324T220500Z
 SUMMARY:Section 4.1 Linear Transformations [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749022
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749022
@@ -88,30 +88,30 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250325
+DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
+DTSTAMP:20250324T220600Z
 SUMMARY:Section 5.1 Scalar Product [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749024
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749024
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250325
+DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
+DTSTAMP:20250324T220600Z
 SUMMARY:Section 4.2 Matrix of Transformations [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749025
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749025
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250331
+DTSTART;VALUE=DATE:20250409
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
+DTSTAMP:20250325T172600Z
 SUMMARY:Section 5.2 Orthogonal Subspaces [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749026
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749026
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749026
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -153,12 +153,12 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250331
+DTSTART;VALUE=DATE:20250409
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
+DTSTAMP:20250325T172700Z
 SUMMARY:Section 5.3 Least Squares [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749027
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749027
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749027
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
