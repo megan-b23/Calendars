@@ -69,17 +69,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:
-CLASS:PUBLIC
-DTSTAMP:20250306T103800Z
-DTEND:20250224T231500Z
-DTSTART:20250224T231500Z
-SUMMARY:Midterm 1 [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994762
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=02&year=2025#assignment_5994762
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 10</p>
 DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
