@@ -68,17 +68,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab3.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988411" data-api-returntype="File">LAB 3</a></p>\n<p>Download this <a class="instructure_file_link" title="lab3_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script template</a> for the lab write up.</p>
-DTSTART;VALUE=DATE:20250228
-CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
-DESCRIPTION:Notes and Exercises: [LAB 3] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3.pdf?canvas_download=1&canvas_qs_wrap=1)\n\nDownload this [Live Script template] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab03_v1/lab3_template.mlx?canvas_download=1&canvas_qs_wrap=1) for the lab write up.
-SUMMARY:LAB 3 Materials& Assigments (Set A) [2025SpringC-T-MAT343-18365]
-UID:event-assignment-override-615416
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=02&year=2025#assignment_5747715
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 DTSTART;VALUE=DATE:20250321
 CLASS:PUBLIC
 DTSTAMP:20250317T215800Z
@@ -112,6 +101,15 @@ DTSTAMP:20250325T172600Z
 SUMMARY:Section 5.2 Orthogonal Subspaces [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749026
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749026
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250409
+CLASS:PUBLIC
+DTSTAMP:20250325T172700Z
+SUMMARY:Section 5.3 Least Squares [2025SpringC-T-MAT343-18365]
+UID:event-assignment-5749027
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749027
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -150,15 +148,6 @@ DESCRIPTION:* Notes and Exercises: [LAB 5] (https://canvas.asu.edu/courses/20646
 SUMMARY:LAB 5 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
 UID:event-assignment-override-615420
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5747718
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250409
-CLASS:PUBLIC
-DTSTAMP:20250325T172700Z
-SUMMARY:Section 5.3 Least Squares [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749027
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749027
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
