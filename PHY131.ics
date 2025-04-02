@@ -42,15 +42,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250331
-CLASS:PUBLIC
-DTSTAMP:20250128T005300Z
-SUMMARY:HW8 and HW9 due [2025SpringC-X-PHY131-24394]
-UID:event-calendar-event-1608791
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#calendar_event_1608791
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<div class="row-fluid">\n<div class="description user_content teacher-version enhanced">\n<p>1) Go through each question (including free response in the lockdown browser).</p>\n<p>2) When you are done\, show your work for the free-response problems to the camera.</p>\n<p>3) Go to the separate file upload quiz on canvas and upload your work (we will check that the time you log out from respondus matches the time you upload files into the file upload quiz in canvas\,&nbsp\; ~15 mins after you are done).</p>\n<p>4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.</p>\n<p>5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.</p>\n<p>6) No partial credit for multiple choice.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p><img id="43132080" src="https://canvas.asu.edu/courses/212901/files/100296342/preview" alt="Equation_sheet_2.png" loading="lazy" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212901/files/100296342" data-api-returntype="File"></p>\n</div>\n</div>
 CLASS:PUBLIC
 DTSTAMP:20250323T233700Z
@@ -63,6 +54,16 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+CLASS:PUBLIC
+DTSTAMP:20250402T024900Z
+DTEND:20250403T081500Z
+DTSTART:20250403T081500Z
+SUMMARY:Test 2- File upload [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6160014
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6160014
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250326
 CLASS:PUBLIC
@@ -70,6 +71,15 @@ DTSTAMP:20250319T070000Z
 SUMMARY:Quiz Assignment 7 [2025SpringC-X-PHY131-24394]
 UID:event-assignment-6146196
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_6146196
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250402
+CLASS:PUBLIC
+DTSTAMP:20250402T024900Z
+SUMMARY:Test 2 - Requires Respondus LockDown Browser + Webcam [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6160019
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6160019
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -92,12 +102,12 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250303
+DTSTART;VALUE=DATE:20250331
 CLASS:PUBLIC
-DTSTAMP:20250128T005200Z
-SUMMARY:HW6 due [2025SpringC-X-PHY131-24394]
-UID:event-calendar-event-1608789
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#calendar_event_1608789
+DTSTAMP:20250128T005300Z
+SUMMARY:HW8 and HW9 due [2025SpringC-X-PHY131-24394]
+UID:event-calendar-event-1608791
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#calendar_event_1608791
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0

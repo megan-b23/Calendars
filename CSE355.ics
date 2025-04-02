@@ -25,17 +25,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 8 - Ch. 2.1</p>
-DTSTART;VALUE=DATE:20250302
-CLASS:PUBLIC
-DTSTAMP:20250226T101500Z
-DESCRIPTION:Recitation 8 - Ch. 2.1
-SUMMARY:Recitation 7 - CFGs [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994778
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_5994778
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 5 ()</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
 DTSTART;VALUE=DATE:20250307
 CLASS:PUBLIC
@@ -69,6 +58,17 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="CSE355_SP25_hw4.pdf" href="https://canvas.asu.edu/courses/215273/files/106038181?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/215273/files/106038181" data-api-returntype="File">CSE355_SP25_hw4.pdf</a></p>\n<p>&nbsp\;</p>\n<p><em><strong>Don't forget to include your collaboration statement.</strong></em></p>
+DTSTART;VALUE=DATE:20250409
+CLASS:PUBLIC
+DTSTAMP:20250331T192400Z
+DESCRIPTION:[CSE355_SP25_hw4.pdf] (https://canvas.asu.edu/courses/215273/files/106038181?wrap=1)\n\n \n\nDon't forget to include your collaboration statement.
+SUMMARY:Assignment 4 (TM)  [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994758
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994758
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 10</p>
 DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
@@ -80,9 +80,11 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Spring 2025 Recitation 11</p>
 DTSTART;VALUE=DATE:20250404
 CLASS:PUBLIC
 DTSTAMP:20250331T102400Z
+DESCRIPTION:Spring 2025 Recitation 11
 SUMMARY:Recitation 11 [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-5994767
 URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994767
