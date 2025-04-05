@@ -24,21 +24,11 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Please\, upload here your work for questions 5-7</p>
 DTSTART;VALUE=DATE:20250401
 CLASS:PUBLIC
-DTSTAMP:20250330T222100Z
+DTSTAMP:20250404T172200Z
 DESCRIPTION:Please\, upload here your work for questions 5-7
 SUMMARY:Practice Test 2 file upload [2025SpringC-X-PHY131-24394]
 UID:event-assignment-6159978
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6159978
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:
-DTSTART;VALUE=DATE:20250305
-CLASS:PUBLIC
-DTSTAMP:20250226T000000Z
-SUMMARY:Quiz Assignment 6 [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6094040
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_6094040
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -54,8 +44,19 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+DTSTART;VALUE=DATE:20250324
 CLASS:PUBLIC
-DTSTAMP:20250402T024900Z
+DTSTAMP:20250404T172200Z
+SUMMARY:HW 07 - DC Circuits [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6170190
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_6170190
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Please\, upload here the files for your free response questions.&nbsp\; You can do either single file upload or upload three separate files for each question\, whatever works best</p>
+CLASS:PUBLIC
+DTSTAMP:20250402T150000Z
+DESCRIPTION:Please\, upload here the files for your free response questions.  You can do either single file upload or upload three separate files for each question\, whatever works best
 DTEND:20250403T081500Z
 DTSTART:20250403T081500Z
 SUMMARY:Test 2- File upload [2025SpringC-X-PHY131-24394]
@@ -64,19 +65,30 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+DTSTART;VALUE=DATE:20250331
+CLASS:PUBLIC
+DTSTAMP:20250404T172300Z
+SUMMARY:HW 08 - Magnetic Field and Forces [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6170194
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_6170194
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250326
 CLASS:PUBLIC
-DTSTAMP:20250319T070000Z
+DTSTAMP:20250404T172200Z
 SUMMARY:Quiz Assignment 7 [2025SpringC-X-PHY131-24394]
 UID:event-assignment-6146196
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_6146196
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>IMPORTANT: READ THE INSTRUCTIONS!</p>\n<p>1) Go through each question (including free response in the lockdown browser).</p>\n<p>2) When you are done\, show your work for problems 5\, 6\, and 7 to the camera.</p>\n<p>3) Upload the free-response immediately after (I will check that the time matches)</p>\n<p>4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.</p>\n<p>5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.</p>\n<p>&nbsp\;</p>\n<p><img id="106221871" src="https://canvas.asu.edu/courses/212901/files/106221871/preview" alt="2025Mid2_Eq.png" loading="lazy" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212901/files/106221871" data-api-returntype="File"></p>
 DTSTART;VALUE=DATE:20250402
 CLASS:PUBLIC
-DTSTAMP:20250402T024900Z
+DTSTAMP:20250404T021900Z
+DESCRIPTION:IMPORTANT: READ THE INSTRUCTIONS!\n\n1) Go through each question (including free response in the lockdown browser).\n\n2) When you are done\, show your work for problems 5\, 6\, and 7 to the camera.\n\n3) Upload the free-response immediately after (I will check that the time matches)\n\n4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.\n\n5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.\n\n \n\n[2025Mid2_Eq.png] (https://canvas.asu.edu/courses/212901/files/106221871/preview)
 SUMMARY:Test 2 - Requires Respondus LockDown Browser + Webcam [2025SpringC-X-PHY131-24394]
 UID:event-assignment-6160019
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6160019
