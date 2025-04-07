@@ -41,24 +41,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250307
-CLASS:PUBLIC
-DTSTAMP:20250305T014900Z
-SUMMARY:Section 3.4 Basis and Dimension [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749020
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749020
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250307
-CLASS:PUBLIC
-DTSTAMP:20250305T015000Z
-SUMMARY:Section 3.5 Change of Basis [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749021
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749021
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
 DTSTAMP:20250324T220500Z
