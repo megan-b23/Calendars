@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:icalendar-ruby
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250415
+DTSTART;VALUE=DATE:20250418
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
+DTSTAMP:20250408T224600Z
 SUMMARY:Section 5.5 Orthonormal Sets [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749029
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749029
@@ -32,9 +32,9 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250415
+DTSTART;VALUE=DATE:20250418
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
+DTSTAMP:20250408T224500Z
 SUMMARY:Section 5.4 Inner Product Spaces [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749028
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749028
@@ -77,9 +77,9 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250409
+DTSTART;VALUE=DATE:20250411
 CLASS:PUBLIC
-DTSTAMP:20250325T172600Z
+DTSTAMP:20250408T224700Z
 SUMMARY:Section 5.2 Orthogonal Subspaces [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749026
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749026

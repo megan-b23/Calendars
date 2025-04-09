@@ -14,14 +14,14 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 8 Spring 2025</p>
-DTSTART;VALUE=DATE:20250309
+X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 9</p>
+DTSTART;VALUE=DATE:20250321
 CLASS:PUBLIC
-DTSTAMP:20250303T072300Z
-DESCRIPTION:Recitation 8 Spring 2025
-SUMMARY:Recitation 8 - PDA [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994779
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_5994779
+DTSTAMP:20250317T090300Z
+DESCRIPTION:Recitation 9
+SUMMARY:Recitation#9 [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-6143240
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_6143240
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -32,17 +32,6 @@ DTSTAMP:20250407T140400Z
 SUMMARY:Recitation#12 [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-5994782
 URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994782
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 9</p>
-DTSTART;VALUE=DATE:20250321
-CLASS:PUBLIC
-DTSTAMP:20250317T090300Z
-DESCRIPTION:Recitation 9
-SUMMARY:Recitation#9 [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-6143240
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_6143240
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
