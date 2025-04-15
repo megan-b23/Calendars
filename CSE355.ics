@@ -112,6 +112,17 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 13 Chap 4.1 and Diagonalization</p>
+DTSTART;VALUE=DATE:20250328
+CLASS:PUBLIC
+DTSTAMP:20250415T061300Z
+DESCRIPTION:Recitation 13 Chap 4.1 and Diagonalization
+SUMMARY:Recitation 13 [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994769
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=03&year=2025#assignment_5994769
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 8 (TMs)</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
 DTSTART;VALUE=DATE:20250409
 CLASS:PUBLIC
@@ -120,5 +131,16 @@ DESCRIPTION:Quiz 8 (TMs)\n\nIt is a clear violation of Academic Integrity if y
 SUMMARY:Quiz 8 - TMs [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-5994732
 URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994732
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 9 ()</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
+DTSTART;VALUE=DATE:20250416
+CLASS:PUBLIC
+DTSTAMP:20250415T061500Z
+DESCRIPTION:Quiz 9 ()\n\nIt is a clear violation of Academic Integrity if you are:\n\n* sharing questions/answers of this quiz before its due date\,\n\n* solving quiz questions together\,\n\n* or having someone else take this quiz for you.\n\nGood luck!
+SUMMARY:Quiz 9 - Decidability/diagonalization [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994734
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994734
 END:VEVENT
 END:VCALENDAR
