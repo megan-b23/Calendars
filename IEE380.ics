@@ -61,7 +61,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\, Sections 9.2 and 9.3</li>\n<li>Review problems from Chapter 8\, Sections 8.1 and 8.2</li>\n</ul>
 DTSTART;VALUE=DATE:20250325
 CLASS:PUBLIC
-DTSTAMP:20250407T133900Z
+DTSTAMP:20250416T050500Z
 DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2 and 9.3\n\n* Review problems from Chapter 8\, Sections 8.1 and 8.2
 SUMMARY:Homework 14 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904912
@@ -72,7 +72,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\, Sections 9.2\, 9.4\, and 9.5</li>\n</ul>
 DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
-DTSTAMP:20250407T133900Z
+DTSTAMP:20250416T050600Z
 DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2\, 9.4\, and 9.5
 SUMMARY:Homework 15 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904913
@@ -83,7 +83,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Section 10.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.3</li>\n</ul>
 DTSTART;VALUE=DATE:20250401
 CLASS:PUBLIC
-DTSTAMP:20250407T134600Z
+DTSTAMP:20250416T050700Z
 DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.2\n\n* Review problems from Chapter 3\, Sections 3.2 and 3.3
 SUMMARY:Homework 16 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904914
@@ -94,7 +94,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Section 10.4</li>\n<li>Review problems from Chapter 2\, Section 2.8</li>\n<li>Review problems from Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 4\, Sections 4.4 and 4.7</li>\n</ul>
 DTSTART;VALUE=DATE:20250404
 CLASS:PUBLIC
-DTSTAMP:20250407T133900Z
+DTSTAMP:20250416T050800Z
 DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.4\n\n* Review problems from Chapter 2\, Section 2.8\n\n* Review problems from Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems from Chapter 4\, Sections 4.4 and 4.7
 SUMMARY:Homework 17 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904915
