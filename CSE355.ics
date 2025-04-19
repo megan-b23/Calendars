@@ -79,6 +79,17 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Assignment 5 - Part 2</p>\n<p>Don't forget to add your collaboration statement.</p>\n<p>&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="CSE355_SP25_hw5_p2.pdf" href="https://canvas.asu.edu/courses/215273/files/107339403?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/215273/files/107339403" data-api-returntype="File">CSE355_SP25_hw5_p2.pdf</a></p>\n<p>&nbsp\;</p>\n<p><span>Part 1 and Part 2 will be grade together. Thank you.</span></p>
+DTSTART;VALUE=DATE:20250427
+CLASS:PUBLIC
+DTSTAMP:20250419T181300Z
+DESCRIPTION:Assignment 5 - Part 2\n\nDon't forget to add your collaboration statement.\n\n \n\n[CSE355_SP25_hw5_p2.pdf] (https://canvas.asu.edu/courses/215273/files/107339403?wrap=1)\n\n \n\nPart 1 and Part 2 will be grade together. Thank you.
+SUMMARY:Assignment 5 - Part 2 [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994761
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994761
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="CSE355_SP25_hw4.pdf" href="https://canvas.asu.edu/courses/215273/files/106038181?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/215273/files/106038181" data-api-returntype="File">CSE355_SP25_hw4.pdf</a></p>\n<p>&nbsp\;</p>\n<p><em><strong>Don't forget to include your collaboration statement.</strong></em></p>
 DTSTART;VALUE=DATE:20250411
 CLASS:PUBLIC
