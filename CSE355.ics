@@ -101,6 +101,17 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Spring 2024 Recitation 13</p>
+DTSTART;VALUE=DATE:20250425
+CLASS:PUBLIC
+DTSTAMP:20250421T193200Z
+DESCRIPTION:Spring 2024 Recitation 13
+SUMMARY:Recitation - Halting Problem/Diagonalization [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994770
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994770
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Recitation 13 Chap 4.1 and Diagonalization</p>
 DTSTART;VALUE=DATE:20250328
 CLASS:PUBLIC
