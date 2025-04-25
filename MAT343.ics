@@ -75,18 +75,18 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250425
 CLASS:PUBLIC
-DTSTAMP:20250414T221100Z
+DTSTAMP:20250424T173300Z
 SUMMARY:Section 5.6 Qr Factorization [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749030
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749030
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250425
 CLASS:PUBLIC
-DTSTAMP:20250414T221200Z
+DTSTAMP:20250424T173400Z
 SUMMARY:Section 6.1 Eigenvalues and Eigenvectors [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749031
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749031
