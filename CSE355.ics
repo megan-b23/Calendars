@@ -132,4 +132,15 @@ SUMMARY:Quiz 9 - Decidability/diagonalization [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-5994734
 URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994734
 END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 11 ()</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
+DTSTART;VALUE=DATE:20250428
+CLASS:PUBLIC
+DTSTAMP:20250426T220400Z
+DESCRIPTION:Quiz 11 ()\n\nIt is a clear violation of Academic Integrity if you are:\n\n* sharing questions/answers of this quiz before its due date\,\n\n* solving quiz questions together\,\n\n* or having someone else take this quiz for you.\n\nGood luck!
+SUMMARY:Quiz 11  [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-5994737
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994737
+END:VEVENT
 END:VCALENDAR
