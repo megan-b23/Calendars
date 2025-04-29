@@ -30,33 +30,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250328
-CLASS:PUBLIC
-DTSTAMP:20250324T220500Z
-SUMMARY:Section 4.1 Linear Transformations [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749022
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749022
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250328
-CLASS:PUBLIC
-DTSTAMP:20250324T220600Z
-SUMMARY:Section 5.1 Scalar Product [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749024
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749024
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250328
-CLASS:PUBLIC
-DTSTAMP:20250324T220600Z
-SUMMARY:Section 4.2 Matrix of Transformations [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749025
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=03&year=2025#assignment_5749025
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 DTSTART;VALUE=DATE:20250411
 CLASS:PUBLIC
 DTSTAMP:20250408T224700Z

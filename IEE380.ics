@@ -33,17 +33,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 9\, Sections 9.2\, 9.4\, and 9.5</li>\n</ul>
-DTSTART;VALUE=DATE:20250328
-CLASS:PUBLIC
-DTSTAMP:20250416T050600Z
-DESCRIPTION:Material covered:\n\n* Chapter 9\, Sections 9.2\, 9.4\, and 9.5
-SUMMARY:Homework 15 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904913
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904913
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Section 10.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.3</li>\n</ul>
 DTSTART;VALUE=DATE:20250401
 CLASS:PUBLIC
@@ -179,7 +168,7 @@ BEGIN:VEVENT
 SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit your project here.&nbsp\; It is set to take up to 2 submissions.&nbsp\; The most recent submission will be the one graded.&nbsp\; Late submissions will&nbsp\; be penalized as noted in the project instructions below.&nbsp\; The actual due date for no penalty is 4/25/2025 11:59PM.</p>\n<p><strong>You must upload a Word doc (.doc or .docx)\, or pdf.</strong></p>\n<p>For a description of the project requirements\, refer to the project definition.&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="IEE 380 Project Spring 2025.docx" href="https://canvas.asu.edu/courses/212488/files/104649714?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212488/files/104649714" data-api-returntype="File">IEE 380 Project Spring 2025.docx</a></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 CLASS:PUBLIC
-DTSTAMP:20250427T062600Z
+DTSTAMP:20250428T160900Z
 DESCRIPTION:Submit your project here.  It is set to take up to 2 submissions.  The most recent submission will be the one graded.  Late submissions will  be penalized as noted in the project instructions below.  The actual due date for no penalty is 4/25/2025 11:59PM.\n\nYou must upload a Word doc (.doc or .docx)\, or pdf.\n\nFor a description of the project requirements\, refer to the project definition. \n\n[IEE 380 Project Spring 2025.docx] (https://canvas.asu.edu/courses/212488/files/104649714?wrap=1)\n\n \n\n \n\n \n\n \n\n \n\n 
 DTEND:20250426T170100Z
 DTSTART:20250426T170100Z
