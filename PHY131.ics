@@ -107,15 +107,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250331
-CLASS:PUBLIC
-DTSTAMP:20250128T005300Z
-SUMMARY:HW8 and HW9 due [2025SpringC-X-PHY131-24394]
-UID:event-calendar-event-1608791
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#calendar_event_1608791
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 DTSTART;VALUE=DATE:20250414
 CLASS:PUBLIC
 DTSTAMP:20250128T005400Z

@@ -122,17 +122,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the sections on Tests of Hypothesis for a Single Sample.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;&nbsp\;</p>\n<p>This quiz is open book and open note.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
-DTSTART;VALUE=DATE:20250330
-CLASS:PUBLIC
-DTSTAMP:20250329T000000Z
-DESCRIPTION:This quiz covers the lectures and readings pertaining to the sections on Tests of Hypothesis for a Single Sample.\n\nYou will have 30 minutes to complete this quiz.  \n\nThis quiz is open book and open note. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
-SUMMARY:Quiz 6 - Tests of Hypothesis for a Single Sample - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904898
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=03&year=2025#assignment_5904898
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>See Honors module for project description.</p>
 DTSTART;VALUE=DATE:20250502
 CLASS:PUBLIC
