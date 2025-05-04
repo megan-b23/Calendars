@@ -12,9 +12,9 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250502
+DTSTART;VALUE=DATE:20250504
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
+DTSTAMP:20250504T152500Z
 SUMMARY:Section 6.5 Singular Value Decomposition [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749033
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=05&year=2025#assignment_5749033
