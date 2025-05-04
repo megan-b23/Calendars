@@ -21,17 +21,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Please\, upload here your work for questions 5-7</p>
-DTSTART;VALUE=DATE:20250401
-CLASS:PUBLIC
-DTSTAMP:20250404T172200Z
-DESCRIPTION:Please\, upload here your work for questions 5-7
-SUMMARY:Practice Test 2 file upload [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6159978
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6159978
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250423
 CLASS:PUBLIC
@@ -39,30 +28,6 @@ DTSTAMP:20250416T070000Z
 SUMMARY:Quiz Assignment 9 [2025SpringC-X-PHY131-24394]
 UID:event-assignment-6188846
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6188846
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<div class="row-fluid">\n<div class="description user_content teacher-version enhanced">\n<p>1) Go through each question (including free response in the lockdown browser).</p>\n<p>2) When you are done\, show your work for the free-response problems to the camera.</p>\n<p>3) Go to the separate file upload quiz on canvas and upload your work (we will check that the time you log out from respondus matches the time you upload files into the file upload quiz in canvas\,&nbsp\; ~15 mins after you are done).</p>\n<p>4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.</p>\n<p>5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.</p>\n<p>6) No partial credit for multiple choice.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p><img id="43132080" src="https://canvas.asu.edu/courses/212901/files/100296342/preview" alt="Equation_sheet_2.png" loading="lazy" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212901/files/100296342" data-api-returntype="File"></p>\n</div>\n</div>
-CLASS:PUBLIC
-DTSTAMP:20250323T233700Z
-DESCRIPTION:1) Go through each question (including free response in the lockdown browser).\n\n2) When you are done\, show your work for the free-response problems to the camera.\n\n3) Go to the separate file upload quiz on canvas and upload your work (we will check that the time you log out from respondus matches the time you upload files into the file upload quiz in canvas\,  ~15 mins after you are done).\n\n4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.\n\n5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.\n\n6) No partial credit for multiple choice. \n\n \n\n \n\n[Equation_sheet_2.png] (https://canvas.asu.edu/courses/212901/files/100296342/preview)
-DTEND:20250331T203000Z
-DTSTART:20250331T203000Z
-SUMMARY:Practice test 2 [2025SpringC-X-PHY131-24394]
-UID:event-assignment-5914948
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_5914948
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Please\, upload here the files for your free response questions.&nbsp\; You can do either single file upload or upload three separate files for each question\, whatever works best</p>
-CLASS:PUBLIC
-DTSTAMP:20250402T150000Z
-DESCRIPTION:Please\, upload here the files for your free response questions.  You can do either single file upload or upload three separate files for each question\, whatever works best
-DTEND:20250403T081500Z
-DTSTART:20250403T081500Z
-SUMMARY:Test 2- File upload [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6160014
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6160014
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -74,36 +39,6 @@ DESCRIPTION:[Final_eq_form.png] (https://canvas.asu.edu/courses/212901/files/100
 SUMMARY:Practice test- final chapters  [2025SpringC-X-PHY131-24394]
 UID:event-assignment-5914955
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=05&year=2025#assignment_5914955
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250331
-CLASS:PUBLIC
-DTSTAMP:20250404T172300Z
-SUMMARY:HW 08 - Magnetic Field and Forces [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6170194
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=03&year=2025#assignment_6170194
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>IMPORTANT: READ THE INSTRUCTIONS!</p>\n<p>1) Go through each question (including free response in the lockdown browser).</p>\n<p>2) When you are done\, show your work for problems 5\, 6\, and 7 to the camera.</p>\n<p>3) Upload the free-response immediately after (I will check that the time matches)</p>\n<p>4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.</p>\n<p>5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.</p>\n<p>&nbsp\;</p>\n<p><img id="106221871" src="https://canvas.asu.edu/courses/212901/files/106221871/preview" alt="2025Mid2_Eq.png" loading="lazy" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212901/files/106221871" data-api-returntype="File"></p>
-DTSTART;VALUE=DATE:20250402
-CLASS:PUBLIC
-DTSTAMP:20250406T235500Z
-DESCRIPTION:IMPORTANT: READ THE INSTRUCTIONS!\n\n1) Go through each question (including free response in the lockdown browser).\n\n2) When you are done\, show your work for problems 5\, 6\, and 7 to the camera.\n\n3) Upload the free-response immediately after (I will check that the time matches)\n\n4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.\n\n5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.\n\n \n\n[2025Mid2_Eq.png] (https://canvas.asu.edu/courses/212901/files/106221871/preview)
-SUMMARY:Test 2 - Requires Respondus LockDown Browser + Webcam [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6160019
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6160019
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:
-DTSTART;VALUE=DATE:20250402
-CLASS:PUBLIC
-DTSTAMP:20250326T070000Z
-SUMMARY:Quiz Assignment 8 [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6154330
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6154330
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0

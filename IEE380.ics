@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:icalendar-ruby
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz is only for Honors students who are trying to earn honors credit for the class.</p>\n<p>You are allowed 1 cheat sheet\, front and back\, handwritten.&nbsp\;</p>\n<p>You have 30 minutes to complete this quiz.</p>\n<p>This quiz must be completed with the Lockdown Browser and Monitor system.&nbsp\;&nbsp\;</p>\n<p>Best of luck!</p>
 DTSTART;VALUE=DATE:20250504
 CLASS:PUBLIC
-DTSTAMP:20250104T011300Z
+DTSTAMP:20250430T234700Z
+DESCRIPTION:This quiz is only for Honors students who are trying to earn honors credit for the class.\n\nYou are allowed 1 cheat sheet\, front and back\, handwritten. \n\nYou have 30 minutes to complete this quiz.\n\nThis quiz must be completed with the Lockdown Browser and Monitor system.  \n\nBest of luck!
 SUMMARY:Honors Quiz - Requires Respondus LockDown Browser + Webcam [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904902
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904902
@@ -30,17 +32,6 @@ DTSTART:20250509T232000Z
 SUMMARY:Final Exam [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904906
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904906
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Section 10.2</li>\n<li>Review problems from Chapter 3\, Sections 3.2 and 3.3</li>\n</ul>
-DTSTART;VALUE=DATE:20250401
-CLASS:PUBLIC
-DTSTAMP:20250416T050700Z
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.2\n\n* Review problems from Chapter 3\, Sections 3.2 and 3.3
-SUMMARY:Homework 16 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904914
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904914
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -70,7 +61,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the sections on both Simple and Multiple Linear Regression.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;&nbsp\;</p>\n<p>This quiz is open book and open note.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
 DTSTART;VALUE=DATE:20250427
 CLASS:PUBLIC
-DTSTAMP:20250426T000000Z
+DTSTAMP:20250503T214600Z
 DESCRIPTION:This quiz covers the lectures and readings pertaining to the sections on both Simple and Multiple Linear Regression.\n\nYou will have 30 minutes to complete this quiz.  \n\nThis quiz is open book and open note. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
 SUMMARY:Quiz 8 - Linear Regression - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904897
@@ -125,7 +116,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>See Honors module for project description.</p>
 DTSTART;VALUE=DATE:20250502
 CLASS:PUBLIC
-DTSTAMP:20250103T154500Z
+DTSTAMP:20250503T231800Z
 DESCRIPTION:See Honors module for project description.
 SUMMARY:Honors Project [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904930
@@ -157,7 +148,7 @@ BEGIN:VEVENT
 SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit your project here.&nbsp\; It is set to take up to 2 submissions.&nbsp\; The most recent submission will be the one graded.&nbsp\; Late submissions will&nbsp\; be penalized as noted in the project instructions below.&nbsp\; The actual due date for no penalty is 4/25/2025 11:59PM.</p>\n<p><strong>You must upload a Word doc (.doc or .docx)\, or pdf.</strong></p>\n<p>For a description of the project requirements\, refer to the project definition.&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="IEE 380 Project Spring 2025.docx" href="https://canvas.asu.edu/courses/212488/files/104649714?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212488/files/104649714" data-api-returntype="File">IEE 380 Project Spring 2025.docx</a></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 CLASS:PUBLIC
-DTSTAMP:20250428T160900Z
+DTSTAMP:20250503T221200Z
 DESCRIPTION:Submit your project here.  It is set to take up to 2 submissions.  The most recent submission will be the one graded.  Late submissions will  be penalized as noted in the project instructions below.  The actual due date for no penalty is 4/25/2025 11:59PM.\n\nYou must upload a Word doc (.doc or .docx)\, or pdf.\n\nFor a description of the project requirements\, refer to the project definition. \n\n[IEE 380 Project Spring 2025.docx] (https://canvas.asu.edu/courses/212488/files/104649714?wrap=1)\n\n \n\n \n\n \n\n \n\n \n\n 
 DTEND:20250426T170100Z
 DTSTART:20250426T170100Z

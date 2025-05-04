@@ -78,6 +78,17 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>1. You may only take this portion only once. DO NOT start the test if you are going to be interrupted as you have to finish in single seating.</p>\n<p>2. You will need to find a quiet place that you will be uninterrupted for the duration of the test [30 mins]. You need to ensure that you will have a reliable internet connection during the entire testing period.</p>\n<p>3. You will need a device with Responds Lockdown browser with monitoring abilities (requires mic/audio/camera).</p>\n<p>The online portion is 40% of Test 3. This portion consists of two different questions groups (Multiple Choice questions and Multiple-Answer questions).</p>\n<p>&nbsp\;</p>\n<p>Good luck!</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+DTSTART;VALUE=DATE:20250504
+CLASS:PUBLIC
+DTSTAMP:20250501T000000Z
+DESCRIPTION:1. You may only take this portion only once. DO NOT start the test if you are going to be interrupted as you have to finish in single seating.\n\n2. You will need to find a quiet place that you will be uninterrupted for the duration of the test [30 mins]. You need to ensure that you will have a reliable internet connection during the entire testing period.\n\n3. You will need a device with Responds Lockdown browser with monitoring abilities (requires mic/audio/camera).\n\nThe online portion is 40% of Test 3. This portion consists of two different questions groups (Multiple Choice questions and Multiple-Answer questions).\n\n \n\nGood luck!\n\n \n\n 
+SUMMARY:Test 3 - Online portion - Requires Respondus LockDown Browser + Webcam [2025SpringC-T-CSE355-32753-15895]
+UID:event-assignment-6212024
+URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=05&year=2025#assignment_6212024
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Spring 2025 Recitation 11</p>
 DTSTART;VALUE=DATE:20250404
 CLASS:PUBLIC
@@ -125,7 +136,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 11 ()</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
 DTSTART;VALUE=DATE:20250428
 CLASS:PUBLIC
-DTSTAMP:20250426T220400Z
+DTSTAMP:20250430T231900Z
 DESCRIPTION:Quiz 11 ()\n\nIt is a clear violation of Academic Integrity if you are:\n\n* sharing questions/answers of this quiz before its due date\,\n\n* solving quiz questions together\,\n\n* or having someone else take this quiz for you.\n\nGood luck!
 SUMMARY:Quiz 11  [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-5994737
