@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:icalendar-ruby
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 7 (Non-CFLs and Turing Machine)</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
-DTSTART;VALUE=DATE:20250404
-CLASS:PUBLIC
-DTSTAMP:20250429T000500Z
-DESCRIPTION:Quiz 7 (Non-CFLs and Turing Machine)\n\nIt is a clear violation of Academic Integrity if you are:\n\n* sharing questions/answers of this quiz before its due date\,\n\n* solving quiz questions together\,\n\n* or having someone else take this quiz for you.\n\nGood luck!
-SUMMARY:Quiz 7 - Non-CFLs and Turing Machine [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994738
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994738
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250502
 CLASS:PUBLIC
@@ -86,17 +75,6 @@ DESCRIPTION:1. You may only take this portion only once. DO NOT start the test i
 SUMMARY:Test 3 - Online portion - Requires Respondus LockDown Browser + Webcam [2025SpringC-T-CSE355-32753-15895]
 UID:event-assignment-6212024
 URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=05&year=2025#assignment_6212024
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Spring 2025 Recitation 11</p>
-DTSTART;VALUE=DATE:20250404
-CLASS:PUBLIC
-DTSTAMP:20250429T043400Z
-DESCRIPTION:Spring 2025 Recitation 11
-SUMMARY:Recitation 11 [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994767
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994767
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0

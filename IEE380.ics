@@ -26,23 +26,12 @@ END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
 CLASS:PUBLIC
-DTSTAMP:20250414T045500Z
+DTSTAMP:20250505T182200Z
 DTEND:20250509T232000Z
 DTSTART:20250509T232000Z
 SUMMARY:Final Exam [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904906
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year=2025#assignment_5904906
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Section 10.4</li>\n<li>Review problems from Chapter 2\, Section 2.8</li>\n<li>Review problems from Chapter 3\, Sections 3.5 and 3.8</li>\n<li>Review problems from Chapter 4\, Sections 4.4 and 4.7</li>\n</ul>
-DTSTART;VALUE=DATE:20250404
-CLASS:PUBLIC
-DTSTAMP:20250416T050800Z
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Section 10.4\n\n* Review problems from Chapter 2\, Section 2.8\n\n* Review problems from Chapter 3\, Sections 3.5 and 3.8\n\n* Review problems from Chapter 4\, Sections 4.4 and 4.7
-SUMMARY:Homework 17 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904915
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904915
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
