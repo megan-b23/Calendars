@@ -35,26 +35,14 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Sections 10.1 and 10.5</li>\n</ul>
+X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Sections 10.6 and 10.7</li>\n<li>Chapter 11\, Sections 11.1\, 11.2\, and 11.5</li>\n<li>Review problems from Chapter 7\, Section 7.2</li>\n</ul>
+DTSTART;VALUE=DATE:20250418
 CLASS:PUBLIC
-DTSTAMP:20250407T133900Z
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.1 and 10.5
-DTEND:20250406T065800Z
-DTSTART:20250406T065800Z
-SUMMARY:Homework 18 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904916
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904916
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the sections on both Simple and Multiple Linear Regression.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;&nbsp\;</p>\n<p>This quiz is open book and open note.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
-DTSTART;VALUE=DATE:20250427
-CLASS:PUBLIC
-DTSTAMP:20250503T214600Z
-DESCRIPTION:This quiz covers the lectures and readings pertaining to the sections on both Simple and Multiple Linear Regression.\n\nYou will have 30 minutes to complete this quiz.  \n\nThis quiz is open book and open note. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
-SUMMARY:Quiz 8 - Linear Regression - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904897
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904897
+DTSTAMP:20250104T000800Z
+DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.6 and 10.7\n\n* Chapter 11\, Sections 11.1\, 11.2\, and 11.5\n\n* Review problems from Chapter 7\, Section 7.2
+SUMMARY:Homework 19 [2025SpringC-T-IEE380-32367]
+UID:event-assignment-5904917
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904917
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -80,14 +68,14 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 10\, Sections 10.6 and 10.7</li>\n<li>Chapter 11\, Sections 11.1\, 11.2\, and 11.5</li>\n<li>Review problems from Chapter 7\, Section 7.2</li>\n</ul>
-DTSTART;VALUE=DATE:20250418
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the sections on both Simple and Multiple Linear Regression.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;&nbsp\;</p>\n<p>This quiz is open book and open note.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
+DTSTART;VALUE=DATE:20250427
 CLASS:PUBLIC
-DTSTAMP:20250104T000800Z
-DESCRIPTION:Material covered:\n\n* Chapter 10\, Sections 10.6 and 10.7\n\n* Chapter 11\, Sections 11.1\, 11.2\, and 11.5\n\n* Review problems from Chapter 7\, Section 7.2
-SUMMARY:Homework 19 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904917
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904917
+DTSTAMP:20250503T214600Z
+DESCRIPTION:This quiz covers the lectures and readings pertaining to the sections on both Simple and Multiple Linear Regression.\n\nYou will have 30 minutes to complete this quiz.  \n\nThis quiz is open book and open note. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
+SUMMARY:Quiz 8 - Linear Regression - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
+UID:event-assignment-5904897
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904897
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
