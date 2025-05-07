@@ -14,17 +14,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the lectures and readings pertaining to the sections on Two Sample Hypothesis Test and Inference.</p>\n<p>You will have 30 minutes to complete this quiz.&nbsp\;&nbsp\;</p>\n<p>This quiz is open book and open note.&nbsp\;</p>\n<p>You are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden.&nbsp\;</p>
-DTSTART;VALUE=DATE:20250406
-CLASS:PUBLIC
-DTSTAMP:20250405T000000Z
-DESCRIPTION:This quiz covers the lectures and readings pertaining to the sections on Two Sample Hypothesis Test and Inference.\n\nYou will have 30 minutes to complete this quiz.  \n\nThis quiz is open book and open note. \n\nYou are expected to complete this quiz individually\, so collaboration with a fellow classmate is strictly forbidden. 
-SUMMARY:Quiz 7 - Statistical Inference for Two Samples - Requires Respondus LockDown Browser [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904905
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904905
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 CLASS:PUBLIC
 DTSTAMP:20250505T182200Z
 DTEND:20250509T232000Z
