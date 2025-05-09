@@ -24,7 +24,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>1) Go through each question (including free response in the lockdown browser).</p>\n<p>2) When you are done\, show your work for the free-response to the camera</p>\n<p>3) Immediately after\, upload your free-response work in Final-file upload.&nbsp\;</p>\n<p>4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.</p>\n<p>5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.</p>\n<p><img id="100296416" src="https://canvas.asu.edu/courses/212901/files/100296416/preview" alt="F_Final_equation_sheet.png" loading="lazy" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/212901/files/100296416" data-api-returntype="File"></p>
 DTSTART;VALUE=DATE:20250505
 CLASS:PUBLIC
-DTSTAMP:20250505T150000Z
+DTSTAMP:20250507T160100Z
 DESCRIPTION:1) Go through each question (including free response in the lockdown browser).\n\n2) When you are done\, show your work for the free-response to the camera\n\n3) Immediately after\, upload your free-response work in Final-file upload. \n\n4) Upload files for the free-response as pdf\, png\, jpg since those formats seem to be ok for any operating system.\n\n5) For the long response questions\, you need to NEATLY SHOW ALL THE STEPS of the solution in order to get credit for each problem (free-body diagrams\, equation/law/concept used\, necessary algebra\, numerical substitutions\, final answer with units boxed). Giving an answer without showing the work will result in no credit\, even if the answer is right.\n\n[F_Final_equation_sheet.png] (https://canvas.asu.edu/courses/212901/files/100296416/preview)
 SUMMARY:Final exam - Requires Respondus LockDown Browser + Webcam [2025SpringC-X-PHY131-24394]
 UID:event-assignment-6221081
@@ -62,6 +62,33 @@ DESCRIPTION:[Final_eq_form.png] (https://canvas.asu.edu/courses/212901/files/100
 SUMMARY:Practice test- final chapters  [2025SpringC-X-PHY131-24394]
 UID:event-assignment-5914955
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=05&year=2025#assignment_5914955
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250414
+CLASS:PUBLIC
+DTSTAMP:20250508T030600Z
+SUMMARY:HW 10 - Ampere's Law [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6237265
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6237265
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250428
+CLASS:PUBLIC
+DTSTAMP:20250508T030700Z
+SUMMARY:HW 12 - Inductance [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6237266
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6237266
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250421
+CLASS:PUBLIC
+DTSTAMP:20250508T030600Z
+SUMMARY:HW 11 - Electromagnetic Induction [2025SpringC-X-PHY131-24394]
+UID:event-assignment-6237267
+URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6237267
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
