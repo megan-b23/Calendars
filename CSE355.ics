@@ -89,17 +89,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 8 (TMs)</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
-DTSTART;VALUE=DATE:20250409
-CLASS:PUBLIC
-DTSTAMP:20250429T043300Z
-DESCRIPTION:Quiz 8 (TMs)\n\nIt is a clear violation of Academic Integrity if you are:\n\n* sharing questions/answers of this quiz before its due date\,\n\n* solving quiz questions together\,\n\n* or having someone else take this quiz for you.\n\nGood luck!
-SUMMARY:Quiz 8 - TMs [2025SpringC-T-CSE355-32753-15895]
-UID:event-assignment-5994732
-URL:https://canvas.asu.edu/calendar?include_contexts=course_215273&month=04&year=2025#assignment_5994732
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Quiz 9 ()</p>\n<p>It is a&nbsp\;<em><span style="color: #ff0000\;"><strong>clear violation of Academic Integrity</strong></span>&nbsp\;</em>if you are:</p>\n<ul>\n<li>sharing questions/answers of this quiz before its due date\,</li>\n<li>solving quiz questions together\,</li>\n<li>or having someone else take this quiz for you.</li>\n</ul>\n<p>Good luck!</p>
 DTSTART;VALUE=DATE:20250416
 CLASS:PUBLIC

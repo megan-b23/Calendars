@@ -14,8 +14,10 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Grade book place holder for final exam score.</p>
 CLASS:PUBLIC
-DTSTAMP:20250505T182200Z
+DTSTAMP:20250509T213000Z
+DESCRIPTION:Grade book place holder for final exam score.
 DTEND:20250509T232000Z
 DTSTART:20250509T232000Z
 SUMMARY:Final Exam [2025SpringC-T-IEE380-32367]
@@ -49,7 +51,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Material covered:</p>\n<ul>\n<li>Chapter 15\, Sections 15.1 - 15.3</li>\n</ul>
 DTSTART;VALUE=DATE:20250502
 CLASS:PUBLIC
-DTSTAMP:20250104T001000Z
+DTSTAMP:20250509T182300Z
 DESCRIPTION:Material covered:\n\n* Chapter 15\, Sections 15.1 - 15.3
 SUMMARY:Homework 22 [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904921
@@ -98,17 +100,6 @@ DESCRIPTION:Use this homework assignment to practice for the quiz.  The result 
 SUMMARY:Honors Practice Homework [2025SpringC-T-IEE380-32367]
 UID:event-assignment-5904929
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904929
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<p>Grade book place holder for the midterm exam.</p>
-DTSTART;VALUE=DATE:20250409
-CLASS:PUBLIC
-DTSTAMP:20250104T001100Z
-DESCRIPTION:Grade book place holder for the midterm exam.
-SUMMARY:Midterm Exam 2 [2025SpringC-T-IEE380-32367]
-UID:event-assignment-5904932
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212488&month=04&year=2025#assignment_5904932
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
