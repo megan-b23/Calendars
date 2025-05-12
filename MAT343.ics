@@ -12,39 +12,12 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250504
-CLASS:PUBLIC
-DTSTAMP:20250504T152500Z
-SUMMARY:Section 6.5 Singular Value Decomposition [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749033
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=05&year=2025#assignment_5749033
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 DTSTART;VALUE=DATE:20250418
 CLASS:PUBLIC
 DTSTAMP:20250408T224500Z
 SUMMARY:Section 5.4 Inner Product Spaces [2025SpringC-T-MAT343-18365]
 UID:event-assignment-5749028
 URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749028
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250411
-CLASS:PUBLIC
-DTSTAMP:20250408T224700Z
-SUMMARY:Section 5.2 Orthogonal Subspaces [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749026
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749026
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250411
-CLASS:PUBLIC
-DTSTAMP:20250408T224300Z
-SUMMARY:Section 5.3 Least Squares [2025SpringC-T-MAT343-18365]
-UID:event-assignment-5749027
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5749027
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -75,14 +48,12 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-X-ALT-DESC;FMTTYPE=text/html:<ol>\n<li>Notes and Exercises: <a class="instructure_file_link instructure_scribd_file" title="lab5.pdf" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5.pdf?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988360" data-api-returntype="File">LAB 5</a></li>\n<li>Download the files: <a class="instructure_file_link instructure_scribd_file" title="LAB05_ex1.m" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/LAB05_ex1.m?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988495" data-api-returntype="File">LAB05_ex1.m</a>\,&nbsp\; <a class="instructure_file_link instructure_scribd_file" title="gco2.dat" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/gco2.dat?canvas_download=1&amp\;canvas_qs_wrap=1" data-api-endpoint="https://asu.instructure.com/api/v1/courses/9590/files/1988374" data-api-returntype="File">gco2.dat</a></li>\n<li>Download the <a class="instructure_file_link" title="lab5_template.mlx" href="https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_download=1&amp\;canvas_qs_wrap=1">Live Script templat</a>e for you lab write-up.</li>\n</ol>
-DTSTART;VALUE=DATE:20250411
+DTSTART;VALUE=DATE:20250504
 CLASS:PUBLIC
-DTSTAMP:20250226T212900Z
-DESCRIPTION:* Notes and Exercises: [LAB 5] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5.pdf?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the files: [LAB05_ex1.m] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/LAB05_ex1.m?canvas_download=1&canvas_qs_wrap=1)\,  [gco2.dat] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/gco2.dat?canvas_download=1&canvas_qs_wrap=1)\n\n* Download the [Live Script templat] (https://canvas.asu.edu/courses/206466/file_contents/course%20files/MAT343_LABS/Lab05_v1/lab5_template.mlx?canvas_download=1&canvas_qs_wrap=1)e for you lab write-up.
-SUMMARY:LAB 5 Materials & Assignments (Set A) [2025SpringC-T-MAT343-18365]
-UID:event-assignment-override-615420
-URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=04&year=2025#assignment_5747718
+DTSTAMP:20250504T152500Z
+SUMMARY:Section 6.5 Singular Value Decomposition [2025SpringC-T-MAT343-18365]
+UID:event-assignment-5749033
+URL:https://canvas.asu.edu/calendar?include_contexts=course_206466&month=05&year=2025#assignment_5749033
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
