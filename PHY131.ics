@@ -65,15 +65,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=05&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250414
-CLASS:PUBLIC
-DTSTAMP:20250508T030600Z
-SUMMARY:HW 10 - Ampere's Law [2025SpringC-X-PHY131-24394]
-UID:event-assignment-6237265
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6237265
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 DTSTART;VALUE=DATE:20250428
 CLASS:PUBLIC
 DTSTAMP:20250508T030700Z
@@ -89,14 +80,5 @@ DTSTAMP:20250508T030600Z
 SUMMARY:HW 11 - Electromagnetic Induction [2025SpringC-X-PHY131-24394]
 UID:event-assignment-6237267
 URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#assignment_6237267
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250414
-CLASS:PUBLIC
-DTSTAMP:20250128T005400Z
-SUMMARY:HW10 due [2025SpringC-X-PHY131-24394]
-UID:event-calendar-event-1608792
-URL:https://canvas.asu.edu/calendar?include_contexts=course_212901&month=04&year=2025#calendar_event_1608792
 END:VEVENT
 END:VCALENDAR
