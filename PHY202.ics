@@ -1,4 +1,172 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:icalendar-ruby
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Read the <a href="https://provost.asu.edu/academic-integrity/policy" target="_blank">ASU Student Academic Policy</a> and then submit this agreement.</p>\n<p>(If you don't score at least 40 points by the due date\, the subsequent modules will not unlock for you.)</p>
+DTSTART;VALUE=DATE:20250825
+CLASS:PUBLIC
+DTSTAMP:20250819T165400Z
+DESCRIPTION:Read the [ASU Student Academic Policy] (https://provost.asu.edu/academic-integrity/policy) and then submit this agreement.\n\n(If you don't score at least 40 points by the due date\, the subsequent modules will not unlock for you.)
+SUMMARY:Module 0: Academic Integrity Agreement [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633403
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633403
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This course will go by quickly. &nbsp\;Do you know what is expected of you this class? Take the Syllabus Quiz to find out.&nbsp\;</p>\n<p><strong>Note:</strong>&nbsp\;You can take the&nbsp\;<strong>Syllabus Quiz</strong> as many times as needed to earn 100%\, but you must complete it by the due date. (If you don't score at least 1 point by the due date\, the subsequent modules will not unlock for you.)</p>
+DTSTART;VALUE=DATE:20250825
+CLASS:PUBLIC
+DTSTAMP:20250819T165400Z
+DESCRIPTION:This course will go by quickly.  Do you know what is expected of you this class? Take the Syllabus Quiz to find out. \n\nNote: You can take the Syllabus Quiz as many times as needed to earn 100%\, but you must complete it by the due date. (If you don't score at least 1 point by the due date\, the subsequent modules will not unlock for you.)
+SUMMARY:Module 0: Syllabus Quiz [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633404
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633404
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>During the semester I will be asking for <strong>voluntary</strong> and <strong>anonymous</strong> feedback. I understand that giving this feedback takes time and effort on your part. However\, it is extremely valuable to me while I am building (and improving) the class.</p><p>I want to honor your effort by giving 200 points for participation (it counts as about one reading assignment).</p><p>Note: <em>Everyone gets these points. I don't know who is submitting feedback and who isn't.</em> I hope that on average everyone provides some feedback and makes their voices heard but this is up to you. You get the points regardless.</p><p><strong>(This assignment is labeled "Discussion" for technical purposes but you don't have to discuss anything here.</strong> You just get the 200 points. Of course\, you're more than welcome to leave feedback here!)</p>
+DTSTART;VALUE=DATE:20251010
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+DESCRIPTION:During the semester I will be asking for voluntary and anonymous feedback. I understand that giving this feedback takes time and effort on your part. However\, it is extremely valuable to me while I am building (and improving) the class.\n\nI want to honor your effort by giving 200 points for participation (it counts as about one reading assignment).\n\nNote: Everyone gets these points. I don't know who is submitting feedback and who isn't. I hope that on average everyone provides some feedback and makes their voices heard but this is up to you. You get the points regardless.\n\n(This assignment is labeled "Discussion" for technical purposes but you don't have to discuss anything here. You just get the 200 points. Of course\, you're more than welcome to leave feedback here!)
+SUMMARY:Feedback [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633405
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633405
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251003
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Final Project [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633406
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633406
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250910
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Midterm Test/Project 1 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633407
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633407
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250825
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Module 1: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633410
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633410
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250901
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Module 2: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633411
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633411
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250915
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Module 3: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633412
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633412
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250922
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Module 4: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633413
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633413
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250929
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Module 5: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633414
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633414
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251003
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Module 6: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633415
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633415
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250825
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Read Module 1 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633416
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633416
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250829
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Read Module 2 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633417
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633417
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250926
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Read Module 5 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633420
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633420
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251003
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Read Module 6 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633421
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633421
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250912
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Read Module 3 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633418
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633418
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250919
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Read Module 4 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633419
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633419
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250924
+CLASS:PUBLIC
+DTSTAMP:20250819T025300Z
+SUMMARY:Midterm Test/Project 2 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633408
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633408
+END:VEVENT
 END:VCALENDAR

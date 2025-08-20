@@ -1,4 +1,107 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:icalendar-ruby
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250921
+CLASS:PUBLIC
+DTSTAMP:20250811T202900Z
+SUMMARY:Quiz: Bezier Curves [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365029
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year=2025#assignment_6365029
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz material in Chapter 12 Composite Surfaces:</p>\n<ul>\n<li>B-spline surfaces\,</li>\n<li>approximation with B-spline surfaces\,</li>\n<li>subdivision curves\, and</li>\n<li>subdivision surfaces.</li>\n</ul>
+DTSTART;VALUE=DATE:20251205
+CLASS:PUBLIC
+DTSTAMP:20250811T210100Z
+DESCRIPTION:This quiz material in Chapter 12 Composite Surfaces:\n\n* B-spline surfaces\,\n\n* approximation with B-spline surfaces\,\n\n* subdivision curves\, and\n\n* subdivision surfaces.
+SUMMARY:Quiz: Composite Surfaces [2025FallC-T-CSE477-65059]
+UID:event-assignment-6524286
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=12&year=2025#assignment_6524286
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the module on NURBS.</p>\n<p>&nbsp\;</p>
+DTSTART;VALUE=DATE:20251205
+CLASS:PUBLIC
+DTSTAMP:20250811T210100Z
+DESCRIPTION:This quiz covers the module on NURBS.\n\n 
+SUMMARY:Quiz: NURBS [2025FallC-T-CSE477-65059]
+UID:event-assignment-6524287
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=12&year=2025#assignment_6524287
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers the material in Chapter 7: Working with Polynomial Patches.</p>
+DTSTART;VALUE=DATE:20251102
+CLASS:PUBLIC
+DTSTAMP:20250811T204400Z
+DESCRIPTION:This quiz covers the material in Chapter 7: Working with Polynomial Patches.
+SUMMARY:Quiz: Working with Polynomial Patches [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365021
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=11&year=2025#assignment_6365021
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250910
+CLASS:PUBLIC
+DTSTAMP:20250811T202400Z
+SUMMARY:Quiz: Geometry Basics [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365022
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year=2025#assignment_6365022
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This is quiz covers Bezier surfaces.</p>
+DTSTART;VALUE=DATE:20251026
+CLASS:PUBLIC
+DTSTAMP:20250630T213300Z
+DESCRIPTION:This is quiz covers Bezier surfaces.
+SUMMARY:Quiz: Bezier Surfaces [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365024
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=10&year=2025#assignment_6365024
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers B-spline curves.</p>
+DTSTART;VALUE=DATE:20251109
+CLASS:PUBLIC
+DTSTAMP:20250811T204500Z
+DESCRIPTION:This quiz covers B-spline curves.
+SUMMARY:Quiz: B-spline Curves [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365025
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=11&year=2025#assignment_6365025
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251005
+CLASS:PUBLIC
+DTSTAMP:20250630T213300Z
+SUMMARY:Quiz: Interpolation and Approximation [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365027
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=10&year=2025#assignment_6365027
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz covers Chapter 8: Shape.</p>
+DTSTART;VALUE=DATE:20251102
+CLASS:PUBLIC
+DTSTAMP:20250630T213300Z
+DESCRIPTION:This quiz covers Chapter 8: Shape.
+SUMMARY:Quiz: Shape  [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365030
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=11&year=2025#assignment_6365030
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+CLASS:PUBLIC
+DTSTAMP:20250630T213400Z
+DTEND:20251127T065800Z
+DTSTART:20251127T065800Z
+SUMMARY:3D Print Post [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365031
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=11&year=2025#assignment_6365031
+END:VEVENT
 END:VCALENDAR

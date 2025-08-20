@@ -1,4 +1,372 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:icalendar-ruby
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250911
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Individual Exercise 2 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432505
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432505
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250925
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Individual Exercise 3 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432506
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432506
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251120
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Individual Exercise 7 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432510
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year=2025#assignment_6432510
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250925
+CLASS:PUBLIC
+DTSTAMP:20250813T204900Z
+SUMMARY:Coding Exercise 3 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432491
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432491
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251016
+CLASS:PUBLIC
+DTSTAMP:20250813T232400Z
+SUMMARY:Coding Exercise 4 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432492
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432492
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251023
+CLASS:PUBLIC
+DTSTAMP:20250813T232700Z
+SUMMARY:Coding Exercise 5 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432493
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432493
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250911
+CLASS:PUBLIC
+DTSTAMP:20250813T204500Z
+SUMMARY:Coding exercise 2 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432494
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432494
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251204
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Final Project [2025FallC-T-AST321-62320]
+UID:event-assignment-6432495
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=12&year=2025#assignment_6432495
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250918
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Group Exercise 2 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432496
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432496
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>In addition to the summary paper and python code for the Final Project\, each individual student will be required to write a short statement detailing the breakdown of work within their project group. These will be turned in separately\, during the last week of class\, and will be cross-checked by the instructional staff for consistency. If there are large discrepancies\, individual project scores may be reduced or increased accordingly.</p>
+DTSTART;VALUE=DATE:20251204
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+DESCRIPTION:In addition to the summary paper and python code for the Final Project\, each individual student will be required to write a short statement detailing the breakdown of work within their project group. These will be turned in separately\, during the last week of class\, and will be cross-checked by the instructional staff for consistency. If there are large discrepancies\, individual project scores may be reduced or increased accordingly.
+SUMMARY:Group Work Breakdown Statement [2025FallC-T-AST321-62320]
+UID:event-assignment-6432497
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=12&year=2025#assignment_6432497
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250904
+CLASS:PUBLIC
+DTSTAMP:20250819T194900Z
+SUMMARY:Group exercise 1 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432498
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432498
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251002
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Group exercise 3 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432499
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432499
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251021
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Group exercise 4 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432500
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432500
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #5</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #5\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20250923T000000Z
+DTSTART:20250923T000000Z
+SUMMARY:Muddiest point #5 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432480
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432480
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #6</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #6\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20250930T000000Z
+DTSTART:20250930T000000Z
+SUMMARY:Muddiest point #6 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432481
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432481
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #7</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #7\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251007T000000Z
+DTSTART:20251007T000000Z
+SUMMARY:Muddiest point #7 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432482
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432482
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250828
+CLASS:PUBLIC
+DTSTAMP:20250819T194700Z
+SUMMARY:Individual Exercise 1 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432504
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=08&year=2025#assignment_6432504
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #8</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #8\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251016T000000Z
+DTSTART:20251016T000000Z
+SUMMARY:Muddiest point #8 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432483
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432483
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #9</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #9\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251021T000000Z
+DTSTART:20251021T000000Z
+SUMMARY:Muddiest point #9 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432484
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432484
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #10</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #10\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251028T000000Z
+DTSTART:20251028T000000Z
+SUMMARY:Muddiest point #10 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432485
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432485
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #11</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #11\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251105T000000Z
+DTSTART:20251105T000000Z
+SUMMARY:Muddiest point #11 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432486
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year=2025#assignment_6432486
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #12</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #12\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251111T000000Z
+DTSTART:20251111T000000Z
+SUMMARY:Muddiest point #12 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432487
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year=2025#assignment_6432487
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #13</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #13\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251118T000000Z
+DTSTART:20251118T000000Z
+SUMMARY:Muddiest point #13 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432488
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year=2025#assignment_6432488
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #14</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #14\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20251125T000000Z
+DTSTART:20251125T000000Z
+SUMMARY:Muddiest point #14 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432489
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year=2025#assignment_6432489
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251202
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Group exercise 7 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432503
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=12&year=2025#assignment_6432503
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251023
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Individual Exercise 5 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432508
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432508
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251106
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Individual Exercise 6 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432509
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year=2025#assignment_6432509
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251009
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Individual Exercise 4 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432507
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432507
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250828
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+SUMMARY:Getting to know you survey [2025FallC-T-AST321-62320]
+UID:event-assignment-6432475
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=08&year=2025#assignment_6432475
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #1</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #1\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20250826T000000Z
+DTSTART:20250826T000000Z
+SUMMARY:Muddiest point #1 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432476
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=08&year=2025#assignment_6432476
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #1</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #1\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20250902T000000Z
+DTSTART:20250902T000000Z
+SUMMARY:Muddiest point #2 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432477
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432477
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #3</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #3\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20250909T000000Z
+DTSTART:20250909T000000Z
+SUMMARY:Muddiest point #3 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432478
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432478
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #4</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+DESCRIPTION:Muddiest Point #4\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
+DTEND:20250916T000000Z
+DTSTART:20250916T000000Z
+SUMMARY:Muddiest point #4 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432479
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432479
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251030
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Group exercise 5 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432501
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432501
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251113
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Group exercise 6 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432502
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year=2025#assignment_6432502
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250828
+CLASS:PUBLIC
+DTSTAMP:20250729T190900Z
+SUMMARY:Coding Exercise 1 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432490
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=08&year=2025#assignment_6432490
+END:VEVENT
 END:VCALENDAR

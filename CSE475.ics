@@ -1,4 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:icalendar-ruby
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<h2 style="border-bottom: 5px solid #FFC627\;"><strong><img id="57290984" role="presentation" src="https://canvas.asu.edu/courses/230279/files/111693980/preview" alt="" width="83" height="83" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230279/files/111693980" data-api-returntype="File" loading="lazy">Syllabus Quiz</strong></h2>\n<p>&nbsp\;</p>\n<p>This course will go by quickly. Do you know what is expected of you this class? Take the Syllabus Quiz to find out.&nbsp\;</p>\n<p><strong>Note:</strong>&nbsp\;You can take the<span>&nbsp\;</span><strong>Syllabus Quiz</strong><span>&nbsp\;</span>as many times as needed to earn 100%\, but you must complete it by the due date.</p>\n<p>&nbsp\;</p>
+DTSTART;VALUE=DATE:20250829
+CLASS:PUBLIC
+DTSTAMP:20250818T171700Z
+DESCRIPTION:-------------------------------------------------------------------------------\n[] (https://canvas.asu.edu/courses/230279/files/111693980/preview)Syllabus Quiz\n-------------------------------------------------------------------------------\n\n \n\nThis course will go by quickly. Do you know what is expected of you this class? Take the Syllabus Quiz to find out. \n\nNote: You can take the Syllabus Quiz as many times as needed to earn 100%\, but you must complete it by the due date.\n\n 
+SUMMARY:Syllabus Quiz [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431580
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=08&year=2025#assignment_6431580
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251017
+CLASS:PUBLIC
+DTSTAMP:20250818T002000Z
+SUMMARY:Module 12 ICE Activity: Recurrent Neural Network [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431639
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=10&year=2025#assignment_6431639
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250905
+CLASS:PUBLIC
+DTSTAMP:20250818T172000Z
+SUMMARY:Module 1: [Basic Concepts] Machine Learning Basics zyBooks Activities [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431652
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431652
+END:VEVENT
 END:VCALENDAR
