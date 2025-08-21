@@ -18,7 +18,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>This course will go by quickly. &nbsp\;Do you kn
 DTSTART;VALUE=DATE:20250825
 CLASS:PUBLIC
 DTSTAMP:20250819T165400Z
-DESCRIPTION:This course will go by quickly. Â Do you know what is expected of you this class? Take the Syllabus Quiz to find out.Â \n\nNote:Â You can take theÂ Syllabus Quiz as many times as needed to earn 100%\, but you must complete it by the due date. (If you don't score at least 1 point by the due date\, the subsequent modules will not unlock for you.)
+DESCRIPTION:This course will go by quickly.  Do you know what is expected of you this class? Take the Syllabus Quiz to find out. \n\nNote: You can take the Syllabus Quiz as many times as needed to earn 100%\, but you must complete it by the due date. (If you don't score at least 1 point by the due date\, the subsequent modules will not unlock for you.)
 SUMMARY:Module 0: Syllabus Quiz [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633404
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633404
@@ -36,9 +36,9 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20251003
+DTSTART;VALUE=DATE:20251010
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
+DTSTAMP:20250820T183600Z
 SUMMARY:Final Project [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633406
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633406
@@ -47,126 +47,312 @@ BEGIN:VEVENT
 SEQUENCE:0
 DTSTART;VALUE=DATE:20250910
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
+DTSTAMP:20250820T183500Z
 SUMMARY:Midterm Test/Project 1 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633407
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633407
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250825
+DTSTART;VALUE=DATE:20250924
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Module 1: Homework [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633410
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633410
+DTSTAMP:20250820T183600Z
+SUMMARY:Midterm Test/Project 2 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633408
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633408
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250901
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/84224100077" target="_blank">Click here to join Zoom Meeting: 842 2410 0077</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Module 2: Homework [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633411
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633411
+DTSTAMP:20250820T210500Z
+DESCRIPTION:[Click here to join Zoom Meeting: 842 2410 0077] (https://asu.zoom.us/j/84224100077)
+DTEND:20251010T190000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20251010T180000Z
+SUMMARY:TA Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1769570
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#calendar_event_1769570
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250915
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/81589685053" target="_blank">Click here to join Zoom Meeting: 815 8968 5053</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Module 3: Homework [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633412
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633412
+DTSTAMP:20250820T184700Z
+DESCRIPTION:[Click here to join Zoom Meeting: 815 8968 5053] (https://asu.zoom.us/j/81589685053)
+DTEND:20250826T200000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250826T190000Z
+SUMMARY:PHY 202: Instructor Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1768161
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#calendar_event_1768161
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250922
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/81589685053" target="_blank">Click here to join Zoom Meeting: 815 8968 5053</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Module 4: Homework [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633413
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633413
+DTSTAMP:20250820T184700Z
+DESCRIPTION:[Click here to join Zoom Meeting: 815 8968 5053] (https://asu.zoom.us/j/81589685053)
+DTEND:20250902T200000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250902T190000Z
+SUMMARY:PHY 202: Instructor Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1768162
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1768162
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250929
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/81589685053" target="_blank">Click here to join Zoom Meeting: 815 8968 5053</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Module 5: Homework [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633414
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633414
+DTSTAMP:20250820T184700Z
+DESCRIPTION:[Click here to join Zoom Meeting: 815 8968 5053] (https://asu.zoom.us/j/81589685053)
+DTEND:20250909T200000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250909T190000Z
+SUMMARY:PHY 202: Instructor Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1768163
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1768163
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20251003
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/81589685053" target="_blank">Click here to join Zoom Meeting: 815 8968 5053</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Module 6: Homework [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633415
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633415
+DTSTAMP:20250820T184700Z
+DESCRIPTION:[Click here to join Zoom Meeting: 815 8968 5053] (https://asu.zoom.us/j/81589685053)
+DTEND:20250916T200000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250916T190000Z
+SUMMARY:PHY 202: Instructor Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1768164
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1768164
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250825
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/81589685053" target="_blank">Click here to join Zoom Meeting: 815 8968 5053</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Read Module 1 [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633416
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633416
+DTSTAMP:20250820T184700Z
+DESCRIPTION:[Click here to join Zoom Meeting: 815 8968 5053] (https://asu.zoom.us/j/81589685053)
+DTEND:20250923T200000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250923T190000Z
+SUMMARY:PHY 202: Instructor Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1768165
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1768165
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250829
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/81589685053" target="_blank">Click here to join Zoom Meeting: 815 8968 5053</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Read Module 2 [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633417
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633417
+DTSTAMP:20250820T184700Z
+DESCRIPTION:[Click here to join Zoom Meeting: 815 8968 5053] (https://asu.zoom.us/j/81589685053)
+DTEND:20250930T200000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250930T190000Z
+SUMMARY:PHY 202: Instructor Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1768166
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1768166
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250926
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/81589685053" target="_blank">Click here to join Zoom Meeting: 815 8968 5053</a></p>
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
+DTSTAMP:20250820T184700Z
+DESCRIPTION:[Click here to join Zoom Meeting: 815 8968 5053] (https://asu.zoom.us/j/81589685053)
+DTEND:20251007T200000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20251007T190000Z
+SUMMARY:PHY 202: Instructor Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1768167
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#calendar_event_1768167
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/84224100077" target="_blank">Click here to join Zoom Meeting: 842 2410 0077</a></p>
+CLASS:PUBLIC
+DTSTAMP:20250820T210500Z
+DESCRIPTION:[Click here to join Zoom Meeting: 842 2410 0077] (https://asu.zoom.us/j/84224100077)
+DTEND:20250829T190000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250829T180000Z
+SUMMARY:TA Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1769564
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#calendar_event_1769564
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/84224100077" target="_blank">Click here to join Zoom Meeting: 842 2410 0077</a></p>
+CLASS:PUBLIC
+DTSTAMP:20250820T210500Z
+DESCRIPTION:[Click here to join Zoom Meeting: 842 2410 0077] (https://asu.zoom.us/j/84224100077)
+DTEND:20250905T190000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250905T180000Z
+SUMMARY:TA Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1769565
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1769565
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/84224100077" target="_blank">Click here to join Zoom Meeting: 842 2410 0077</a></p>
+CLASS:PUBLIC
+DTSTAMP:20250820T210500Z
+DESCRIPTION:[Click here to join Zoom Meeting: 842 2410 0077] (https://asu.zoom.us/j/84224100077)
+DTEND:20250912T190000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250912T180000Z
+SUMMARY:TA Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1769566
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1769566
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/84224100077" target="_blank">Click here to join Zoom Meeting: 842 2410 0077</a></p>
+CLASS:PUBLIC
+DTSTAMP:20250820T210500Z
+DESCRIPTION:[Click here to join Zoom Meeting: 842 2410 0077] (https://asu.zoom.us/j/84224100077)
+DTEND:20250919T190000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250919T180000Z
+SUMMARY:TA Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1769567
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1769567
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/84224100077" target="_blank">Click here to join Zoom Meeting: 842 2410 0077</a></p>
+CLASS:PUBLIC
+DTSTAMP:20250820T210500Z
+DESCRIPTION:[Click here to join Zoom Meeting: 842 2410 0077] (https://asu.zoom.us/j/84224100077)
+DTEND:20250926T190000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20250926T180000Z
+SUMMARY:TA Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1769568
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#calendar_event_1769568
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://asu.zoom.us/j/84224100077" target="_blank">Click here to join Zoom Meeting: 842 2410 0077</a></p>
+CLASS:PUBLIC
+DTSTAMP:20250820T210500Z
+DESCRIPTION:[Click here to join Zoom Meeting: 842 2410 0077] (https://asu.zoom.us/j/84224100077)
+DTEND:20251003T190000Z
+LOCATION:Zoom Online Meeting
+DTSTART:20251003T180000Z
+SUMMARY:TA Office Hour [2025FallA-X-PHY202-70369-70967]
+UID:event-calendar-event-1769569
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#calendar_event_1769569
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250924
+CLASS:PUBLIC
+DTSTAMP:20250820T183600Z
 SUMMARY:Read Module 5 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633420
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633420
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20251003
+DTSTART;VALUE=DATE:20251001
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
+DTSTAMP:20250820T183600Z
 SUMMARY:Read Module 6 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633421
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633421
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250912
+X-ALT-DESC;FMTTYPE=text/html:<div id="assignment_show" class="assignment content_underline_links" style="color: #2d3b45\; font-family: roboto\, sans-serif\; font-size: 16px\; font-style: normal\; text-align: start\; text-indent: 0px\; white-space: normal\; background-color: #ffffff\;">\n<div class="description user_content student-version enhanced" style="position: relative\; min-height: 260px\; max-width: 100%\;">\n<p style="margin: 12px 0px\;">Work through the <strong>Challenges</strong> and <strong>zyLabs</strong> in Chapters</p>\n<ul>\n<li>\n<p class="chapter-title">Module 1.1: Introduction to Python 3</p>\n</li>\n<li>\n<p class="chapter-title">Module 1.2: Data Types</p>\n</li>\n</ul>\n<p>in the zyBook.</p>\n<p><em>NOTE</em>: These Challenges and zyLabs are marked as <em>Module 1: Homework</em> in your zyBook. Points are automatically collected until the due date. The zyBook platform keeps collecting your points until the due date.</p>\n<p>Your solutions for a zyLab must be <em>submitted</em> inside the zyBook by the due date to be counted.</p>\n</div>\n</div>
+DTSTART;VALUE=DATE:20250830
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
+DTSTAMP:20250820T183500Z
+DESCRIPTION:Work through the Challenges and zyLabs in Chapters\n\n*\n\nModule 1.1: Introduction to Python 3\n\n*\n\nModule 1.2: Data Types\n\nin the zyBook.\n\nNOTE: These Challenges and zyLabs are marked as Module 1: Homework in your zyBook. Points are automatically collected until the due date. The zyBook platform keeps collecting your points until the due date.\n\nYour solutions for a zyLab must be submitted inside the zyBook by the due date to be counted.
+SUMMARY:Module 1: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633410
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633410
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250906
+CLASS:PUBLIC
+DTSTAMP:20250820T183500Z
+SUMMARY:Module 2: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633411
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633411
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250913
+CLASS:PUBLIC
+DTSTAMP:20250820T183500Z
+SUMMARY:Module 3: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633412
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633412
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250920
+CLASS:PUBLIC
+DTSTAMP:20250820T183500Z
+SUMMARY:Module 4: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633413
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633413
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250927
+CLASS:PUBLIC
+DTSTAMP:20250820T183600Z
+SUMMARY:Module 5: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633414
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633414
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251004
+CLASS:PUBLIC
+DTSTAMP:20250820T183600Z
+SUMMARY:Module 6: Homework [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633415
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=10&year=2025#assignment_6633415
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Work through Chapter&nbsp\;&nbsp\;<strong>Module 1.1: Introduction to Python 3 </strong>and<strong> Module 1.2: Data Types</strong> <span style="font-family: sans-serif\; font-size: 1rem\;">in the</span><span style="font-family: sans-serif\; font-size: 1rem\;"> zyBook</span><span style="font-family: sans-serif\; font-size: 1rem\;">.</span></p>\n<p>The zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.</p>\n<p><strong>You can and should work through the problems until you get them right! </strong>Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.</p>
+DTSTART;VALUE=DATE:20250827
+CLASS:PUBLIC
+DTSTAMP:20250820T183500Z
+DESCRIPTION:Work through Chapter  Module 1.1: Introduction to Python 3 and Module 1.2: Data Types in the zyBook.\n\nThe zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.\n\nYou can and should work through the problems until you get them right! Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.
+SUMMARY:Read Module 1 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633416
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=08&year=2025#assignment_6633416
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250903
+CLASS:PUBLIC
+DTSTAMP:20250820T183500Z
+SUMMARY:Read Module 2 [2025FallA-X-PHY202-70369-70967]
+UID:event-assignment-6633417
+URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633417
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250910
+CLASS:PUBLIC
+DTSTAMP:20250820T183500Z
 SUMMARY:Read Module 3 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633418
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633418
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250919
+DTSTART;VALUE=DATE:20250917
 CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
+DTSTAMP:20250820T183500Z
 SUMMARY:Read Module 4 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633419
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633419
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20250924
-CLASS:PUBLIC
-DTSTAMP:20250819T025300Z
-SUMMARY:Midterm Test/Project 2 [2025FallA-X-PHY202-70369-70967]
-UID:event-assignment-6633408
-URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633408
 END:VEVENT
 END:VCALENDAR
