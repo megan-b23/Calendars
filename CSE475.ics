@@ -23,9 +23,11 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=10&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<h3><strong><img id="67267016" src="https://canvas.asu.edu/courses/230279/files/111694137/preview" alt="ASUBanner.png" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230279/files/111694137" data-api-returntype="File" loading="lazy"></strong></h3>\n<h3><strong>Please use the link button below to activate this assignment in zyBooks.&nbsp\;</strong></h3>
 DTSTART;VALUE=DATE:20250905
 CLASS:PUBLIC
 DTSTAMP:20250818T172000Z
+DESCRIPTION:[ASUBanner.png] (https://canvas.asu.edu/courses/230279/files/111694137/preview)\n-------------------------------------------------------------------------------\n\nPlease use the link button below to activate this assignment in zyBooks. \n-------------------------------------------------------------------------
 SUMMARY:Module 1: [Basic Concepts] Machine Learning Basics zyBooks Activities [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431652
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431652
