@@ -266,7 +266,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<div id="assignment_show" class="assignment content_underline_links" style="color: #2d3b45\; font-family: roboto\, sans-serif\; font-size: 16px\; font-style: normal\; text-align: start\; text-indent: 0px\; white-space: normal\; background-color: #ffffff\;">\n<div class="description user_content student-version enhanced" style="position: relative\; min-height: 260px\; max-width: 100%\;">\n<p style="margin: 12px 0px\;">Work through the <strong>Challenges</strong> and <strong>zyLabs</strong> in Chapters</p>\n<ul>\n<li>\n<p class="chapter-title">Module 1.1: Introduction to Python 3</p>\n</li>\n<li>\n<p class="chapter-title">Module 1.2: Data Types</p>\n</li>\n</ul>\n<p>in the zyBook.</p>\n<p><em>NOTE</em>: These Challenges and zyLabs are marked as <em>Module 1: Homework</em> in your zyBook. Points are automatically collected until the due date. The zyBook platform keeps collecting your points until the due date.</p>\n<p>Your solutions for a zyLab must be <em>submitted</em> inside the zyBook by the due date to be counted.</p>\n</div>\n</div>
 DTSTART;VALUE=DATE:20250830
 CLASS:PUBLIC
-DTSTAMP:20250820T183500Z
+DTSTAMP:20250824T175500Z
 DESCRIPTION:Work through the Challenges and zyLabs in Chapters\n\n*\n\nModule 1.1: Introduction to Python 3\n\n*\n\nModule 1.2: Data Types\n\nin the zyBook.\n\nNOTE: These Challenges and zyLabs are marked as Module 1: Homework in your zyBook. Points are automatically collected until the due date. The zyBook platform keeps collecting your points until the due date.\n\nYour solutions for a zyLab must be submitted inside the zyBook by the due date to be counted.
 SUMMARY:Module 1: Homework [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633410
@@ -322,7 +322,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Work through Chapter&nbsp\;&nbsp\;<strong>Module 1.1: Introduction to Python 3 </strong>and<strong> Module 1.2: Data Types</strong> <span style="font-family: sans-serif\; font-size: 1rem\;">in the</span><span style="font-family: sans-serif\; font-size: 1rem\;"> zyBook</span><span style="font-family: sans-serif\; font-size: 1rem\;">.</span></p>\n<p>The zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.</p>\n<p><strong>You can and should work through the problems until you get them right! </strong>Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.</p>
 DTSTART;VALUE=DATE:20250827
 CLASS:PUBLIC
-DTSTAMP:20250820T183500Z
+DTSTAMP:20250824T175500Z
 DESCRIPTION:Work through Chapter  Module 1.1: Introduction to Python 3 and Module 1.2: Data Types in the zyBook.\n\nThe zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.\n\nYou can and should work through the problems until you get them right! Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.
 SUMMARY:Read Module 1 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633416
