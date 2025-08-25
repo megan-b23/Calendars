@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:icalendar-ruby
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz cover Bezier curves.</p>
 DTSTART;VALUE=DATE:20250921
 CLASS:PUBLIC
-DTSTAMP:20250811T202900Z
+DTSTAMP:20250825T070000Z
+DESCRIPTION:This quiz cover Bezier curves.
 SUMMARY:Quiz: Bezier Curves [2025FallC-T-CSE477-65059]
 UID:event-assignment-6365029
 URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year=2025#assignment_6365029
@@ -45,9 +47,11 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=11&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This is a quiz on the fundamentals of points\, vectors\, the parametric equation of a line\, and affine maps.&nbsp\;&nbsp\;</p>\n<p>Since this is your first quiz\, you are allowed two attempts. All future quizzes will be allowed one attempt.</p>
 DTSTART;VALUE=DATE:20250910
 CLASS:PUBLIC
-DTSTAMP:20250811T202400Z
+DTSTAMP:20250825T070000Z
+DESCRIPTION:This is a quiz on the fundamentals of points\, vectors\, the parametric equation of a line\, and affine maps.  \n\nSince this is your first quiz\, you are allowed two attempts. All future quizzes will be allowed one attempt.
 SUMMARY:Quiz: Geometry Basics [2025FallC-T-CSE477-65059]
 UID:event-assignment-6365022
 URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year=2025#assignment_6365022
@@ -76,9 +80,11 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=11&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>This quiz is on interpolation and approximation.</p>
 DTSTART;VALUE=DATE:20251005
 CLASS:PUBLIC
-DTSTAMP:20250630T213300Z
+DTSTAMP:20250825T070000Z
+DESCRIPTION:This quiz is on interpolation and approximation.
 SUMMARY:Quiz: Interpolation and Approximation [2025FallC-T-CSE477-65059]
 UID:event-assignment-6365027
 URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=10&year=2025#assignment_6365027
