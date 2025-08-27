@@ -266,7 +266,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<div id="assignment_show" class="assignment content_underline_links" style="color: #2d3b45\; font-family: roboto\, sans-serif\; font-size: 16px\; font-style: normal\; text-align: start\; text-indent: 0px\; white-space: normal\; background-color: #ffffff\;">\n<div class="description user_content student-version enhanced" style="position: relative\; min-height: 260px\; max-width: 100%\;">\n<p style="margin: 12px 0px\;">Work through the <strong>Challenges</strong> and <strong>zyLabs</strong> in Chapters</p>\n<ul>\n<li>\n<p class="chapter-title">Module 1.1: Introduction to Python 3</p>\n</li>\n<li>\n<p class="chapter-title">Module 1.2: Data Types</p>\n</li>\n</ul>\n<p>in the zyBook.</p>\n<p><em>NOTE</em>: These Challenges and zyLabs are marked as <em>Module 1: Homework</em> in your zyBook. Points are automatically collected until the due date. The zyBook platform keeps collecting your points until the due date.</p>\n<p>Your solutions for a zyLab must be <em>submitted</em> inside the zyBook by the due date to be counted.</p>\n</div>\n</div>
 DTSTART;VALUE=DATE:20250830
 CLASS:PUBLIC
-DTSTAMP:20250824T175500Z
+DTSTAMP:20250826T190500Z
 DESCRIPTION:Work through the Challenges and zyLabs in Chapters\n\n*\n\nModule 1.1: Introduction to Python 3\n\n*\n\nModule 1.2: Data Types\n\nin the zyBook.\n\nNOTE: These Challenges and zyLabs are marked as Module 1: Homework in your zyBook. Points are automatically collected until the due date. The zyBook platform keeps collecting your points until the due date.\n\nYour solutions for a zyLab must be submitted inside the zyBook by the due date to be counted.
 SUMMARY:Module 1: Homework [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633410
@@ -285,18 +285,22 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-version enhanced">\n<p>Work through the&nbsp\;<strong>Challenges</strong>&nbsp\;and&nbsp\;<strong>zyLabs</strong>&nbsp\;in Chapter</p>\n<ul>\n<li class="chapter-title"><strong>Module 3.1: Modular programming with functions and modules</strong></li>\n<li>\n<strong>Module 3.3: Errors and Exceptions</strong> (the "Squash the bug" zyLabs are short challenges that should hone your debugging skills)</li>\n</ul>\n<p>in the zyBook. (There are no homework assignments for the plotting chapter 3.2.)</p>\n<p><em>NOTE</em>: These Challenges and zyLabs are marked as&nbsp\;<em>Module 3: Homework</em>&nbsp\;in your zyBook. Points are automatically collected until the due date. You can work on the Challenges during your reading assignment and do the zyLabs later\, or work on them in any order. The zyBook platform simply keeps collecting your points until the due date.</p>\n<p>Your solutions for a zyLab must be&nbsp\;<em>submitted</em>&nbsp\;inside the zyBook by the due date to be counted.</p>\n</div>
 DTSTART;VALUE=DATE:20250913
 CLASS:PUBLIC
 DTSTAMP:20250820T183500Z
+DESCRIPTION:Work through the Challenges and zyLabs in Chapter\n\n* Module 3.1: Modular programming with functions and modules\n\n* Module 3.3: Errors and Exceptions (the "Squash the bug" zyLabs are short challenges that should hone your debugging skills)\n\nin the zyBook. (There are no homework assignments for the plotting chapter 3.2.)\n\nNOTE: These Challenges and zyLabs are marked as Module 3: Homework in your zyBook. Points are automatically collected until the due date. You can work on the Challenges during your reading assignment and do the zyLabs later\, or work on them in any order. The zyBook platform simply keeps collecting your points until the due date.\n\nYour solutions for a zyLab must be submitted inside the zyBook by the due date to be counted.
 SUMMARY:Module 3: Homework [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633412
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633412
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<div id="assignment_show" class="assignment content_underline_links" style="color: #2d3b45\; font-family: roboto\, sans-serif\; font-size: 16px\; font-style: normal\; text-align: start\; text-indent: 0px\; white-space: normal\; background-color: #ffffff\;">\n<div class="description user_content student-version enhanced" style="position: relative\; min-height: 260px\; max-width: 100%\;">\n<p>Work through the&nbsp\;<strong>Challenges</strong>&nbsp\;and&nbsp\;<strong>zyLabs</strong> in Chapter<strong></strong></p>\n<ul>\n<li class="chapter-title"><strong>Module 4.1: Classes</strong></li>\n<li class="chapter-title">\n<strong></strong><strong>Module 4.2: Numpy </strong>(zyLabs marked as "CHALLENGES" are the homework)</li>\n</ul>\n<p>in the zyBook.</p>\n<p><em>NOTE</em>: These Challenges and zyLabs are marked as&nbsp\;<em>Module 4: Homework</em>&nbsp\;in your zyBook. Points are automatically collected until the due date. You can work on the Challenges during your reading assignment and do the zyLabs later\, or work on them in any order. The zyBook platform simply keeps collecting your points until the due date.</p>\n<p>Your solutions for a zyLab must be&nbsp\;<em>submitted</em>&nbsp\;inside the zyBook by the due date to be counted.</p>\n</div>\n</div>
 DTSTART;VALUE=DATE:20250920
 CLASS:PUBLIC
 DTSTAMP:20250820T183500Z
+DESCRIPTION:Work through the Challenges and zyLabs in Chapter\n\n* Module 4.1: Classes\n\n* Module 4.2: Numpy (zyLabs marked as "CHALLENGES" are the homework)\n\nin the zyBook.\n\nNOTE: These Challenges and zyLabs are marked as Module 4: Homework in your zyBook. Points are automatically collected until the due date. You can work on the Challenges during your reading assignment and do the zyLabs later\, or work on them in any order. The zyBook platform simply keeps collecting your points until the due date.\n\nYour solutions for a zyLab must be submitted inside the zyBook by the due date to be counted.
 SUMMARY:Module 4: Homework [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633413
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633413
@@ -324,7 +328,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Work through Chapter&nbsp\;&nbsp\;<strong>Module 1.1: Introduction to Python 3 </strong>and<strong> Module 1.2: Data Types</strong> <span style="font-family: sans-serif\; font-size: 1rem\;">in the</span><span style="font-family: sans-serif\; font-size: 1rem\;"> zyBook</span><span style="font-family: sans-serif\; font-size: 1rem\;">.</span></p>\n<p>The zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.</p>\n<p><strong>You can and should work through the problems until you get them right! </strong>Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.</p>
 DTSTART;VALUE=DATE:20250827
 CLASS:PUBLIC
-DTSTAMP:20250824T175500Z
+DTSTAMP:20250826T190500Z
 DESCRIPTION:Work through Chapter  Module 1.1: Introduction to Python 3 and Module 1.2: Data Types in the zyBook.\n\nThe zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.\n\nYou can and should work through the problems until you get them right! Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.
 SUMMARY:Read Module 1 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633416
@@ -343,18 +347,22 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<div class="description user_content teacher-version enhanced">\n<p>Work through Chapters</p>\n<ul>\n<li><strong>Module 3.1: Modular programming with functions</strong></li>\n<li><strong>Module 3.2: Plotting</strong></li>\n<li><strong>Module 3.3: Errors and Exceptions </strong></li>\n</ul>\n<p>in the zyBook. The zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.</p>\n<p><strong>You can and should work through the problems until you get them right!&nbsp\;</strong>Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.</p>\n</div>
 DTSTART;VALUE=DATE:20250910
 CLASS:PUBLIC
 DTSTAMP:20250820T183500Z
+DESCRIPTION:Work through Chapters\n\n* Module 3.1: Modular programming with functions\n\n* Module 3.2: Plotting\n\n* Module 3.3: Errors and Exceptions\n\nin the zyBook. The zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.\n\nYou can and should work through the problems until you get them right! Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.
 SUMMARY:Read Module 3 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633418
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633418
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Work through Chapters&nbsp\;</p>\n<ul>\n<li>\n<p><strong>Module 4.1: Classes and object-oriented programming</strong><strong></strong></p>\n</li>\n<li>\n<p class="chapter-title"><strong>Module 4.2: Numerical computation with NumPy arrays<br></strong></p>\n</li>\n</ul>\n<p>in the&nbsp\;zyBook.</p>\n<p>The zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.</p>\n<p><strong>You can and should work through the problems until you get them right!&nbsp\;</strong>Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.</p>
 DTSTART;VALUE=DATE:20250917
 CLASS:PUBLIC
 DTSTAMP:20250820T183500Z
+DESCRIPTION:Work through Chapters \n\n*\n\nModule 4.1: Classes and object-oriented programming\n\n*\n\nModule 4.2: Numerical computation with NumPy arrays\n\nin the zyBook.\n\nThe zyBook indicates that reading is part of an assignment and will automatically collect your points until the deadline.\n\nYou can and should work through the problems until you get them right! Getting 100% on the reading assignments is always doable and you will learn from mistakes that you correct yourself.
 SUMMARY:Read Module 4 [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633419
 URL:https://canvas.asu.edu/calendar?include_contexts=course_236051&month=09&year=2025#assignment_6633419
