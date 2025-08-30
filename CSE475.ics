@@ -14,19 +14,37 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=08&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20251017
+DTSTART;VALUE=DATE:20250912
 CLASS:PUBLIC
-DTSTAMP:20250818T002000Z
-SUMMARY:Module 12 ICE Activity: Recurrent Neural Network [2025FallC-X-CSE475-77916-77919]
-UID:event-assignment-6431639
-URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=10&year=2025#assignment_6431639
+DTSTAMP:20250827T212700Z
+SUMMARY:Module 4: Quiz [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431604
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431604
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250905
+CLASS:PUBLIC
+DTSTAMP:20250827T212500Z
+SUMMARY:Module 1: Quiz [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431586
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431586
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250905
+CLASS:PUBLIC
+DTSTAMP:20250827T212700Z
+SUMMARY:Module 2: Quiz  [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431591
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431591
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<h3><strong><img id="67267016" src="https://canvas.asu.edu/courses/230279/files/111694137/preview" alt="ASUBanner.png" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230279/files/111694137" data-api-returntype="File" loading="lazy"></strong></h3>\n<h3><strong>Please use the link button below to activate this assignment in zyBooks.&nbsp\;</strong></h3>
 DTSTART;VALUE=DATE:20250905
 CLASS:PUBLIC
-DTSTAMP:20250818T172000Z
+DTSTAMP:20250828T054400Z
 DESCRIPTION:[ASUBanner.png] (https://canvas.asu.edu/courses/230279/files/111694137/preview)\n-------------------------------------------------------------------------------\n\nPlease use the link button below to activate this assignment in zyBooks. \n-------------------------------------------------------------------------
 SUMMARY:Module 1: [Basic Concepts] Machine Learning Basics zyBooks Activities [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431652
@@ -42,5 +60,45 @@ DESCRIPTION:Please go through the video provided in Module 0 : Introduction to C
 SUMMARY:Module 0: Quiz [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6668752
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=08&year=2025#assignment_6668752
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<h3><strong><img id="67267016" src="https://canvas.asu.edu/courses/230279/files/111694137/preview" alt="ASUBanner.png" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230279/files/111694137" data-api-returntype="File" loading="lazy"></strong></h3>\n<h3><strong>Please use the link button below to activate this assignment in zyBooks.&nbsp\;</strong></h3>
+DTSTART;VALUE=DATE:20250905
+CLASS:PUBLIC
+DTSTAMP:20250827T212700Z
+DESCRIPTION:[ASUBanner.png] (https://canvas.asu.edu/courses/230279/files/111694137/preview)\n-------------------------------------------------------------------------------\n\nPlease use the link button below to activate this assignment in zyBooks. \n-------------------------------------------------------------------------
+SUMMARY:Module 2: [Basic Concepts] Data and Features zyBooks Activities [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431656
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431656
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<h3><strong><img id="67267016" src="https://canvas.asu.edu/courses/230279/files/111694137/preview" alt="ASUBanner.png" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230279/files/111694137" data-api-returntype="File" loading="lazy"></strong></h3>\n<h3><strong>Please use the link button below to activate this assignment in zyBooks.&nbsp\;</strong></h3>
+DTSTART;VALUE=DATE:20250912
+CLASS:PUBLIC
+DTSTAMP:20250827T212700Z
+DESCRIPTION:[ASUBanner.png] (https://canvas.asu.edu/courses/230279/files/111694137/preview)\n-------------------------------------------------------------------------------\n\nPlease use the link button below to activate this assignment in zyBooks. \n-------------------------------------------------------------------------
+SUMMARY:Module 3: [Basic Concepts] Basic Supervised Classification with a Decision Tree zyBooks Activities [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431657
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431657
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250912
+CLASS:PUBLIC
+DTSTAMP:20250827T212700Z
+SUMMARY:Module 4: [Basic Concepts] Preparing a Model for Deployment zyBooks Activities [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431658
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431658
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250912
+CLASS:PUBLIC
+DTSTAMP:20250827T212700Z
+SUMMARY:Module 3: Quiz [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431621
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431621
 END:VEVENT
 END:VCALENDAR

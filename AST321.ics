@@ -4,9 +4,9 @@ PRODID:icalendar-ruby
 BEGIN:VEVENT
 SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<h2>Cooperative Problem Solving Exercise Overview</h2>\n<p>These will be problem sets on a two-week cycle. This is your first problem set\, <a class="instructure_file_link instructure_scribd_file inline_disabled" title="ge-1-25.pdf" href="https://canvas.asu.edu/courses/230313/files/113220599?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230313/files/113220599" data-api-returntype="File">ge-1-25.pdf</a></p>\n<p>During the first week of each cycle\, the current problem set will be completed individually\, and graded for completion.</p>\n<p>During the second week\, you will redo in the problem set together with a small group of students\, and turn in a single copy together. This will be graded for accuracy. Only one copy should be turned in\, but all members of the group must sign off on it.</p>\n<p>Each student will be assigned to a random small group for each homework. Check the <a title="People" href="https://canvas.asu.edu/courses/230313/users">People</a> tab on the course menu to see the group you have been assigned to each week\, these groups will change each week.</p>\n<p><span style="font-family: inherit\; font-size: 1.8em\; color: var(--ic-brand-font-color-dark)\;">Instructions</span></p>\n<p>Each student will upload their individual solutions to Canvas.<span>&nbsp\;</span><strong>Uploads MUST be in PDF or another standard image format (jpg\, gif\, png) or as Google Docs. Word documents or other formats will not be accepted.</strong><span class="Apple-converted-space">&nbsp\;</span><strong><span class="Apple-converted-space"><span>&nbsp\;</span></span></strong>Individual solutions must be uploaded one week after being assigned. These solution sets will be graded for completion. You <em>must show all your work</em> to receive credit\, regardless of whether the final answer is correct. <span>When turning in homework\, please include your name in the filename. If you need multiple images for the homework\, please combine them into one file.</span></p>\n<p>Completion of individual submissions and accuracy of group submissions will each be 50% of the final problem set grade. A student must have a non-zero completion grade to receive credit for the converged solution.</p>\n<p><em><strong>Individual Submission (Graded on completion\, typically due one week from the opening date)</strong></em></p>\n<p>Group Submission (Graded on the accuracy\, due one week from the due date of individual submissions)</p>\n<h3>Next Steps</h3>\n<p>During the second week\, students in each group will produce a single converged solution set. This solution set will be graded for accuracy.<span class="Apple-converted-space">&nbsp\;<span>&nbsp\;</span></span>All students in the group must sign off that all members of the group participated in discussing the final solution to get credit. If a student strongly objects to the accuracy of the agreed-upon solution\, they may submit their own version\, which will be graded separately.</p>\n<p>Students are to discuss\, ask questions\, and collaborate on the final set of solutions. Groups can adopt any communication method they choose\, for example in-person\, Slack\, or Discord.</p>\n<p>Students must review the final set of solutions and include in the final document a statement that “Yes” they agree with this final solution to the problems or they can post “No” and upload their “dissenting” problem set.<span class="Apple-converted-space">&nbsp\;<span>&nbsp\;</span></span>Students must also state “Yes” or “No” that each group member engaged in the problems solving process.</p>\n<p>In the group exercise assignment link\, each student group will upload one final problem set to Canvas.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-DTSTART;VALUE=DATE:20250828
+DTSTART;VALUE=DATE:20250829
 CLASS:PUBLIC
-DTSTAMP:20250821T070000Z
+DTSTAMP:20250827T220100Z
 DESCRIPTION:---------------------------------------------\nCooperative Problem Solving Exercise Overview\n---------------------------------------------\n\nThese will be problem sets on a two-week cycle. This is your first problem set\, [ge-1-25.pdf] (https://canvas.asu.edu/courses/230313/files/113220599?wrap=1)\n\nDuring the first week of each cycle\, the current problem set will be completed individually\, and graded for completion.\n\nDuring the second week\, you will redo in the problem set together with a small group of students\, and turn in a single copy together. This will be graded for accuracy. Only one copy should be turned in\, but all members of the group must sign off on it.\n\nEach student will be assigned to a random small group for each homework. Check the [People] (https://canvas.asu.edu/courses/230313/users) tab on the course menu to see the group you have been assigned to each week\, these groups will change each week.\n\nInstructions\n\nEach student will upload their individual solutions to Canvas. Uploads MUST be in PDF or another standard image format (jpg\, gif\, png) or as Google Docs. Word documents or other formats will not be accepted.  Individual solutions must be uploaded one week after being assigned. These solution sets will be graded for completion. You must show all your work to receive credit\, regardless of whether the final answer is correct. When turning in homework\, please include your name in the filename. If you need multiple images for the homework\, please combine them into one file.\n\nCompletion of individual submissions and accuracy of group submissions will each be 50% of the final problem set grade. A student must have a non-zero completion grade to receive credit for the converged solution.\n\nIndividual Submission (Graded on completion\, typically due one week from the opening date)\n\nGroup Submission (Graded on the accuracy\, due one week from the due date of individual submissions)\n\nNext Steps\n----------\n\nDuring the second week\, students in each group will produce a single converged solution set. This solution set will be graded for accuracy.  All students in the group must sign off that all members of the group participated in discussing the final solution to get credit. If a student strongly objects to the accuracy of the agreed-upon solution\, they may submit their own version\, which will be graded separately.\n\nStudents are to discuss\, ask questions\, and collaborate on the final set of solutions. Groups can adopt any communication method they choose\, for example in-person\, Slack\, or Discord.\n\nStudents must review the final set of solutions and include in the final document a statement that “Yes” they agree with this final solution to the problems or they can post “No” and upload their “dissenting” problem set.  Students must also state “Yes” or “No” that each group member engaged in the problems solving process.\n\nIn the group exercise assignment link\, each student group will upload one final problem set to Canvas.\n\n \n\n 
 SUMMARY:Individual Exercise 1 [2025FallC-T-AST321-62320]
 UID:event-assignment-6432504
@@ -35,7 +35,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<ol>\n<ol>\n<li>\n<span>&nbsp\;G</span><span>o to <a class="external" href="https://scratch.mit.edu" target="_blank">https://scratch.mit.edu<span class="screenreader-only">&nbsp\;(Links to an external site.)</span></a></span>\n</li>\n<li><span>Click on “Start Creating”</span></li>\n<li><span>&nbsp\;Follow through any of the tutorials that interest you.</span></li>\n<li><span>&nbsp\;Using the pen up/pen down command\, have your avatar draw a square. To access the pen commands\, click on the "add an extension" button in the lower left corner of your screen.</span></li>\n</ol>\n</ol>\n<p><span>Take a screenshot of your completed square drawing and send it to receive credit for the exercise. This can be a jpeg&nbsp\;or similar image file.</span></p>
 DTSTART;VALUE=DATE:20250828
 CLASS:PUBLIC
-DTSTAMP:20250821T070000Z
+DTSTAMP:20250829T225300Z
 DESCRIPTION:*  Go to [https://scratch.mit.edu (Links to an external site.)] (https://scratch.mit.edu)\n\n* Click on “Start Creating”\n\n*  Follow through any of the tutorials that interest you.\n\n*  Using the pen up/pen down command\, have your avatar draw a square. To access the pen commands\, click on the "add an extension" button in the lower left corner of your screen.\n\nTake a screenshot of your completed square drawing and send it to receive credit for the exercise. This can be a jpeg or similar image file.
 SUMMARY:Coding Exercise 1 [2025FallC-T-AST321-62320]
 UID:event-assignment-6432490
@@ -70,9 +70,11 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Coding exercise 2 gets you started with python. If you have not used python before\, I suggest using Google Colab (<a class="external" href="http://colab.research.google.com" target="_blank"><span>http://colab.research.google.com</span><span class="external_link_icon" role="presentation"><span class="screenreader-only">Links to an external site.</span></span></a>)&nbsp\;as an editor and interface. You can open a notebook where&nbsp\;you can create a python code and run it using their servers\, so you do not have to install anything on your computer. If you wish to install python\, I suggest installing the anaconda python distribution\, which comes with several interpreters including jupyter\, according to their directions\, but it is not necessary. It will improve performance\, and you do not have to worry about your session being terminated if you lose connectivity or take a break. If you already use a different python distribution\, you are welcome to use that.</p>\n<p>Attached is a python notebook with a syntax primer and some simple example exercises with example bits of code: <a class="instructure_file_link inline_disabled" title="Intro_To_Python_AST321_2024-1.ipynb" href="https://canvas.asu.edu/courses/230313/files/112712647?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230313/files/112712647" data-api-returntype="File">Intro_To_Python_AST321_2024-1.ipynb</a>&nbsp\;There are links to additional tutorials at the end of the notebook.</p>\n<p>For your assignment\, read and work through the examples in the python notebook. Save the notebook and upload it to canvas for credit.</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 DTSTART;VALUE=DATE:20250911
 CLASS:PUBLIC
-DTSTAMP:20250813T204500Z
+DTSTAMP:20250828T070000Z
+DESCRIPTION:Coding exercise 2 gets you started with python. If you have not used python before\, I suggest using Google Colab ([http://colab.research.google.comLinks to an external site.] (http://colab.research.google.com)) as an editor and interface. You can open a notebook where you can create a python code and run it using their servers\, so you do not have to install anything on your computer. If you wish to install python\, I suggest installing the anaconda python distribution\, which comes with several interpreters including jupyter\, according to their directions\, but it is not necessary. It will improve performance\, and you do not have to worry about your session being terminated if you lose connectivity or take a break. If you already use a different python distribution\, you are welcome to use that.\n\nAttached is a python notebook with a syntax primer and some simple example exercises with example bits of code: [Intro_To_Python_AST321_2024-1.ipynb] (https://canvas.asu.edu/courses/230313/files/112712647?wrap=1) There are links to additional tutorials at the end of the notebook.\n\nFor your assignment\, read and work through the examples in the python notebook. Save the notebook and upload it to canvas for credit.\n\n \n\n \n\n 
 SUMMARY:Coding exercise 2 [2025FallC-T-AST321-62320]
 UID:event-assignment-6432494
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=09&year=2025#assignment_6432494
@@ -248,6 +250,15 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=11&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+DTSTART;VALUE=DATE:20251030
+CLASS:PUBLIC
+DTSTAMP:20250729T191000Z
+SUMMARY:Group exercise 5 [2025FallC-T-AST321-62320]
+UID:event-assignment-6432501
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432501
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 DTSTART;VALUE=DATE:20251113
 CLASS:PUBLIC
 DTSTAMP:20250729T191000Z
@@ -305,7 +316,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<h2>Hello Students!</h2>\n<p>Please fill out the getting to know you survey in the first couple of days of the class. You will receive a grade for completion.&nbsp\;</p>\n<p>If you have any questions as you begin to fill this out\, please email me <a href="mailto:pyoung3@asu.edu" target="_blank">pyoung3@asu.edu</a>.</p>\n<p>&nbsp\;</p>
 DTSTART;VALUE=DATE:20250828
 CLASS:PUBLIC
-DTSTAMP:20250821T070000Z
+DTSTAMP:20250829T225400Z
 DESCRIPTION:---------------\nHello Students!\n---------------\n\nPlease fill out the getting to know you survey in the first couple of days of the class. You will receive a grade for completion. \n\nIf you have any questions as you begin to fill this out\, please email me [pyoung3@asu.edu] (mailto:pyoung3@asu.edu).\n\n 
 SUMMARY:Getting to know you survey [2025FallC-T-AST321-62320]
 UID:event-assignment-6432475
@@ -315,7 +326,7 @@ BEGIN:VEVENT
 SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Muddiest Point #1</p>\n<p>Write a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.</p>\n<p>&nbsp\;</p>
 CLASS:PUBLIC
-DTSTAMP:20250729T190900Z
+DTSTAMP:20250829T225400Z
 DESCRIPTION:Muddiest Point #1\n\nWrite a question about the most confusing point or a topic you would like to learn about in more detail from the lectures. If this duplicates a question already submitted\, add a comment to that question.\n\n 
 DTEND:20250826T000000Z
 DTSTART:20250826T000000Z
@@ -367,14 +378,5 @@ DTSTAMP:20250729T191000Z
 SUMMARY:Group exercise 4 [2025FallC-T-AST321-62320]
 UID:event-assignment-6432500
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432500
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
-DTSTART;VALUE=DATE:20251030
-CLASS:PUBLIC
-DTSTAMP:20250729T191000Z
-SUMMARY:Group exercise 5 [2025FallC-T-AST321-62320]
-UID:event-assignment-6432501
-URL:https://canvas.asu.edu/calendar?include_contexts=course_230313&month=10&year=2025#assignment_6432501
 END:VEVENT
 END:VCALENDAR
