@@ -23,18 +23,20 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250905
 CLASS:PUBLIC
-DTSTAMP:20250827T212500Z
+DTSTAMP:20250830T070000Z
 SUMMARY:Module 1: Quiz [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431586
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431586
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250905
 CLASS:PUBLIC
-DTSTAMP:20250827T212700Z
+DTSTAMP:20250830T070000Z
 SUMMARY:Module 2: Quiz  [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431591
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431591
