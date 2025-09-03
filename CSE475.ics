@@ -68,7 +68,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<h3><strong><img id="67267016" src="https://canvas.asu.edu/courses/230279/files/111694137/preview" alt="ASUBanner.png" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230279/files/111694137" data-api-returntype="File" loading="lazy"></strong></h3>\n<h3><strong>Please use the link button below to activate this assignment in zyBooks.&nbsp\;</strong></h3>
 DTSTART;VALUE=DATE:20250905
 CLASS:PUBLIC
-DTSTAMP:20250827T212700Z
+DTSTAMP:20250902T043700Z
 DESCRIPTION:[ASUBanner.png] (https://canvas.asu.edu/courses/230279/files/111694137/preview)\n-------------------------------------------------------------------------------\n\nPlease use the link button below to activate this assignment in zyBooks. \n-------------------------------------------------------------------------
 SUMMARY:Module 2: [Basic Concepts] Data and Features zyBooks Activities [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431656
@@ -79,7 +79,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<h3><strong><img id="67267016" src="https://canvas.asu.edu/courses/230279/files/111694137/preview" alt="ASUBanner.png" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/230279/files/111694137" data-api-returntype="File" loading="lazy"></strong></h3>\n<h3><strong>Please use the link button below to activate this assignment in zyBooks.&nbsp\;</strong></h3>
 DTSTART;VALUE=DATE:20250912
 CLASS:PUBLIC
-DTSTAMP:20250827T212700Z
+DTSTAMP:20250902T043900Z
 DESCRIPTION:[ASUBanner.png] (https://canvas.asu.edu/courses/230279/files/111694137/preview)\n-------------------------------------------------------------------------------\n\nPlease use the link button below to activate this assignment in zyBooks. \n-------------------------------------------------------------------------
 SUMMARY:Module 3: [Basic Concepts] Basic Supervised Classification with a Decision Tree zyBooks Activities [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431657
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SEQUENCE:0
 DTSTART;VALUE=DATE:20250912
 CLASS:PUBLIC
-DTSTAMP:20250827T212700Z
+DTSTAMP:20250902T044200Z
 SUMMARY:Module 4: [Basic Concepts] Preparing a Model for Deployment zyBooks Activities [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431658
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431658
@@ -102,5 +102,23 @@ DTSTAMP:20250827T212700Z
 SUMMARY:Module 3: Quiz [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431621
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431621
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250919
+CLASS:PUBLIC
+DTSTAMP:20250901T183700Z
+SUMMARY:Unit 1 Lab 1: Basics of Dataframes [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431668
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431668
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250919
+CLASS:PUBLIC
+DTSTAMP:20250901T183700Z
+SUMMARY:Unit 1 Lab 2: Decision Trees Exercise [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431669
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431669
 END:VEVENT
 END:VCALENDAR
