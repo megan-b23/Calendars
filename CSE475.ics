@@ -14,15 +14,6 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=08&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250912
-CLASS:PUBLIC
-DTSTAMP:20250827T212700Z
-SUMMARY:Module 4: Quiz [2025FallC-X-CSE475-77916-77919]
-UID:event-assignment-6431604
-URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431604
-END:VEVENT
-BEGIN:VEVENT
-SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250905
 CLASS:PUBLIC
