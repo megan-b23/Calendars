@@ -14,6 +14,24 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=08&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+DTSTART;VALUE=DATE:20250912
+CLASS:PUBLIC
+DTSTAMP:20250906T070000Z
+SUMMARY:Module 4: Quiz [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431604
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431604
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250919
+CLASS:PUBLIC
+DTSTAMP:20250901T183700Z
+SUMMARY:Unit 1 Lab 1: Basics of Dataframes [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431668
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431668
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250905
 CLASS:PUBLIC
@@ -87,21 +105,31 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:
 DTSTART;VALUE=DATE:20250912
 CLASS:PUBLIC
-DTSTAMP:20250827T212700Z
+DTSTAMP:20250906T070000Z
 SUMMARY:Module 3: Quiz [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431621
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431621
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
-DTSTART;VALUE=DATE:20250919
+DTSTART;VALUE=DATE:20251205
 CLASS:PUBLIC
-DTSTAMP:20250901T183700Z
-SUMMARY:Unit 1 Lab 1: Basics of Dataframes [2025FallC-X-CSE475-77916-77919]
-UID:event-assignment-6431668
-URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431668
+DTSTAMP:20250906T051600Z
+SUMMARY:Unit 1 CE Activities [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431667
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=12&year=2025#assignment_6431667
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251205
+CLASS:PUBLIC
+DTSTAMP:20250906T052100Z
+SUMMARY:Unit 2 CE Activities [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431670
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=12&year=2025#assignment_6431670
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
@@ -111,5 +139,23 @@ DTSTAMP:20250901T183700Z
 SUMMARY:Unit 1 Lab 2: Decision Trees Exercise [2025FallC-X-CSE475-77916-77919]
 UID:event-assignment-6431669
 URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=09&year=2025#assignment_6431669
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251010
+CLASS:PUBLIC
+DTSTAMP:20250906T051600Z
+SUMMARY:Unit 2 Lab 1: Linear Regression [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431672
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=10&year=2025#assignment_6431672
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20251010
+CLASS:PUBLIC
+DTSTAMP:20250906T051700Z
+SUMMARY:Unit 2 Lab 2: Random Forests [2025FallC-X-CSE475-77916-77919]
+UID:event-assignment-6431673
+URL:https://canvas.asu.edu/calendar?include_contexts=course_230279&month=10&year=2025#assignment_6431673
 END:VEVENT
 END:VCALENDAR

@@ -6,7 +6,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>Read the <a href="https://provost.asu.edu/academic-integrity/policy" target="_blank">ASU Student Academic Policy</a> and then submit this agreement.</p>\n<p>(If you don't score at least 40 points by the due date\, the subsequent modules will not unlock for you.)</p>
 DTSTART;VALUE=DATE:20250825
 CLASS:PUBLIC
-DTSTAMP:20250819T165400Z
+DTSTAMP:20250906T044400Z
 DESCRIPTION:Read the [ASU Student Academic Policy] (https://provost.asu.edu/academic-integrity/policy) and then submit this agreement.\n\n(If you don't score at least 40 points by the due date\, the subsequent modules will not unlock for you.)
 SUMMARY:Module 0: Academic Integrity Agreement [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633403
@@ -17,7 +17,7 @@ SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>This course will go by quickly. &nbsp\;Do you know what is expected of you this class? Take the Syllabus Quiz to find out.&nbsp\;</p>\n<p><strong>Note:</strong>&nbsp\;You can take the&nbsp\;<strong>Syllabus Quiz</strong> as many times as needed to earn 100%\, but you must complete it by the due date. (If you don't score at least 1 point by the due date\, the subsequent modules will not unlock for you.)</p>
 DTSTART;VALUE=DATE:20250825
 CLASS:PUBLIC
-DTSTAMP:20250904T005400Z
+DTSTAMP:20250906T044400Z
 DESCRIPTION:This course will go by quickly.  Do you know what is expected of you this class? Take the Syllabus Quiz to find out. \n\nNote: You can take the Syllabus Quiz as many times as needed to earn 100%\, but you must complete it by the due date. (If you don't score at least 1 point by the due date\, the subsequent modules will not unlock for you.)
 SUMMARY:Module 0: Syllabus Quiz [2025FallA-X-PHY202-70369-70967]
 UID:event-assignment-6633404
