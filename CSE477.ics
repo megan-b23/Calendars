@@ -14,6 +14,17 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+X-ALT-DESC;FMTTYPE=text/html:<p>Please download<a class="instructure_file_link inline_disabled" title="HW1_RollerCoaster.nb" href="https://canvas.asu.edu/courses/227378/files/110764919?wrap=1" target="_blank" data-api-endpoint="https://canvas.asu.edu/api/v1/courses/227378/files/110764919" data-api-returntype="File"> HW1_RollerCoaster.nb</a> and follow the instructions within.</p>\n<p>&nbsp\;</p>\n<p><span style="text-decoration: underline\;">Affine map to map car to roller coaster</span><br>Evaluate the tangent and the second derivative at a point on the curve. Make these vectors 3D. Normalize them\, taking care to not divide by zero. Form the binormal vector. Take care that this is not the zero vector. Define an "up" direction. (I chose the opposite side of the second derivative.) Construct the rotation matrix that will rotate the car (centered at the origin) to align with the tangent and up vector. Apply rotation and translation to move the car onto the track.<br>Details will be explained in class.</p>
+DTSTART;VALUE=DATE:20250922
+CLASS:PUBLIC
+DTSTAMP:20250910T160000Z
+DESCRIPTION:Please download[ HW1_RollerCoaster.nb] (https://canvas.asu.edu/courses/227378/files/110764919?wrap=1) and follow the instructions within.\n\n \n\nAffine map to map car to roller coaster\nEvaluate the tangent and the second derivative at a point on the curve. Make these vectors 3D. Normalize them\, taking care to not divide by zero. Form the binormal vector. Take care that this is not the zero vector. Define an "up" direction. (I chose the opposite side of the second derivative.) Construct the rotation matrix that will rotate the car (centered at the origin) to align with the tangent and up vector. Apply rotation and translation to move the car onto the track.\nDetails will be explained in class.
+SUMMARY:HW #1 Roller Coaster -- Whee! [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365039
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year=2025#assignment_6365039
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>This quiz material in Chapter 12 Composite Surfaces:</p>\n<ul>\n<li>B-spline surfaces\,</li>\n<li>approximation with B-spline surfaces\,</li>\n<li>subdivision curves\, and</li>\n<li>subdivision surfaces.</li>\n</ul>
 DTSTART;VALUE=DATE:20251205
 CLASS:PUBLIC
