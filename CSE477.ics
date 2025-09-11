@@ -69,6 +69,16 @@ URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year
 END:VEVENT
 BEGIN:VEVENT
 SEQUENCE:0
+CLASS:PUBLIC
+DTSTAMP:20250911T205600Z
+DTEND:20251008T184500Z
+DTSTART:20251008T184500Z
+SUMMARY:Midterm - Requires Respondus LockDown Browser + Webcam [2025FallC-T-CSE477-65059]
+UID:event-assignment-6365023
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=10&year=2025#assignment_6365023
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
 X-ALT-DESC;FMTTYPE=text/html:<p>This is quiz covers Bezier surfaces.</p>
 DTSTART;VALUE=DATE:20251026
 CLASS:PUBLIC
@@ -120,5 +130,14 @@ DTSTART:20251127T065800Z
 SUMMARY:3D Print Post [2025FallC-T-CSE477-65059]
 UID:event-assignment-6365031
 URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=11&year=2025#assignment_6365031
+END:VEVENT
+BEGIN:VEVENT
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250929
+CLASS:PUBLIC
+DTSTAMP:20250911T212000Z
+SUMMARY:Quiz: Practice - Requires Respondus LockDown Browser + Webcam  (Closes on 9/29) [2025FallC-T-CSE477-65059]
+UID:event-assignment-6717667
+URL:https://canvas.asu.edu/calendar?include_contexts=course_227378&month=09&year=2025#assignment_6717667
 END:VEVENT
 END:VCALENDAR
